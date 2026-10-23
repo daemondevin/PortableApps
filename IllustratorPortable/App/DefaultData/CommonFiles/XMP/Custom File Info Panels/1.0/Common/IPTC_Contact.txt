@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!-- (c) 2005 Adobe Systems Incorporated. All rights reserved. -->
+<!DOCTYPE panel SYSTEM "http://ns.adobe.com/custompanels/1.0">
+
+<panel title="$$$/iptc/core/contactinfo=IPTC Contact" version="1" type="custom_panel">
+
+	group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{
+		
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/howto=Use this panel to record the photographer^}s contact information.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/creator=Creator', font: font_big_right, vertical: align_center);
+			cat_container_edit_text(xmp_path: 'Authors', container_type: seq_struct, horizontal: align_fill);
+			mru_popup(xmp_path: 'Authors', no_check: true, vertical: align_top, container_type: seq_struct, mru_append: true);
+			}
+	
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/creatorJobTitle=Creator^}s Job Title', font: font_big_right, vertical: align_center);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'AuthorsPosition', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'AuthorsPosition', no_check: true, vertical: align_top, mru_append: true);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/addresslines=Address', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiAdrExtadr', container_type: seq_struct, v_scroller: true, preserve_commas: false, horizontal: align_fill, horizontal: align_fill, height: 60);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/city=City', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiAdrCity', horizontal: align_fill);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/state=State/Province', font: font_big_right, vertical: align_top);
+			edit_text(horizontal: align_fill, xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiAdrRegion');
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/postalcode=Postal Code', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiAdrPcode', width: 175, max_chars: 20);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/country=Country', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiAdrCtry', horizontal: align_fill);
+			}
+			
+			separator(height: 10, width: 485, horizontal: align_fill);
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/phone=Phone(s)', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiTelWork', v_scroller: true, horizontal: align_fill, height: 40);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/email=E-Mail(s)', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiEmailWork', v_scroller: true, horizontal: align_fill, height: 40);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Contact/web=Website(s)', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CreatorContactInfo/Iptc4xmpCore:CiUrlWork', v_scroller: true, horizontal: align_fill, height: 40);
+			}
+
+			separator(height: 10, width: 485, horizontal: align_fill);
+
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Contact/howto3=Metadata templates can populate multiple fields at once.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Contact/howto4=Access metadata templates from the upper right corner of this dialog.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Contact/howto5=Support and updates for these IPTC panels can be found at http://www.iptc.org/iptc4xmp', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+		}
+</panel>

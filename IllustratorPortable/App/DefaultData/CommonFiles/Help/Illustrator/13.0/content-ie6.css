@@ -1,0 +1,25 @@
+.page dt,
+.page dd
+{
+	float: left;
+	margin-right: 1px;	
+}
+
+body#content_body { 
+	padding: 0 0 25px 0; 
+	margin: 25px 0 0 0; 
+}
+
+
+div#page_content_wrapper { 
+	padding-left: 7px; 
+	padding-right: 15px;	
+}
+
+div#related {
+	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0;	
+}
+

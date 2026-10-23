@@ -1,0 +1,2001 @@
+<?xml version = "1.0"?><Folder-list><Folder><Expanded>True</Expanded>
+<Snippets></Snippets>
+<SubFolders><Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;article&#x3E;</Contents1>
+<Contents2>&#x3C;/article&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Article</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;aside&#x3E;</Contents1>
+<Contents2>&#x3C;/aside&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Aside</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;nav&#x3E;</Contents1>
+<Contents2>&#x3C;/nav&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Navigation</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;section&#x3E;</Contents1>
+<Contents2>&#x3C;/section&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Section</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;footer&#x3E;</Contents1>
+<Contents2>&#x3C;/footer&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Footer</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;header&#x3E;</Contents1>
+<Contents2>&#x3C;/header&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Header</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;hgroup&#x3E;</Contents1>
+<Contents2>&#x3C;/hgroup&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Heading Group</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Sectioning</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;blockquote&#x3E;</Contents1>
+<Contents2>&#x3C;/blockquote&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Blockquote</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;b&#x3E;</Contents1>
+<Contents2>&#x3C;/b&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Bold</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;cite&#x3E;</Contents1>
+<Contents2>&#x3C;/cite&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Citation</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;code&#x3E;</Contents1>
+<Contents2>&#x3C;/code&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Code</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;dfn&#x3E;</Contents1>
+<Contents2>&#x3C;/dfn&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Definition</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;details&#x3E;</Contents1>
+<Contents2>&#x3C;/details&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Details</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;summary&#x3E;</Contents1>
+<Contents2>&#x3C;/summary&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Detail Summary</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;em&#x3E;</Contents1>
+<Contents2>&#x3C;/em&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Emphasis</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;figure&#x3E;</Contents1>
+<Contents2>&#x3C;/figure&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Figure</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;figcaption&#x3E;</Contents1>
+<Contents2>&#x3C;/figcaption&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Figure Caption</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;i&#x3E;</Contents1>
+<Contents2>&#x3C;/i&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Italic</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;kbd&#x3E;</Contents1>
+<Contents2>&#x3C;/kbd&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Keyboard</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;mark&#x3E;</Contents1>
+<Contents2>&#x3C;/mark&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Mark</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;pre&#x3E;</Contents1>
+<Contents2>&#x3C;/pre&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Pre-formatted</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;q&#x3E;</Contents1>
+<Contents2>&#x3C;/q&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Quote</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;samp&#x3E;</Contents1>
+<Contents2>&#x3C;/samp&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Sample Output</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;small&#x3E;</Contents1>
+<Contents2>&#x3C;/small&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Small-print</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;s&#x3E;</Contents1>
+<Contents2>&#x3C;/s&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Strike-through</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;strong&#x3E;</Contents1>
+<Contents2>&#x3C;/strong&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Strong Text</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;sub&#x3E;</Contents1>
+<Contents2>&#x3C;/sub&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Subscript</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;sup&#x3E;</Contents1>
+<Contents2>&#x3C;/sup&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Superscript</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;u&#x3E;</Contents1>
+<Contents2>&#x3C;/u&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Underline</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;var&#x3E;</Contents1>
+<Contents2>&#x3C;/var&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Variable</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Logical Markup</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;a href&#x3D;"%[enter link]&#x3D;[www.google.com]%"&#x3E;</Contents1>
+<Contents2>%[enter link]%&#x3C;/a&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Link</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;h1&#x3E;</Contents1>
+<Contents2>&#x3C;/h1&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Heading 1</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;h2&#x3E;</Contents1>
+<Contents2>&#x3C;/h2&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Heading 2</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;h3&#x3E;</Contents1>
+<Contents2>&#x3C;/h3&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Heading 3</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;p&#x3E;</Contents1>
+<Contents2>&#x3C;/p&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Paragraph</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;link rel&#x3D;"stylesheet" href&#x3D;"</Contents1>
+<Contents2>" type&#x3D;"text/css" /&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>CSS Link</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Basic Tags</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;div style&#x3D;"border: 1px dashed Gray; padding: 5px"&#x3E;</Contents1>
+<Contents2>&#x3C;/div&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Dashed Box</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;hr style&#x3D;"border:none; color: Gray; border-top: dashed 2px"&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Dashed Line</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;meta name&#x3D;"description" content&#x3D;""&#x3E;
+&#x3C;meta name&#x3D;"keywords" content&#x3D;""&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Search Engine Meta</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;!-- Replace #s with correct URLs --&#x3E;
+&#x3C;b&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Section 1&#x3C;/a&#x3E;&#x3C;/b&#x3E;
+&#x3C;ul&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 1.1&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 1.2&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 1.3&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+&#x3C;b&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Section 2&#x3C;/a&#x3E;&#x3C;/b&#x3E;
+&#x3C;ul&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 2.1&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 2.2&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 2.3&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;
+&#x3C;b&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Section 3&#x3C;/a&#x3E;&#x3C;/b&#x3E;
+&#x3C;ul&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 3.1&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 3.2&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;li&#x3E;&#x3C;a href&#x3D;"#"&#x3E;Title of Page 3.3&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+&#x3C;/ul&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Table of Contents</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;nav&#x3E;
+    &#x3C;a href&#x3D;"home.htm"&#x3E;Home&#x3C;/a&#x3E; &#x7C;
+    &#x3C;a href&#x3D;"products.htm"&#x3E;Products&#x3C;/a&#x3E; &#x7C;
+    &#x3C;a href&#x3D;"services.htm"&#x3E;Services&#x3C;/a&#x3E; &#x7C;
+    &#x3C;a href&#x3D;"about.htm"&#x3E;About Us&#x3C;/a&#x3E; &#x7C;
+    &#x3C;a href&#x3D;"contact.htm"&#x3E;Contact&#x3C;/a&#x3E;
+&#x3C;/nav&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Horizontal Menu</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;nav&#x3E;
+    &#x3C;ul&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href&#x3D;"home.htm"&#x3E;Home&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href&#x3D;"products.htm"&#x3E;Products&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href&#x3D;"services.htm"&#x3E;Services&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href&#x3D;"about.htm"&#x3E;About Us&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+        &#x3C;li&#x3E;&#x3C;a href&#x3D;"contact.htm"&#x3E;Contact&#x3C;/a&#x3E;&#x3C;/li&#x3E;
+    &#x3C;/ul&#x3E;
+&#x3C;/nav&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Vertical Menu</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;table&#x3E;
+    &#x3C;thead&#x3E;
+        &#x3C;tr&#x3E;
+            &#x3C;th&#x3E;Title 1&#x3C;/th&#x3E;
+            &#x3C;th&#x3E;Title 2&#x3C;/th&#x3E;
+            &#x3C;th&#x3E;Title 3&#x3C;/th&#x3E;
+        &#x3C;/tr&#x3E;
+    &#x3C;/thead&#x3E;
+    &#x3C;tbody&#x3E;
+        &#x3C;tr&#x3E;
+            &#x3C;td&#x3E;Cell 1.1&#x3C;/td&#x3E;
+            &#x3C;td&#x3E;Cell 1.2&#x3C;/td&#x3E;
+            &#x3C;td&#x3E;Cell 1.3&#x3C;/td&#x3E;
+        &#x3C;/tr&#x3E;
+        &#x3C;tr&#x3E;
+            &#x3C;td&#x3E;Cell 2.1&#x3C;/td&#x3E;
+            &#x3C;td&#x3E;Cell 2.2&#x3C;/td&#x3E;
+            &#x3C;td&#x3E;Cell 2.3&#x3C;/td&#x3E;
+        &#x3C;/tr&#x3E;
+    &#x3C;/tbody&#x3E;
+&#x3C;/table&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Table 3x3</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Elements</Title>
+</Folder>
+<Folder><Expanded>True</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x26;copy;</Contents1>
+<Contents2></Contents2>
+<ShCut>49219</ShCut>
+<Title>Copyright</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x26;reg;</Contents1>
+<Contents2></Contents2>
+<ShCut>49234</ShCut>
+<Title>Registered</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x26;trade;</Contents1>
+<Contents2></Contents2>
+<ShCut>49236</ShCut>
+<Title>Trademark</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Special Chars</Title>
+</Folder>
+</SubFolders>
+<Title>HTML</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+</Contents1>
+<Contents2>
+&#x3C;/script&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>JavaScript Block HTML</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script src&#x3D;"</Contents1>
+<Contents2>"&#x3E;&#x3C;/script&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>JavaScript Link</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>if (</Contents1>
+<Contents2>) {
+
+}</Contents2>
+<ShCut>0</ShCut>
+<Title>IF Statement</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>function</Contents1>
+<Contents2>() {
+
+}</Contents2>
+<ShCut>0</ShCut>
+<Title>Function</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>alert("</Contents1>
+<Contents2>");</Contents2>
+<ShCut>0</ShCut>
+<Title>Alert</Title>
+</Snippet>
+<Snippet><CallWord>jsp</CallWord>
+<Contents1>var response &#x3D; prompt("message</Contents1>
+<Contents2>", "input text");
+if (response) {
+
+}</Contents2>
+<ShCut>0</ShCut>
+<Title>Prompt</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>if (confirm("Are you sure?</Contents1>
+<Contents2>")) {
+
+}</Contents2>
+<ShCut>0</ShCut>
+<Title>Confirm</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>function checkemail(emailstr) {
+    var filter &#x3D; /&#x5E;([\w-]&#x2B;(?:\.[\w-]&#x2B;)*)@((?:[\w-]&#x2B;\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)&#x24;/i
+    if (filter.test(emailstr)) {
+        return true;
+    } else {
+        return false;
+    }
+}</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>E-mail Validator Function</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>JavaScript</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    document.write("Browser Codename: ", navigator.appCodeName);
+    document.write("&#x3C;br /&#x3E;Browser Name: ", navigator.appName);
+    document.write("&#x3C;br /&#x3E;Browser Version: ", navigator.appVersion);
+
+&#x3C;/script&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Browser Info</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    // Month names and numbers
+    var monthNames &#x3D; ["January","February","March","April","May","June","July","August","September","October","November","December"];
+    var monthNums &#x3D; ["01","02","03","04","05","06","07","08","09","10","11","12"];
+    // Get date
+    var now &#x3D; new Date();
+    // Display date in format Month DD, YYYY
+    document.write(monthNames[now.getMonth()] &#x2B; " " &#x2B; now.getDate() &#x2B; ", " &#x2B; now.getFullYear());
+    document.write("&#x3C;br&#x3E;");
+    // Display date in format MM-DD-YYYY
+    document.write(monthNums[now.getMonth()] &#x2B; "-" &#x2B; now.getDate() &#x2B; "-" &#x2B; now.getFullYear());
+    document.write("&#x3C;br&#x3E;");
+    // Display date in format DD.MM.YYYY
+    document.write(now.getDate() &#x2B; "." &#x2B; monthNums[now.getMonth()] &#x2B; "." &#x2B; now.getFullYear());
+
+&#x3C;/script&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Current Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    document.write("Last Modified " &#x2B; document.lastModified);
+
+&#x3C;/script&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Modified Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    document.write("This web page is located @ " &#x2B; document.location);
+
+&#x3C;/script&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Page Location</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;a href&#x3D;"javascript:self.close()"&#x3E;Close This Window&#x3C;/a&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Close Window Link</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    document.write("Hello, ");
+    document.write(prompt("What is your Name?","Enter Name"));
+    document.write(". Welcome to My Website!");
+
+&#x3C;/script</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Prompt Sample</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;!-- Page body must have following OnLoad handler --&#x3E;
+&#x3C;body onload&#x3D;"if (self !&#x3D; top) top.location &#x3D; self.location"&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Get Out Of Frames</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;script&#x3E;
+
+    // You can edit this list of colors and add new ones
+    var bgcolors &#x3D; new Array("#FFFFCC", "#CCFFCC", "#FFCCCC", "#DCDCDC", "#FFCC99");
+    document.bgColor &#x3D; bgcolors[Math.floor(Math.random()*bgcolors.length)];
+
+&#x3C;/script&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Random Background Color</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>JavaScript Instant Scripts</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>a:link {
+  color: Blue;
+}
+
+a:visited {
+  color: Purple;
+}
+
+a:active {
+  color: Red;
+}
+
+a:hover {
+  color: Red;
+}</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Selector A (all)</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>body {
+  font-family: Verdana, Arial, sans-serif;
+  color: Black;
+  background-color: White;
+}</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Selector BODY</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>border: 1px dashed Gray;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Border Dashed Grey</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>/* Works differently in various browsers,
+replace html to whatever selector you need */
+
+/* For Chromium */
+
+/* Width */
+html::-webkit-scrollbar {
+     width: 10px;
+}
+/* Track */
+html::-webkit-scrollbar-track {
+    background: #CCCCCC;
+    border-radius: 10px;
+}
+/* Handle */
+html::-webkit-scrollbar-thumb {
+    background:#999999;
+    border-radius: 10px;
+}
+/* Handle on hover */
+html::-webkit-scrollbar-thumb:hover {
+    background: #666666;
+}
+
+/* For Firefox - will look differently */
+
+html {
+    scrollbar-color: #999999 transparent;
+    scrollbar-width: thin;
+}</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Scrollbar Style</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>CSS</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>header("Location: https://www.blumentals.net");
+exit;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Redirect</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>// uncomment next line if running on PHP below 4.2.0
+// srand((double)microtime()*1234567);
+&#x24;random &#x3D; rand(0, 100); // between 0 and 100 inclusive</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Random Number</Title>
+</Snippet>
+</Snippets>
+<SubFolders><Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>mail("nobody@example.com", "My Subject", "Line 1\nLine 2\nLine 3");</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Send Basic Message</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>// Some data for the message
+&#x24;mailTo &#x3D; "nobody@example.com";
+&#x24;mailFrom &#x3D; "someone@example.com";
+&#x24;mailFromName &#x3D; "Some One";
+&#x24;mailSubject &#x3D; "Your Subject";
+&#x24;mailMessage &#x3D; "Your message.";
+
+// Send mail
+mail(&#x24;mailTo, &#x24;mailSubject, &#x24;mailMessage, "From: &#x24;mailFromName &#x3C;&#x24;mailFrom&#x3E;\r\n");</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Send Simple Message</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>// Recipients
+&#x24;mailTo &#x3D; "one@example.com, two@example.com"; // note the comma
+
+// Copies
+&#x24;mailCc &#x3D; "three@example.com";
+&#x24;mailBcc &#x3D; "four@example.com";
+
+// From
+&#x24;mailFrom &#x3D; "someone@example.com";
+&#x24;mailFromName &#x3D; "Some One";
+
+// Reply address
+&#x24;mailReplyTo &#x3D; "noone@example.com";
+
+// Message subject and contents
+&#x24;mailSubject &#x3D; "Your Subject";
+&#x24;mailMessage &#x3D; "Your message.\n\nYour Signature";
+
+// Text message charset
+&#x24;mailCharset &#x3D; "windows-1252"; // must be accurate (e.g. "Windows - 1252" is invalid)
+
+// Create headres for mail() function
+&#x24;headers  &#x3D; "Content-type: text/html; charset&#x3D;&#x24;mailCharset\r\n";
+&#x24;headers .&#x3D; "From: &#x24;mailFromName &#x3C;&#x24;mailFrom&#x3E;\r\n";
+&#x24;headers .&#x3D; "Reply-To: &#x24;mailReplyTo\r\n";
+&#x24;headers .&#x3D; "Cc: &#x24;mailCc\r\n";
+&#x24;headers .&#x3D; "Bcc: &#x24;mailBcc\r\n";
+
+// Send mail
+mail(&#x24;mailTo, &#x24;mailSubject, &#x24;mailMessage, &#x24;headers);</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Send Complex Message</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Mail</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>// Select just one format from all the examples
+&#x24;today &#x3D; date("F j, Y, g:i a");                 // e.g. March 10, 2001, 5:16 pm
+&#x24;today &#x3D; date("m/d/y");                         // e.g. 03/10/04
+&#x24;today &#x3D; date("j, n, Y");                       // e.g. 10, 3, 2001
+&#x24;today &#x3D; date('\i\t \i\s \t\h\e jS \d\a\y.');   // e.g. it is the 10th day.
+&#x24;today &#x3D; date("D M j G:i:s T Y");               // e.g. Sat Mar 10 15:16:08 MST 2001
+&#x24;today &#x3D; date("H:i:s");                         // e.g. 17:16:17
+print &#x24;today;
+// See PHP manual for more</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Display Current Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>// Display past and future dates
+// Just add or substract days, months or years
+&#x24;tomorrow  &#x3D; mktime (0,0,0,date("m"), date("d")&#x2B;1, date("Y"));
+&#x24;lastmonth &#x3D; mktime (0,0,0,date("m")-1, date("d"), date("Y"));
+&#x24;nextyear  &#x3D; mktime (0,0,0,date("m"), date("d"), date("Y")&#x2B;1);
+
+// Now you can use date values with date() function
+echo "Tomorrow is " . date("m/d/Y", &#x24;tomorrow) . "&#x3C;/br&#x3E;";
+echo "Before one month it was " . date("m/d/Y", &#x24;lastmonth) . "&#x3C;/br&#x3E;";
+echo "After a year it will be " . date("m/d/Y", &#x24;nextyear) . "&#x3C;/br&#x3E;";</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Past and Future Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1></Contents1>
+<Contents2>/*
+Simple Calendar
+by Karlis Blumentals (www.blumentals.net)
+
+Displays a calendar, one month at a time.
+Selected date is passed as parameter day&#x3D;yyyy-mm-dd
+e.g. myscript.php?day&#x3D;2004-10-30
+ */
+
+// date ok flag
+&#x24;dateok &#x3D; false;
+
+// parse parameter
+if (isset(&#x24;_GET['day'])) {
+    list(&#x24;yr, &#x24;mo, &#x24;da) &#x3D; explode('-', &#x24;_GET['day']);
+    &#x24;yr &#x3D; intval(&#x24;yr);
+    &#x24;mo &#x3D; intval(&#x24;mo);
+    &#x24;da &#x3D; intval(&#x24;da);
+    if (checkdate(&#x24;mo, &#x24;da, &#x24;yr)) {
+        &#x24;dateok &#x3D; true;
+    }
+}
+
+// if invalid date selected then selected date &#x3D; today
+if (!&#x24;dateok) {
+    &#x24;mo &#x3D; date('m');
+    &#x24;da &#x3D; date('d');
+    &#x24;yr &#x3D; date('Y');
+}
+
+&#x24;offset &#x3D; date('w', mktime(0, 0, 0, &#x24;mo, 1, &#x24;yr));
+// we must have a value in range 1..7
+if (&#x24;offset &#x3D;&#x3D; 0) {
+    &#x24;offset &#x3D; 7;
+}
+
+// days in month
+&#x24;nd &#x3D; date('d', mktime(0, 0, 0, &#x24;mo &#x2B; 1, 0, &#x24;yr));
+
+// days array
+&#x24;days &#x3D; array();
+
+// reset array
+for (&#x24;i &#x3D; 0; &#x24;i &#x3C;&#x3D; 42; &#x24;i&#x2B;&#x2B;) {
+    &#x24;days[&#x24;i]['out'] &#x3D; '&#x26;nbsp;';
+}
+
+// fill days array
+// valid days contain data, invalid days are left blank
+&#x24;j &#x3D; 1;
+for (&#x24;i &#x3D; &#x24;offset; &#x24;i &#x3C;&#x3D; (&#x24;offset &#x2B; &#x24;nd - 1); &#x24;i&#x2B;&#x2B;) {
+    &#x24;day &#x3D; &#x24;j&#x2B;&#x2B;;
+    &#x24;date &#x3D; &#x24;yr . '-' . &#x24;mo . '-' . &#x24;day;
+    &#x24;days[&#x24;i]['out'] &#x3D; '&#x3C;a href&#x3D;"?day&#x3D;' . &#x24;date . '"&#x3E;' . &#x24;day . '&#x3C;/a&#x3E;';
+    &#x24;days[&#x24;i]['dat'] &#x3D; &#x24;date;
+}
+
+// output table
+echo ('&#x3C;table border&#x3D;"1" cellpadding&#x3D;"3" cellspacing&#x3D;"0" width&#x3D;"200"&#x3E;');
+echo ('&#x3C;tr&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"1" align&#x3D;"center" class&#x3D;"linkbar"&#x3E;&#x3C;a href&#x3D;"?day&#x3D;' . date('Y-m-d', mktime(0, 0, 0, &#x24;mo, &#x24;da, &#x24;yr - 1)) . '"&#x3E;&#x26;laquo;&#x3C;/a&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"5" align&#x3D;"center" class&#x3D;"linkbar"&#x3E;&#x3C;p class&#x3D;"calendar"&#x3E;' . &#x24;yr . '&#x3C;/p&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"1" align&#x3D;"center" class&#x3D;"linkbar"&#x3E;&#x3C;a href&#x3D;"?day&#x3D;' . date('Y-m-d', mktime(0, 0, 0, &#x24;mo, &#x24;da, &#x24;yr &#x2B; 1)) . '"&#x3E;&#x26;raquo;&#x3C;/a&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;/tr&#x3E;' . "\n");
+echo ('&#x3C;tr&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"1" align&#x3D;"center" class&#x3D;"linkbar2"&#x3E;&#x3C;a href&#x3D;"?day&#x3D;' . date('Y-m-d', mktime(0, 0, 0, &#x24;mo, 0, &#x24;yr)) . '"&#x3E;&#x26;laquo;&#x3C;/a&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"5" align&#x3D;"center" class&#x3D;"linkbar2"&#x3E;&#x3C;p class&#x3D;"calendar"&#x3E;' . date('F', mktime(0, 0, 0, &#x24;mo, &#x24;da, &#x24;yr)) . '&#x3C;/p&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;td colspan&#x3D;"1" align&#x3D;"center" class&#x3D;"linkbar2"&#x3E;&#x3C;a href&#x3D;"?day&#x3D;' . date('Y-m-d', mktime(0, 0, 0, &#x24;mo &#x2B; 1, 1, &#x24;yr)) . '"&#x3E;&#x26;raquo;&#x3C;/a&#x3E;&#x3C;/td&#x3E;');
+echo ('&#x3C;/tr&#x3E;' . "\n");
+&#x24;cntr &#x3D; 1; // day printing counter
+for (&#x24;i &#x3D; 1; &#x24;i &#x3C;&#x3D; 6; &#x24;i&#x2B;&#x2B;) {
+    echo ('&#x3C;tr&#x3E;');
+    for (&#x24;j &#x3D; 1; &#x24;j &#x3C;&#x3D; 7; &#x24;j&#x2B;&#x2B;) {
+        &#x24;curr &#x3D; &#x24;cntr&#x2B;&#x2B;;
+        if (array_key_exists('dat', &#x24;days[&#x24;curr]) &#x26;&#x26; &#x24;days[&#x24;curr]['dat'] &#x3D;&#x3D; &#x24;yr . '-' . &#x24;mo . '-' . &#x24;da) {
+            &#x24;style &#x3D; 'bold';
+        } else {
+            &#x24;style &#x3D; 'normal';
+        }
+
+        echo ('&#x3C;td width&#x3D;"14%" style&#x3D;"font-weight: ' . &#x24;style . '"&#x3E;' . &#x24;days[&#x24;curr]['out'] . '&#x3C;/td&#x3E;' . "\n");
+    }
+    echo ('&#x3C;/tr&#x3E;' . "\n");
+}
+echo ('&#x3C;/table&#x3E;');</Contents2>
+<ShCut>0</ShCut>
+<Title>Calendar</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Date and Time</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>// Get image dimensions
+&#x24;myimg &#x3D; "http://www.google.com/images/logo.gif"; // your image file
+list(&#x24;width, &#x24;height, &#x24;type, &#x24;attr) &#x3D; getimagesize(&#x24;myimg);
+echo "Image size: &#x24;width x &#x24;height";
+echo "&#x3C;br /&#x3E;&#x3C;img src&#x3D;\"&#x24;myimg\" &#x24;attr /&#x3E;";</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Get Image Size</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Images</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1></Contents1>
+<Contents2>// List Directory Contents
+
+&#x24;path &#x3D; "/directory"; // full path to the folder
+&#x24;url &#x3D; "http://www.example.com/test/"; // URL to files
+// you must add slash (/) at the end
+
+// Open the folder
+&#x24;dir_handle &#x3D; @opendir(&#x24;path) or die("Unable to open &#x24;path");
+
+// Loop through the files
+while (&#x24;file &#x3D; readdir(&#x24;dir_handle)) {
+    if (&#x24;file &#x3D;&#x3D; "." &#x7C;&#x7C; &#x24;file &#x3D;&#x3D; "..") {
+        continue;
+    }
+
+    if (is_file(&#x24;path . &#x24;file)) {
+        echo "&#x3C;a href&#x3D;\"&#x24;url&#x24;file\"&#x3E;&#x24;file&#x3C;/a&#x3E;&#x3C;br /&#x3E;";
+    } else {
+        echo "&#x24;file [DIR]&#x3C;br /&#x3E;";
+    }
+}
+
+// Close
+closedir(&#x24;dir_handle);</Contents2>
+<ShCut>0</ShCut>
+<Title>List Directory Contents</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1></Contents1>
+<Contents2>// enter valid full or relative file path or URL
+&#x24;myTextFile &#x3D; 'data/yourfile.txt';
+
+if (file_exists(&#x24;myTextFile)) {
+    &#x24;text &#x3D; implode('', file(&#x24;myTextFile));
+} else {
+    echo ("File &#x24;mytextfile not found!");
+    &#x24;text &#x3D; '';
+}
+
+// &#x24;text now contains file contents, if any</Contents2>
+<ShCut>0</ShCut>
+<Title>Read Text from File</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1></Contents1>
+<Contents2>// Save text to file
+
+&#x24;inputString &#x3D; "This is the first line.\nThis is the seconds line.";
+// On Windows platformu, use \n\r instead of \n
+
+&#x24;fp &#x3D; fopen( "data/yourfile.txt" , "w" );
+fwrite(&#x24;fp, &#x24;inputString);
+fclose(&#x24;fp);</Contents2>
+<ShCut>0</ShCut>
+<Title>Save Text to File</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>unlink("data/yourfile.txt");</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Delete File</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Files and Directories</Title>
+</Folder>
+</SubFolders>
+<Title>PHP</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;% Response.Redirect "http://www.blumentals.net" %&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Redirect</Title>
+</Snippet>
+</Snippets>
+<SubFolders><Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%&#x3D; FormatDateTime(Date, 0)%&#x3E;
+&#x3C;!-- e.g. 3/24/2005 --&#x3E;
+
+&#x3C;%&#x3D; FormatDateTime(Date, 1)%&#x3E;
+&#x3C;!-- e.g. Friday, March 24, 2005 --&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Display Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%&#x3D; FormatDateTime(Now, 3)%&#x3E;
+&#x3C;!-- e.g. 11:24:13 PM --&#x3E;
+
+&#x3C;%&#x3D; FormatDateTime(Now, 4)%&#x3E;
+&#x3C;!-- e.g. 23:24 --&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Display Time</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Date and Time</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%
+' replace /mydirectory with whatever you need
+' you may use also the actual path
+' e.g. C:\Inetpub\virtuals\mysite\mydirectory
+Set MyDirectory &#x3D; Server.CreateObject("Scripting.FileSystemObject")
+Set MyFiles &#x3D; MyDirectory.GetFolder(Server.MapPath("/mydirectory"))
+For each filefound in MyFiles.files
+%&#x3E;
+&#x3C;% &#x3D;filefound.Name %&#x3E;
+&#x3C;br&#x3E;
+&#x3C;% Next %&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Directory Contents</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%
+' replace /mydirectory with whatever you need
+' you may use also the actual path
+' e.g. C:\Inetpub\virtuals\mysite\mydirectory
+Set MyFileSize &#x3D; Server.CreateObject ("Scripting.FileSystemObject")
+MyPath &#x3D; Server.MapPath("/mydirectory")
+Set MyFolder &#x3D; MyFileSize.GetFolder(MyPath)
+%&#x3E;
+&#x3C;p&#x3E;&#x3C;% &#x3D;MyPath %&#x3E; is &#x3C;% &#x3D;MyFolder.Size %&#x3E; bytes&#x3C;/p&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Show Directory Size</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%
+Dim oFilesys
+'this line creates an instance of the File Scripting Object named filesys
+Set oFilesys &#x3D; Server.CreateObject("Scripting.FileSystemObject")
+'check if the file exists
+If NOT oFilesys.FileExists("C:\myfolder\myfile.txt") Then
+'if does not exist, create the file
+oFilesys.CreateTextFile("C:\myfolder\myfile.txt")
+Else
+'if the file exists, display message
+Response.Write "This file already exists."
+End If
+'destroy file system object
+Set oFilesys &#x3D; NOTHING
+%&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Create Text File</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%
+' use one of following constants to write/append
+Const ForWriting &#x3D; 2, ForAppending &#x3D; 8
+Dim oFilesys, oFile
+Set oFilesys &#x3D; CreateObject("Scripting.FileSystemObject")
+Set oFile &#x3D; oFilesys.OpenTextFile("C:\myfolder\myfile.txt", ForWriting, True)
+oFile.Write "Hello World!"
+%&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Write to File</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;%
+Dim oFilesys, oFile, sFileContents
+Set oFilesys &#x3D; CreateObject("Scripting.FileSystemObject")
+Set oFile &#x3D; oFilesys.OpenTextFile("c:\myfolder\myfile.txt")
+sFileContents &#x3D; oFile.ReadAll
+oFile.close
+Set oFile &#x3D; nothing
+Set oFilesys &#x3D; nothing
+Response.write(sFileContents)
+%&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Output File Contents</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Files and Directories</Title>
+</Folder>
+</SubFolders>
+<Title>ASP</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets></Snippets>
+<SubFolders><Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>puts "Hello World"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Hello World!</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://www.ruby-lang.org/
+# Output "I love Ruby"
+say &#x3D; "I love Ruby"
+puts say
+ 
+# Output "I *LOVE* RUBY"
+say['love'] &#x3D; "*love*"
+puts say.upcase
+ 
+# Output "I *love* Ruby"
+# five times
+5.times { puts say }</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>I Love Ruby!</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>def my_method(name)
+  puts "Hello #{name}!"
+end
+
+my_method("%[Enter your name]&#x3D;[person without a name]%")</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Call a Method</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>puts 1 &#x2B; 2
+puts 2 * 3
+puts 4 / 3
+puts 5 - 9  
+puts 1.3 / 2.7</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Arithmetics</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>puts 'Hello! ' * 3
+# Hello! Hello! Hello!
+
+puts 'You love Ruby, don\'t you?'
+#You love Ruby, don't you?
+
+my_string &#x3D; 'Ruby is easy to learn!'
+puts my_string.split(" ").reverse.join(" ")
+# learn! to easy is Ruby</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Strings 1</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/tag/ruby/3
+
+my_string &#x3D; 'This is mine!'
+your_string &#x3D; "This is yours!"
+my_string &#x2B;&#x3D; '\n\t\tAgain, I say!'
+your_string &#x2B;&#x3D; "\n\t\tAgain, I say!"
+puts my_string
+# &#x3D;&#x3E; This is mine!\n\t\tAgain, I say!
+puts your_string
+# &#x3D;&#x3E; This is yours!
+# Again, I say!
+
+r &#x3D; 42
+the_answer &#x3D; "The answer is #{r}!"
+puts the_answer
+# &#x3D;&#x3E; "The answer is 42!"
+
+the_answer &#x3D; 'The answer is #{r}!'
+puts the_answer
+# &#x3D;&#x3E; "The answer is \#{r}!"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Strings 2</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>var &#x3D; -3
+if var &#x3E;&#x3D; 0
+  puts "Variable is a positive number!"
+  if var &#x3D;&#x3D; 0
+    puts "var is zero"
+  elsif var &#x3D;&#x3D; 1
+    puts "var is one"
+  else
+    puts "var &#x3D; #{var}"
+  end
+else  
+  puts "Variable is a negative number"
+  puts "var &#x3D; #{var}"
+end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>If Else Statements</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Story of chess: http://en.wikipedia.org/wiki/Second_Half_of_the_Chessboard
+
+total_rice &#x3D; 0
+temp_rice &#x3D; 1
+64.times do &#x7C;square&#x7C;
+  puts "There are #{temp_rice} grain(s) on the chessboard square #{square &#x2B; 1}."
+  total_rice &#x3D; total_rice &#x2B; temp_rice
+  temp_rice *&#x3D; 2
+end
+puts "In total there are #{total_rice} grains on the chessboard."
+
+#one rice weights about 23 mg
+total_rice_weight_kg &#x3D; total_rice * 23 / 1000000
+puts "That would be about #{total_rice_weight_kg/1000} metric tons of rice."
+
+#White rice bulk density (kg/m3) &#x3D; 850
+total_rice_m3 &#x3D; total_rice_weight_kg / 850
+
+#An Olympic Pool must be 25 m wide with a depth of 2.0 m (min)
+#at all parts of the course and must be 50 m in length.
+total_rice_o_pools &#x3D; total_rice_m3 / (25 * 2 * 50)
+
+puts "Or... #{total_rice_o_pools} Olympic Pools filled up with rice!"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Do You Like Chess?</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>##################################################################################
+##source http://snippets.dzone.com/posts/show/3636
+class Float
+
+  #add new method to built-in calss Float
+  def number_decimal_places
+    self.to_s.length-2
+  end
+
+  #add new method to built-in calss Float
+  def to_fraction
+    higher &#x3D; 10**self.number_decimal_places
+    lower &#x3D; self*higher
+
+    gcden &#x3D; greatest_common_divisor(higher, lower)
+
+    return (lower/gcden).round, (higher/gcden).round
+  end
+
+private
+  #not accessible from outside
+  def greatest_common_divisor(a, b)
+     while a%b !&#x3D; 0
+       a,b &#x3D; b.round,(a%b).round
+     end
+     return b
+  end
+end
+
+#Test
+a &#x3D; 2.345
+puts "Extract fraction from #{a}. Result is: " &#x2B; a.to_fraction().each{ &#x7C;i&#x7C; i.to_s}.join("; ")
+
+
+###################################################################################
+#source http://snippets.dzone.com/posts/show/3691
+class Fixnum
+  #Add method to class Fixnum to check for primality with a regexp
+  def prime?
+    ('1' * self) !&#x7E; /&#x5E;1?&#x24;&#x7C;&#x5E;(11&#x2B;?)\1&#x2B;&#x24;/
+  end
+end
+
+#Test
+b &#x3D; 13
+puts "I wonder if #{b} is a prime number... " &#x2B; (b.prime? ? "Yes, it is!" : "No, not this time!")</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Modifying Built-in Classes</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>var &#x3D; -1
+while var &#x3C; 10
+  puts var.to_s
+  var &#x2B;&#x3D; 3
+end
+
+bool &#x3D; false
+until bool
+  puts "Loop \"until bool_exp [do] body end\" " &#x2B; bool.to_s
+  bool &#x3D; true
+end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Loops</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1># This is a comment line
+puts "At the end of this Ruby line there is a comment" #Comment
+
+&#x3D;begin
+This is a 
+multi-line comment block
+&#x3D;end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Comments</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#prints out all elements of array
+array &#x3D; [1, 2, 3]
+puts "Test array: " &#x2B; array.join(", ")
+array.each do &#x7C;i&#x7C;
+  print i.to_s &#x2B; " "
+end
+print "\n"
+
+
+#prints out non-unique elements of array
+array &#x3D; [0,1,2,3,4,5,2,0]
+puts "Test array: " &#x2B; array.join(", ")
+puts "Non-unique elements in array: " &#x2B; array.select{&#x7C;e&#x7C; array.index(e) !&#x3D; array.rindex(e)}.uniq.join("; ")</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Iterators</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>New to Ruby?</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1># converts colon-separated time to seconds
+# Example: puts colon_separated_to_i("01:02:03") #&#x3D;&#x3E; 3723
+def colon_separated_to_i(str)
+  time_arr &#x3D; []
+  time_arr &#x3D; str.split(":").reverse
+  sec &#x3D; 0
+  secs &#x3D; [1, 60, 60*60, 60*60*24]
+
+  time_arr.size.times do &#x7C;i&#x7C;
+      sec &#x2B;&#x3D; secs[i].to_i * time_arr[i].to_i
+  end
+  sec
+end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Time String to Seconds</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Pass this method a Date object, a DateTime object, or a string of 
+#a date (like 7/6/05) and it will return a response that looks 
+#like 'yesterday', 'today', 'tomorrow', '12 days ago', 'in 4 days', 
+#'Monday, January 5', or 'Tuesday, December 15, 2004'.
+
+def rel_date(date)
+  date &#x3D; Date.parse(date, true) unless /Date.*/ &#x3D;&#x7E; date.class.to_s
+  days &#x3D; (date - Date.today).to_i
+  
+  return 'today'     if days &#x3E;&#x3D; 0 and days &#x3C; 1
+  return 'tomorrow'  if days &#x3E;&#x3D; 1 and days &#x3C; 2
+  return 'yesterday' if days &#x3E;&#x3D; -1 and days &#x3C; 0
+  
+  return "in #{days} days"      if days.abs &#x3C; 60 and days &#x3E; 0
+  return "#{days.abs} days ago" if days.abs &#x3C; 60 and days &#x3C; 0
+  
+  return date.strftime('%A, %B %e') if days.abs &#x3C; 182
+  return date.strftime('%A, %B %e, %Y')
+end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Relative Date</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/posts/show/3560
+require 'date'
+class Date
+  def self.last_of_month( arg &#x3D; Time.now )
+    year &#x3D; ( arg.is_a? Fixnum ) ? Time.now.year : arg.year
+    mon  &#x3D; ( arg.is_a? Fixnum ) ? arg : ( arg.mon rescue Time.now.mon )
+
+    raise ArgumentError unless mon.between?( 1, 12 )
+
+    begin; Date.new year, mon, mday &#x7C;&#x7C;&#x3D; 31
+    rescue ArgumentError; mday -&#x3D; 1; retry
+    end
+  end
+end
+
+#Tests
+puts Date.last_of_month()
+puts Date.last_of_month(Time.now-(60*60*24*32))</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Last Date of Month</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/2255
+
+&#x3D;begin
+Format meaning:
+
+%a - The abbreviated weekday name (&#x60;&#x60;Sun'')
+%A - The  full  weekday  name (&#x60;&#x60;Sunday'')
+%b - The abbreviated month name (&#x60;&#x60;Jan'')
+%B - The  full  month  name (&#x60;&#x60;January'')
+%c - The preferred local date and time representation
+%d - Day of the month (01..31)
+%H - Hour of the day, 24-hour clock (00..23)
+%I - Hour of the day, 12-hour clock (01..12)
+%j - Day of the year (001..366)
+%m - Month of the year (01..12)
+%M - Minute of the hour (00..59)
+%p - Meridian indicator (&#x60;&#x60;AM''  or  &#x60;&#x60;PM'')
+%S - Second of the minute (00..60)
+%U - Week  number  of the current year,
+  starting with the first Sunday as the first
+day of the first week (00..53)
+%W - Week  number  of the current year,
+          starting with the first Monday as the first
+          day of the first week (00..53)
+  %w - Day of the week (Sunday is 0, 0..6)
+  %x - Preferred representation for the date alone, no time
+  %X - Preferred representation for the time alone, no date
+  %y - Year without a century (00..99)
+  %Y - Year with century
+  %Z - Time zone name
+  %% - Literal &#x60;&#x60;%'' character
+&#x3D;end
+
+t &#x3D; Time.now
+t.strftime("Printed on %m/%d/%Y")   #&#x3D;&#x3E; "Printed on 04/09/2003"
+t.strftime("at %I:%M%p")            #&#x3D;&#x3E; "at 08:56AM"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Date Time Format</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Date and Time</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/posts/show/3689
+
+str &#x3D; &#x3C;&#x3C;HTML_TEXT
+&#x3C;html&#x3E;
+&#x3C;head&#x3E;
+&#x3C;title&#x3E;Blumentals Software - GIF animator, HTML editor, screensaver tools, utilities - free download&#x3C;/title&#x3E;
+HTML_TEXT
+
+puts str.gsub(/&#x3C;\/?[&#x5E;&#x3E;]*&#x3E;/, "")</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Strip HTML Tags</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/posts/show/237
+
+puts File.dirname("http://foo.com/bar/stuff.html")
+#&#x3D;&#x3E; "http://foo.com/bar"
+
+puts File.basename("http://foo.com/bar/stuff.html")
+#&#x3D;&#x3E; "stuff.html"
+
+puts File.split("http://foo.com/bar/stuff.html")
+#&#x3D;&#x3E; ["http://foo.com/bar", "stuff.html"]
+
+puts File.join(File.dirname("http://foo.com/bar/doc.html"), "relative_link.html")
+# &#x3D;&#x3E; "http://foo.com/bar/relative_link.html"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Splitting/Joining URLs</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1># this code is for embedded ruby in rhtml:
+
+&#x3C;%&#x3D; button_to 'Add to Cart', :action &#x3D;&#x3E; :add_to_cart, :id &#x3D;&#x3E; product %&#x3E;
+#  this generates a submit button:
+#  &#x3C;form method&#x3D;"post" action&#x3D;"/store/add_to_cart/3" class&#x3D;"button-to"&#x3E;
+#  &#x3C;div&#x3E;&#x3C;input type&#x3D;"submit" value&#x3D;"Add to Cart" /&#x3E;&#x3C;/div&#x3E;&#x3C;/form&#x3E;
+#  note id &#x3D; 3 in this case
+
+#  the following has the same effect as above but w/ image submit button:	
+&#x3C;%&#x3D; form_tag :action &#x3D;&#x3E; :add_to_cart, :id &#x3D;&#x3E; product %&#x3E;
+&#x3C;%&#x3D; image_submit_tag product.image_url, :class &#x3D;&#x3E; 'image-submit' %&#x3E;
+&#x3C;%&#x3D; end_form_tag  %&#x3E;	
+#  &#x3C;form action&#x3D;"/store/add_to_cart/3" method&#x3D;"post"&#x3E;
+#  &#x3C;input class&#x3D;"image-submit" src&#x3D;"/images/auto.jpg?1156046942" type&#x3D;"image" /&#x3E;
+#  &#x3C;/form&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>RoR Form Helper with Image Submit Button</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>require 'open-uri'; 
+puts open('http://example.com/').read</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Read HTML from an external URL</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/2785
+
+module Kernel
+ private
+    def this_method_name
+      caller[0] &#x3D;&#x7E; /&#x60;([&#x5E;']*)'/ and &#x24;1
+    end
+end
+
+class Foo
+ def test_method
+   this_method_name
+ end
+end
+
+#Test
+puts Foo.new.test_method    # &#x3D;&#x3E; test_method</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Get the Currently Running Method Name</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3211
+class Array
+  def insert_at_random *obj
+    insert(rand(size&#x2B;1), *obj)
+  end
+ 
+  def randomize
+    size.times { insert_at_random pop }
+    self
+  end
+end
+
+#Test
+a &#x3D; [0, 1, 2, 3, 4, 5, 6]
+puts a.randomize().join(';')</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Randomize Array Elements</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/2787
+def caller_method_name
+  parse_caller(caller(2).first).last
+end
+
+def parse_caller(at)
+  if /&#x5E;(.&#x2B;?):(\d&#x2B;)(?::in &#x60;(.*)')?/ &#x3D;&#x7E; at
+    file &#x3D; Regexp.last_match[1]
+    line &#x3D; Regexp.last_match[2].to_i
+    method &#x3D; Regexp.last_match[3]
+    [file, line, method]
+  end
+end
+
+def function2
+  puts caller_method_name
+end
+
+def function1
+  function2
+end
+
+function1</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Get the Name of the Calling Method</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Other</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3701
+
+#!/usr/bin/ruby
+
+require 'csv'
+
+print "CSV file to read: "
+input_file &#x3D; gets.chomp
+
+print "File to write XML to: "
+output_file &#x3D; gets.chomp
+
+print "What to call each record: "
+record_name &#x3D; gets.chomp
+
+csv &#x3D; CSV::parse(File.open(input_file) {&#x7C;f&#x7C; f.read} )
+fields &#x3D; csv.shift
+
+puts "Writing XML..."
+
+File.open(output_file, 'w') do &#x7C;f&#x7C;
+  f.puts '&#x3C;?xml version&#x3D;"1.0"?&#x3E;'
+  f.puts '&#x3C;records&#x3E;'
+  csv.each do &#x7C;record&#x7C;
+    f.puts " &#x3C;#{record_name}&#x3E;"
+    for i in 0..(fields.length - 1)
+      f.puts "  &#x3C;#{fields[i]}&#x3E;#{record[i]}&#x3C;/#{fields[i]}&#x3E;"
+    end
+    f.puts " &#x3C;/#{record_name}&#x3E;"
+  end
+  f.puts '&#x3C;/records&#x3E;'
+end # End file block - close file
+
+puts "Contents of #{input_file} written as XML to #{output_file}."</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>CSV to XML Converter</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/posts/show/3610
+require 'win32ole'
+
+file_path &#x3D; 'c:/test.xls' #make sure this file is on your hard drive
+excel &#x3D; WIN32OLE.new('excel.application')
+excel.visible &#x3D; true
+excel.workbooks.open(file_path) # absolute file path
+excel.range('A1').value &#x3D; 'Hello, world.' # get/set value</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Script MS Excel</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3394
+
+require 'pathname'
+puts(Pathname.new(&#x24;0).realpath)</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Absolute Path to Itself</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3029
+
+# Tasks demonstrated:
+#       Creating a public-private key pair
+#       Saving individual keys to disk in PEM format
+#       Reading individual keys from disk
+#       Encyrpting with public key
+#       Decrypting with private key
+#       Checking whether a key has public &#x7C; private key
+
+require 'openssl'
+
+# in a real rsa implementation, message would be the symmetric key
+# used to encrypt the real message data
+# which would be 'yourpass' in snippet http://www.bigbold.com/snippets/posts/show/576
+message &#x3D; "This is some cool text."
+puts "\nOriginal Message: #{message}\n"
+
+puts "Using ruby-openssl to generate the public and private keys\n"
+
+# .generate creates an object containing both keys
+new_key &#x3D; OpenSSL::PKey::RSA.generate( 1024 )
+puts "Does the generated key object have the public key? #{new_key.public?}\n"
+puts "Does the generated key object have the private key? #{new_key.private?}\n\n"
+
+# write the new keys as PEM's
+new_public &#x3D; new_key.public_key
+puts "New public key pem:\n#{new_public}\n"
+puts "The new public key in human readable form:\n"
+puts new_public.to_text &#x2B; "\n"
+
+output_public &#x3D; File.new("./new_public.pem", "w")
+output_public.puts new_public
+output_public.close
+
+new_private &#x3D; new_key.to_pem
+puts "new private key pem:\n#{new_private}\n"
+
+output_private &#x3D; File.new("./new_private.pem", "w")
+output_private.puts new_private
+output_private.close
+
+puts "\nEncrypt/decrypt using previously saved pem files on disk...\n"
+# we encrypt with the public key
+# note: of course the public key PEM contains only the public key
+puts "Reading Public Key PEM...\n"
+public_key &#x3D; OpenSSL::PKey::RSA.new(File.read("./new_public.pem"))
+puts "Does the public pem file have the public key? #{public_key.public?}\n"
+puts "Does the public pem file have the private key? #{public_key.private?}\n"
+puts "\nEncrypting with public key ...\n"
+cipher_text &#x3D; public_key.public_encrypt( message )
+puts "cipher text:\n#{cipher_text}\n"
+
+# get the private key from pem file and decrypt
+# note the private key PEM contains both keys
+puts "\nReading Private Key PEM...\n"
+private_key &#x3D; OpenSSL::PKey::RSA.new(File.read("./new_private.pem"))
+puts "Does the private pem file have the public key? #{private_key.public?}\n"
+puts "Does the private pem file have the private key? #{private_key.private?}\n"
+puts "\nDecrypting with private key ...\n"
+clear_text &#x3D; private_key.private_decrypt( cipher_text )
+puts "\ndecoded text:\n#{clear_text}\n\n"</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Asymmetric Keys with Ruby OpenSSL</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/2126
+
+require 'scanf'
+
+puts 'Enter file path:'
+path &#x3D; scanf('%s')
+
+if not File.directory?(path[0])
+  puts 'Invalid file path!'
+  exit
+end
+
+puts 'Enter file size (mb):'
+a &#x3D; scanf('%d')
+thesize &#x3D; a[0]
+puts 'You ordered a ' &#x2B; thesize.to_s &#x2B; ' MB file.' &#x2B; ''
+
+# Generate the file
+string &#x3D; "abcdefghijklmnopqrstuvwxyz1234567890"
+filesize &#x3D; 0;
+
+f &#x3D; File.new(path[0] &#x2B; thesize.to_s &#x2B; 'MB.rb', 'w')
+
+while filesize &#x3C; thesize * 1e6
+  f.puts string
+  filesize &#x2B;&#x3D; string.size
+end
+f.close
+
+puts "File #{thesize.to_s}MB.rb created in directory: " &#x2B; path[0]</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Create a File of Specified Size</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Working with files</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>#source: https://rubyforge.org/snippet/detail.php?type&#x3D;snippet&#x26;id&#x3D;109
+#Authors: 	Abdu Chadili; Steve Shuer
+# QuickSort (in place)
+
+# accepts an array or a string
+# see below for sample call
+
+def partition(list, left, right, pindex)
+   pvalue &#x3D; list [pindex]
+   swap(list, pindex, right)
+   sindex &#x3D; left
+   for i in left .. right-1
+       if list[i] &#x3C;&#x3D; pvalue
+          swap(list, sindex, i)
+          sindex &#x3D; sindex &#x2B; 1
+       end
+   end
+   swap(list, right, sindex)
+   return sindex
+end
+
+def swap (arr, l, r)
+  tmp &#x3D; arr [l]
+  arr[l] &#x3D; arr[r]
+  arr[r] &#x3D; tmp
+end
+def quicksort(list, left, right)
+
+	if (right &#x3E; left)
+	    pIndex &#x3D; left
+	    newPindex &#x3D; partition(list, left, right, pIndex)
+	    quicksort(list, left, newPindex-1)
+	    quicksort(list, newPindex&#x2B;1, right)
+	end
+end
+
+#Test; uncomment the comment section bellow to test the sorting algorythm
+&#x3D;begin
+str&#x3D; 'ZZ WW YY VV XX CC DD FF EE AA !@#&#x24;%&#x5E;&#x26;'
+iarr&#x3D; [254,23,10,888,12,50,70,13,15,67,99]
+
+puts "str before: "
+puts str
+
+quicksort(str,0,str.length-1)
+
+puts "str after: "
+puts str
+
+puts "iarr before: "
+iarr.each {&#x7C;ea&#x7C; print(ea," ")}
+puts
+
+quicksort(iarr,0,iarr.length-1)
+
+puts "iarr after: "
+iarr.each {&#x7C;ea&#x7C; print(ea," ")}
+puts
+&#x3D;end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Quicksort</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#source: http://snipplr.com/view/1247/rails-random-pronouncable-passwords/
+# creates random pronouncable passwords
+def random_password
+  c &#x3D; %w( b c d f g h j k l m n p qu r s t v w x z ) &#x2B;
+      %w( ch cr fr nd ng nk nt ph pr rd sh sl sp st th tr )
+  v &#x3D; %w( a e i o u y )
+  f, r &#x3D; true, ''
+  6.times do
+    r &#x3C;&#x3C; ( f ? c[ rand * c.size ] : v[ rand * v.size ] )
+    f &#x3D; !f
+  end
+  2.times do
+    r &#x3C;&#x3C; ( rand( 9 ) &#x2B; 1 ).to_s
+  end
+  r
+end
+
+#Test
+puts random_password</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Random pronouncable password</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1># Source: http://snippets.dzone.com/posts/show/2111
+
+# Returns a random alphanumeric string of arbitrary size.
+# Useful for generating random identifier keys.
+
+def random_alphanumeric(size&#x3D;16)
+  s &#x3D; ""
+  size.times { s &#x3C;&#x3C; (i &#x3D; Kernel.rand(62); i &#x2B;&#x3D; ((i &#x3C; 10) ? 48 : ((i &#x3C; 36) ? 55 : 61 ))).chr }
+  s
+end
+
+def random_alphanumeric2(size&#x3D;16)
+  (1..size).collect { (i &#x3D; Kernel.rand(62); i &#x2B;&#x3D; ((i &#x3C; 10) ? 48 : ((i &#x3C; 36) ? 55 : 61 ))).chr }.join
+end
+
+#Test
+puts random_alphanumeric()
+puts random_alphanumeric2()</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Random Alphanumeric String</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>def fib(n)
+  return 1 if n &#x3D;&#x3D; 0 &#x7C;&#x7C; n &#x3D;&#x3D; 1
+  return fib(n-1) &#x2B; fib(n-2)
+end</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Fibonacci Numbers 1</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#From: http://www.ruby-forum.com/topic/67217
+#Author: C Erler
+
+class Integer
+  FibonacciCache &#x3D; Hash.new do &#x7C;hash, key&#x7C;
+    if hash.has_key?(key - 1) and hash.has_key?(key - 2)
+      hash[key] &#x3D; hash[key - 1] &#x2B; hash[key - 2]
+    elsif hash.has_key?(key &#x2B; 1) and hash.has_key?(key &#x2B; 2)
+      hash[key] &#x3D; hash[key &#x2B; 2] - hash[key &#x2B; 1]
+    else
+      subkey &#x3D; key.div(2)
+      case key.modulo(4)
+        when 1
+          hash[key] &#x3D; (2*hash[subkey] &#x2B; hash[subkey - 1])*(2*hash[subkey] - hash[subkey - 1]) &#x2B; 2
+        when 3
+          hash[key] &#x3D; (2*hash[subkey] &#x2B; hash[subkey - 1])*(2*hash[subkey] - hash[subkey - 1]) - 2
+        else
+          hash[key] &#x3D; hash[subkey] * (hash[subkey] &#x2B; 2*hash[subkey - 1])
+      end
+    end
+  end
+  FibonacciCache[0] &#x3D; 0
+  FibonacciCache[1] &#x3D; 1
+
+  def fib
+    return FibonacciCache[self]
+  end
+
+  def fib_uncached
+    return FibonacciCache.dup[self]
+  end
+end
+
+start_time &#x3D; Time.now
+1_000_000.fib
+#fibs &#x3D; (5..10).map { &#x7C;i&#x7C; i.fib }
+#fibs &#x3D; (1..100000).map { &#x7C;i&#x7C; i.fib }
+#puts fibs.size
+#puts fibs.last
+p Time.now - start_time
+
+puts "Doesn't work !" unless (1..10).map { &#x7C;i&#x7C; i.fib } &#x3D;&#x3D; [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Fibonacci Numbers 2</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Algorythms</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>#source: http://snippets.dzone.com/posts/show/1516
+
+numbers &#x3D; "10000000 1.345 -91245555.45 &#x2B;6788876.224334 -2321232" 
+
+numbers.reverse!
+numbers.gsub!(/(\d\d\d)(?&#x3D;\d)(?!\d*\.)/, '\1,')
+puts numbers.reverse!</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Commify Numbers</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3734
+#About Sieve of Eratosthenes: http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+def sieve(param)
+  r &#x3D; [nil, nil] &#x2B; (2 .. param).to_a
+
+  (2 .. Math.sqrt(param)).each do &#x7C;i&#x7C;
+    next unless r[i]
+    (i*i).step(param, i) do &#x7C;j&#x7C;
+      r[j] &#x3D; nil
+    end
+  end
+  return r
+end
+	
+#Test
+puts sieve(100).compact.join(", ")</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Get Prime Numbers</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Numbers</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>#Source: http://snippets.dzone.com/posts/show/3332
+# # Based on:
+# http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/139290
+# Author: Endy Tjahjono
+
+class String
+   def perm
+       return [self] if self.length &#x3C; 2
+       ret &#x3D; []
+    
+       0.upto(self.length - 1) do &#x7C;n&#x7C;
+          #rest &#x3D; self.split('')                
+          rest &#x3D; self.split(//u)            # for UTF-8 encoded strings
+          picked &#x3D; rest.delete_at(n)
+          rest.join.perm.each { &#x7C;x&#x7C; ret &#x3C;&#x3C; picked &#x2B; x }
+       end
+
+       ret
+   end
+end
+
+#Test
+p "abc".perm      #&#x3D;&#x3E;  ["abc", "acb", "bac", "bca", "cab", "cba"]</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>String Permutation</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Strings</Title>
+</Folder>
+<Folder><Expanded>False</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1># Source: http://snippets.dzone.com/posts/show/2108
+
+class Class
+  alias_method :orig_new, :new
+
+  @@count &#x3D; 0
+  @@stoppit &#x3D; false
+  @@class_caller_count &#x3D; Hash.new{&#x7C;hash,key&#x7C; hash[key] &#x3D; Hash.new(0)}
+
+  def new(*arg,&#x26;blk)
+    unless @@stoppit
+      @@stoppit &#x3D; true
+      @@count &#x2B;&#x3D; 1
+      @@class_caller_count[self][caller[0]] &#x2B;&#x3D; 1
+      @@stoppit &#x3D; false
+    end
+    orig_new(*arg,&#x26;blk)
+  end
+
+  def Class.report_final_tally
+    @@stoppit &#x3D; true
+    puts "Number of objects created &#x3D; #{@@count}"
+
+    total &#x3D; Hash.new(0)
+    
+    @@class_caller_count.each_key do &#x7C;klass&#x7C;
+      caller_count &#x3D; @@class_caller_count[klass]
+      caller_count.each_value do &#x7C;count&#x7C;
+        total[klass] &#x2B;&#x3D; count
+      end
+    end
+    
+    klass_list &#x3D; total.keys.sort{&#x7C;klass_a, klass_b&#x7C; 
+      a &#x3D; total[klass_a]
+      b &#x3D; total[klass_b]
+      if a !&#x3D; b
+        -1* (a &#x3C;&#x3D;&#x3E; b)
+      else
+        klass_a.to_s &#x3C;&#x3D;&#x3E; klass_b.to_s
+      end
+    }
+    klass_list.each do &#x7C;klass&#x7C;
+      puts "#{total[klass]}\t#{klass} objects created."
+      caller_count &#x3D; @@class_caller_count[ klass]
+      caller_count.keys.sort_by{&#x7C;call&#x7C; -1*caller_count[call]}.each do &#x7C;call&#x7C;
+        puts "\t#{call}\tCreated #{caller_count[call]} #{klass} objects."
+      end
+      puts
+    end
+  end
+end
+
+#Test
+END {
+  b &#x3D; String.new
+  
+  5.times do 
+    c &#x3D; String.new
+  end
+  
+  c &#x3D; Array.new(12)
+  
+  Class.report_final_tally
+}</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Object Creation Tracer</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Objects and Classes</Title>
+</Folder>
+</SubFolders>
+<Title>Ruby</Title>
+</Folder>
+<Folder><Expanded>True</Expanded>
+<Snippets><Snippet><CallWord></CallWord>
+<Contents1>&#x3C;a href&#x3D;"https://www.webuilderapp.com/" target&#x3D;"_blank"&#x3E;</Contents1>
+<Contents2>&#x3C;img src&#x3D;"https://www.blumentals.net/images/banners-links/webuilder_small.gif" border&#x3D;"0" alt&#x3D;"WeBuilder" /&#x3E;&#x3C;/a&#x3E;</Contents2>
+<ShCut>0</ShCut>
+<Title>Small Banner (88x31)</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;a href&#x3D;"https://www.webuilderapp.com/" target&#x3D;"_blank"&#x3E;
+&#x3C;img src&#x3D;"https://www.blumentals.net/images/banners-links/webuilder_tiny.gif" border&#x3D;"0" alt&#x3D;"WeBuilder" /&#x3E;&#x3C;/a&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Tiny Banner (80x15)</Title>
+</Snippet>
+<Snippet><CallWord></CallWord>
+<Contents1>&#x3C;a href&#x3D;"https://www.webuilderapp.com/" target&#x3D;"_blank"&#x3E;Powered by WeBuilder&#x3C;/a&#x3E;</Contents1>
+<Contents2></Contents2>
+<ShCut>0</ShCut>
+<Title>Text Link</Title>
+</Snippet>
+</Snippets>
+<SubFolders></SubFolders>
+<Title>Powered by WeBuilder</Title>
+</Folder>
+</Folder-list>

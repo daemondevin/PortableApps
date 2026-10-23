@@ -1,0 +1,71 @@
+<?xml version = "1.0"?><Code-list><Code><Code1>&#x3C;!--&#x23;echo var=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Echo</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;exec cgi=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Exec CGI</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;exec cmd=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Exec Command</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;flastmod file=&#x22;</Code1>
+<Code2>&#x22;  --&#x3E; </Code2>
+<ShCut>0</ShCut>
+<Title>File Last Modification</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;flastmod virtual=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>File Last Modification &#x28;Virtual&#x29;</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;fsize file=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>File Size</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;fsize virtual=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>File Size &#x28;Virtual&#x29;</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;goto=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Goto</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;label=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Goto Label</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;break --&#x3E;</Code1>
+<Code2></Code2>
+<ShCut>0</ShCut>
+<Title>Break HTML Output</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;set var=&#x22;&#x22; value=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Set Variable</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;config errmsg=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>Change Error Message</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;if expr=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;&#x0D;&#x0A;&#x0D;&#x0A;&#x3C;!--&#x23;endif --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>if</Title>
+</Code>
+<Code><Code1>&#x3C;!--&#x23;if expr=&#x22;</Code1>
+<Code2>&#x22; --&#x3E;&#x0D;&#x0A;&#x0D;&#x0A;&#x3C;!--&#x23;else --&#x3E;&#x0D;&#x0A;&#x0D;&#x0A;&#x3C;!--&#x23;endif --&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>if .. else</Title>
+</Code>
+</Code-list>

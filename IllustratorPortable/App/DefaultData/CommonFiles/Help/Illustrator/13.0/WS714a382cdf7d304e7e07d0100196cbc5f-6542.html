@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" type="text/css" href="content.css" />
+		<title>
+			Compression and downsampling options for PDF
+		</title>
+<!-- Changed by: , 21-Mar-2006 -->
+<script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+		
+		
+<script type="text/javascript">
+<!--[CDATA[
+handleContext(1);
+if (use_ie_6_behavior) {
+  document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"content-ie6.css\" />");
+}
+// ]]-->
+</script> 
+		
+<script src="scripts.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+	</head>
+	<body id="content_body">
+<!--googleoff: index-->
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+		<div id="pneumonic">
+			<h1 class="Illustrator">Illustrator</h1>
+		</div>
+		<div id="page_content_wrapper">
+			
+<!-- BEGIN BREADCRUMBS -->
+			<div id="breadcrumb">
+<!-- BEGIN BREADCRUMBS -->
+				
+<div class="nav"><dl class="page"><dd class="prev"><a accesskey="p" class="prev" href="WS714a382cdf7d304e7e07d0100196cbc5f-6543.html" title="General options for PDF"><img src="images/prev.gif" alt="Previous" /></a></dd><dd class="next"><a accesskey="n" class="next" href="WS714a382cdf7d304e7e07d0100196cbc5f-6541.html" title="Mark and bleed options for PDF"><img src="images/next.gif" alt="Next" /></a></dd></dl></div><div class="hierarchy"><a href="WS714a382cdf7d304e7e07d0100196cbc5f-657b.html">Importing, exporting, and saving</a> /
+     <a href="WS714a382cdf7d304e7e07d0100196cbc5f-6547.html"><b>Adobe PDF options</b></a> 
+     </div>
+
+<!-- END BREADCRUMBS -->
+			</div>
+<!-- END BREADCRUMBS -->
+<!-- BEGIN PAGE TITLE -->
+<!--googleon: index-->
+			<h1>
+				Compression and downsampling options for PDF
+			</h1>
+<!--googleoff: index-->
+<!-- END PAGE TITLE -->
+<!-- BEGIN CONTENT WRAPPER -->
+			<div id="content_wrapper">
+<!--googleon: index-->
+				<div><div class="section">
+                        <p>
+                           
+                           
+                           
+                           When saving artwork in Adobe PDF, you
+can compress text and line art, and compress and downsample bitmap
+images. Depending on the settings you choose, compression and downsampling
+can significantly reduce the size of a PDF file with little or no
+loss of detail and precision. </p>
+
+                        <p>The Compression area of the
+Save Adobe PDF dialog box is divided into three sections. Each section
+provides the following options for compressing and resampling color,
+grayscale, or monochrome images in your artwork. </p>
+
+                        <div class="important"><span class="importanttitle">Important:  </span>The Preserve Illustrator Editing Capabilities
+option (in the General preferences area) counteracts aggressive
+compression and downsampling. If file size is a concern, deselect
+this option.</div>
+
+                        <dl><dt class="dlterm">Downsampling</dt>
+<dd>
+                                 If you plan to use the PDF file on the web, use downsampling
+to allow for higher compression. If you plan to print the PDF file
+at high resolution, do not use downsampling. Deselect the option
+to disable all downsampling options.
+                                 <p>
+                                    <dfn class="term">Downsampling</dfn> refers
+to decreasing the number of pixels in an image. To downsample color,
+grayscale, or monochrome images, choose an <dfn class="term">interpolation method</dfn>—average
+downsampling, bicubic downsampling, or subsampling—and enter the
+desired resolution (in pixels per inch). Then enter a resolution
+in the For Images Above text box. All images with resolution above
+this threshold will be downsampled.</p>
+
+                                 <p>The interpolation method
+you choose determines how pixels are deleted:</p>
+
+                                 <dl><dt class="dlterm">Average Downsampling</dt>
+<dd>
+                                          Averages the pixels in a sample area and replaces the entire
+area with the average pixel color at the specified resolution.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Bicubic Downsampling</dt>
+<dd>
+                                          Uses a weighted average to determine pixel color, which usually
+yields better results than the simple averaging method of downsampling. Bicubic
+is the slowest but most precise method, resulting in the smoothest gradations.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Subsampling</dt>
+<dd>
+                                          Chooses a pixel in the center of the sample area and replaces
+the entire area with that pixel color. Subsampling significantly
+reduces the conversion time compared with downsampling but results
+in images that are less smooth and continuous.
+                                       </dd><p class="dlseparator"></p></dl>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Compression</dt>
+<dd>
+                                 Determines the type of compression that is used. The Automatic option
+automatically sets the best possible compression and quality for
+the artwork contained in the file. For most files, this option produces
+satisfactory results. Use Automatic (JPEG) if you need the greatest
+compatibility. Use Automatic (JPEG2000) for superior compression.
+                                 <dl><dt class="dlterm">ZIP compression </dt>
+<dd>
+                                          Works well on images with large areas of single colors or repeating
+patterns, and for black-and-white images that contain repeating patterns.
+ZIP compression can be lossless or lossy, depending on the Quality setting. 
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">JPEG compression</dt>
+<dd>
+                                          Is suitable for grayscale or color images. JPEG compression
+is <dfn class="term">lossy</dfn>, which means that it removes image data and
+may reduce image quality; however, it attempts to reduce file size
+with a minimal loss of information. Because JPEG compression eliminates
+data, it can achieve much smaller file sizes than ZIP compression.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">JPEG2000 </dt>
+<dd>
+                                          Is the new international standard for the compression and packaging
+of image data. Like JPEG compression, JPEG2000 compression is suitable
+for grayscale or color images. It also provides additional advantages, such
+as progressive display.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">CCITT and Run Length compression</dt>
+<dd>
+                                          Are only available for monochrome bitmap images. CCITT&#160;(Consultative
+Committee on International Telegraphy and Telephony) compression
+is appropriate for black-and-white images and any images scanned
+with an image depth of 1 bit. Group 4 is a general-purpose method
+that produces good compression for most monochrome images. Group 3,
+used by most fax machines, compresses monochrome bitmaps one row
+at a time. Run&#160;Length compression produces the best results&#160;for
+images that contain large areas of solid black or white. 
+                                       </dd><p class="dlseparator"></p></dl>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Image Quality</dt>
+<dd>
+                                 Determines the amount of compression that is applied. The available
+options depend on the compression method. For JPEG Compression, Illustrator
+provides Minimum, Low, Medium, High, and Maximum Quality options.
+For ZIP compression, Illustrator provides 4‑bit and 8‑bit Quality
+options. If you use 4‑bit ZIP compression with 4‑bit images, or
+8‑bit ZIP compression with 4‑bit or 8‑bit images, the ZIP method
+is <dfn class="term">lossless</dfn>; that is, data is not removed to reduce
+file size, so image quality is not affected. Using 4‑bit ZIP compression
+with 8‑bit data can affect the quality, however, because data is
+lost. 
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Tile Size</dt>
+<dd>
+                                 This option is only enabled when its corresponding Compression setting
+is JPEG2000. It determines the size of the tiles for progressive
+display.
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Compress Text And Line Art</dt>
+<dd>
+                                 Applies compression to all text and line art in the file.
+This method results in no loss of detail or quality.
+                              </dd><p class="dlseparator"></p></dl>
+
+                     </div>
+</div>
+
+<!--googleoff: index-->
+			</div>
+<!-- END CONTENT WRAPPER -->
+		</div>
+<!-- END PAGE CONTENT WRAPPER -->
+		<br clear="both" />
+		<div id="related">
+			<div class="t">
+				<div class="b">
+					<div class="l">
+						<div class="r">
+							<div class="bl">
+								<div class="br">
+									<div class="tl">
+										<div class="tr">
+											<div id="related_in">
+												<h3>
+<script type="text/javascript">document.write(terms_Related_Information);</script> 
+												</h3>
+												<div><ul class="link-list"><li class="icon Illustrator" alt="Illustrator"><a href="WS828E89BE-A298-43ab-A51C-FBCB073E5009.html">About Adobe PDF</a></li></ul>
+</div>
+												<h4>
+<script type="text/javascript">document.write(terms_AHV_HELP_RESOURCE_CENTER);</script> 
+												</h4>
+												<ul class="link-list"><li class="icon external"><a target="_blank" title="This page on the Web" href="http://help.adobe.com/en_US/Illustrator/13.0/WS714a382cdf7d304e7e07d0100196cbc5f-6542.html">This page on the Web</a></li></ul>
+												
+											</div>
+											<br clear="both" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br clear="both" />
+	</body>
+</html>

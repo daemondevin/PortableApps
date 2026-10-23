@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" type="text/css" href="content.css" />
+		<title>
+			Calculate the maximum blend length for gradients
+		</title>
+<!-- Changed by: , 21-Mar-2006 -->
+<script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+		
+		
+<script type="text/javascript">
+<!--[CDATA[
+handleContext(1);
+if (use_ie_6_behavior) {
+  document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"content-ie6.css\" />");
+}
+// ]]-->
+</script> 
+		
+<script src="scripts.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+	</head>
+	<body id="content_body">
+<!--googleoff: index-->
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+		<div id="pneumonic">
+			<h1 class="Illustrator">Illustrator</h1>
+		</div>
+		<div id="page_content_wrapper">
+			
+<!-- BEGIN BREADCRUMBS -->
+			<div id="breadcrumb">
+<!-- BEGIN BREADCRUMBS -->
+				
+<div class="nav"><dl class="page"><dd class="prev"><a accesskey="p" class="prev" href="WS0B50F263-E038-4e36-983D-6D29414B9A51.html" title="Setting the proper screen frequency for printing gradients, meshes, and blends"><img src="images/prev.gif" alt="Previous" /></a></dd><dd class="next"><a accesskey="n" class="next" href="WS714a382cdf7d304e7e07d0100196cbc5f-64a2.html" title="Printing and saving transparent artwork"><img src="images/next.gif" alt="Next" /></a></dd></dl></div><div class="hierarchy"><a href="WS714a382cdf7d304e7e07d0100196cbc5f-64cf.html">Printing</a> /
+     <a href="WS714a382cdf7d304e7e07d0100196cbc5f-64a7.html"><b>Printing gradients, meshes, and color blends</b></a> 
+     </div>
+
+<!-- END BREADCRUMBS -->
+			</div>
+<!-- END BREADCRUMBS -->
+<!-- BEGIN PAGE TITLE -->
+<!--googleon: index-->
+			<h1>
+				Calculate the maximum blend length for gradients
+			</h1>
+<!--googleoff: index-->
+<!-- END PAGE TITLE -->
+<!-- BEGIN CONTENT WRAPPER -->
+			<div id="content_wrapper">
+<!--googleon: index-->
+				<div><div class="section">
+                        <p>
+                           
+                           
+                           Illustrator calculates the
+number of steps in a gradient based on the percentage of change
+between the colors in the gradient. The number of steps, in turn,
+determines the maximum length of the blend before banding occurs. </p>
+
+                     </div>
+<ol><li class="stepexpand"><span>Select the Measure tool&#160;<img src="images/P_Measure_Lg_N.png" />, and
+click the beginning point and the endpoint of the gradient.</span></li>
+<li class="stepexpand"><span>Note the distance displayed in the Info panel on a piece
+of paper. This distance represents the length of the gradient or
+color blend.</span></li>
+<li class="stepexpand"><span>Calculate the number of steps in the blend using this
+formula:</span> 
+                              <p>Number of steps = 256 (number of grays) X Percentage change
+in color</p>
+
+                              <p>To figure out the percentage change in color, subtract
+the lower color value from the higher color value. For example,
+a blend between 20% black and 100% black is an 80%—or 0.8—change
+in color. </p>
+
+                              <p>When blending process colors, use the largest change
+that occurs within any one color. For instance, take a blend from
+20% cyan, 30% magenta, 80% yellow, and 60% black to 20% cyan, 90%
+magenta, 70% yellow, and 40% black. This indicates a 60% change,
+because the greatest change occurs in magenta—from 30% to 90%.</p>
+
+                           </li>
+<li class="stepexpand"><span>Using the number of steps calculated in step&#160;3,
+see if the length of the gradient is larger than the relevant maximum
+length indicated in the next chart. If it is, reduce the length
+of the gradient or change the colors.</span> 
+                              
+<div class="tablenoborder"><table border="0" cellpadding="0" cellspacing="0"><thead align="left"><tr><th rowspan="2" valign="top" width="NaN%" id="d16e50234">
+                                             <p>Number of Steps Adobe Illustrator
+Recommends</p>
+
+                                          </th>
+<th colspan="3" valign="top" id="d16e50239">
+                                             <p>Maximum Blend Length</p>
+
+                                          </th>
+</tr>
+<tr><th valign="top" width="NaN%" id="d16e50245">
+                                             <p>Points</p>
+
+                                          </th>
+<th valign="top" width="NaN%" id="d16e50250">
+                                             <p>Inches	</p>
+
+                                          </th>
+<th valign="top" width="NaN%" id="d16e50255">
+                                             <p>Cms</p>
+
+                                          </th>
+</tr>
+</thead>
+<tbody><tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>10</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>21.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>.3</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>.762</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>20</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>43.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>1.524</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>30</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>64.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>.9</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>2.286</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>40</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>86.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>1.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>3.048</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>50</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>108.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>1.5</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>3.810</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>60</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>129.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>1.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>4.572</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>70</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>151.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>2.1</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>5.334</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>80</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>172.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>2.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>6.096</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>90</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>194.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>2.7</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>6.858</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>100</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>216.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>3.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>7.620</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>110</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>237.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>3.3</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>8.382</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>120</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>259.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>3.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>9.144</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>130</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>280.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>3.9</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>9.906</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>140</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>302.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>4.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>10.668</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>150</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>324.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>4.5</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>11.430</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>160</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>345.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>4.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>12.192</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>170</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>367.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>5.1</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>12.954</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>180</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>388.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>5.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>13.716</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>190</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>410.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>5.7</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>14.478</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>200</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>432.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>6.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>15.240</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>210</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>453.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>6.3</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>16.002</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>220</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>475.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>6.6</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>16.764</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>230</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>496.8</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>6.9</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>17.526</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>240</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>518.4</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>7.2</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>18.288</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>250</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>540.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>7.5</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>19.050</p>
+
+                                          </td>
+</tr>
+<tr><td valign="top" width="NaN%" headers="d16e50234 ">
+                                             <p>256</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50245 ">
+                                             <p>553.0</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50250 ">
+                                             <p>7.7</p>
+
+                                          </td>
+<td valign="top" width="NaN%" headers="d16e50239 d16e50255 ">
+                                             <p>19.507</p>
+
+                                          </td>
+</tr>
+</tbody>
+</table>
+</div>
+
+                           </li>
+</ol>
+</div>
+
+<!--googleoff: index-->
+			</div>
+<!-- END CONTENT WRAPPER -->
+		</div>
+<!-- END PAGE CONTENT WRAPPER -->
+		<br clear="both" />
+		<div id="related">
+			<div class="t">
+				<div class="b">
+					<div class="l">
+						<div class="r">
+							<div class="bl">
+								<div class="br">
+									<div class="tl">
+										<div class="tr">
+											<div id="related_in">
+												<h3>
+<script type="text/javascript">document.write(terms_Related_Information);</script> 
+												</h3>
+												<div><ul class="link-list"><li class="icon Illustrator" alt="Illustrator"><a href="WS714a382cdf7d304e7e07d0100196cbc5f-6538.html">Document Info panel overview</a></li></ul>
+</div>
+												<h4>
+<script type="text/javascript">document.write(terms_AHV_HELP_RESOURCE_CENTER);</script> 
+												</h4>
+												<ul class="link-list"><li class="icon external"><a target="_blank" title="This page on the Web" href="http://help.adobe.com/en_US/Illustrator/13.0/WS714a382cdf7d304e7e07d0100196cbc5f-64a3.html">This page on the Web</a></li></ul>
+												
+											</div>
+											<br clear="both" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br clear="both" />
+	</body>
+</html>

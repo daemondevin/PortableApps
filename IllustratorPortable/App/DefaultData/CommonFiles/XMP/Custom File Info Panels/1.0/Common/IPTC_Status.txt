@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!-- (c) 2005 Adobe Systems Incorporated. All rights reserved. -->
+<!DOCTYPE panel SYSTEM "http://ns.adobe.com/custompanels/1.0">
+
+<panel title="$$$/iptc/core/trackinginfo=IPTC Status" version="1" type="custom_panel">
+
+	group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{
+		
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/howto=Use this panel to record workflow and copyright information.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/title=Title', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: xap_ns_dc, xmp_path: 'title', container_type: alt_struct, horizontal: align_fill);
+			mru_popup(xmp_namespace: xap_ns_dc, xmp_path: 'title', container_type: alt_struct, no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/jobId=Job Identifier', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'TransmissionReference', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'TransmissionReference', no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/instructions=Instructions', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'Instructions', v_scroller: true, horizontal: align_fill, height:90);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'Instructions', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/provider=Provider', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'Credit', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'Credit', no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/source=Source', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'Source', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'Source', no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/copyrightNotice=Copyright Notice', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: xap_ns_xap_rights, xmp_path: 'Copyright', container_type: alt_struct, v_scroller: true, preserve_commas: true, horizontal: align_fill, height:90);
+			mru_popup(xmp_namespace: xap_ns_xap_rights, xmp_path: 'Copyright', container_type: alt_struct, no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Status/rightsUsageTerms=Rights Usage Terms', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: xap_ns_xap_rights, xmp_path: 'UsageTerms', container_type: alt_struct, v_scroller: true, preserve_commas: true, horizontal: align_fill, height:90);			
+			mru_popup(xmp_namespace: xap_ns_xap_rights, xmp_path: 'UsageTerms', container_type: alt_struct, no_check: true, vertical: align_top);
+			}
+		}
+</panel>

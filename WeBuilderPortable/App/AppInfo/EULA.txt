@@ -1,0 +1,51 @@
+WeBuilder 2025
+SOFTWARE LICENSE AGREEMENT
+
+Before you use WeBuilder software, please read this agreement. You may use this software only as described in this license.
+
+1. SOFTWARE
+The capitalized term "Software" used below refers to WeBuilder version 18.0, any updates to the software, any supplemental code provided to you by Karlis Blumentals, the user manual, any associated software components, any related media and printed materials, and any "online" or electronic documentation.
+
+2. COPYRIGHT
+The Software is copyright 2004-2025, Karlis Blumentals. The Software is licensed, not sold.
+
+3. EVALUATION VERSION
+You may use (launch) the Software 30 times for evaluation purposes without any charge. You must pay the license fee and register your copy to continue to use the Software after the evaluation uses (launch times) are over. Otherwise, you must delete (uninstall) the Software from your computer. For information on paying the license fee and registering your copy of the Software, you should choose "Help|Register" from the Menu Bar. During the evaluation period, you may use the Software on as many different computers as you like.
+
+4. REGISTERED VERSION
+Upon enabling (or installing) the registered copy, you may use the Software on that number of computers for which you have paid a separate license fee, and the primary user of each computer for which you have paid a separate license fee may use the Software both on his or her portable device and personal computer at home. You may also make one copy of the Software for backup or archival purposes. Otherwise, you may not copy the registered Software in whole or in part. If the registered copy of the Software is installed on a network server or other storage device, you must purchase a license for each separate computer on which the Software is used. A license for the Software may not be shared by alternating use of the Software between different computers. You may permanently transfer all of your rights to the registered copy of the Software under this license provided you transfer all copies of the Software and the recipient agrees to the terms of this license. All rights not expressly granted under this license are reserved by Karlis Blumentals.
+
+Personal License:
+You must be acting as an individual to use the Software purchased as "Personal License". "Personal License" allows you to use the Software for non-commercial purposes only. 
+
+Team License:
+If the license you have acquired was purchased as "Team License", you may install and use the Software on 4 computers, and the primary user of each computer for which you have paid the license fee may use the Software both on his or her portable device and personal computer at home. 
+
+5. DISCLAIMER
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES, INCLUDING INCIDENTAL OR CONSEQUENTIAL DAMAGES, ARISING OUT OF THE USE OF THIS SOFTWARE, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT AND AGREE TO BE BOUND BY ITS TERMS.
+
+6. LICENSE ACTIVATION AND VALIDATION
+The Software may attempt to contact remote servers over the Internet in order to complete the license activation process and validate the right to use the Software on this machine. No personally identifiable information will be transmitted during this process, except to the extent that IP address may be considered personally identifiable in some jurisdictions. BY USING THE SOFTWARE, YOU CONSENT TO THE TRANSMISSION OF THIS INFORMATION.
+
+7. DISTRIBUTION
+The Software may be distributed freely in its original unmodified and unregistered form. The distribution has to include all files of its original distribution. Distributors may not charge any money for it.
+
+8. OTHER RESTRICTIONS
+You may not and you agree not to, or enable others to, modify, decompile, reverse engineer, disassemble, decrypt, or create derivative works of the Software (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by licensing terms governing use of open-sourced components included with the Software). You may not rent, lease, or lend the Software. Karlis Blumentals keeps full rights to change any part of the Software.
+
+9. LEGAL NOTES ON INCLUDED OPEN SOURCE SOFTWARE
+This Software includes SSL libraries developed by the OpenSSL Project for use in the OpenSSL Toolkit and licensed onder OpenSSL license, a copy of which is included with the software. More information about OpenSSL Project can be found at http://www.openssl.org
+
+This Software includes HTML Tidy developed by its respective authors and licensed licensed under the terms of its own license agreement, a copy of which is included with the software.
+
+Every reasonable attempt has been made to comply with all licensing requirements for the components used in the Software. Any oversight is unintentional and will be remedied if brought to the attention of Karlis Blumentals via http://www.webuilderapp.com/support-contact.php
+
+10. PRIVACY AND DATA PROCESSING
+When you use the Software or related online services or visit the related website(s), your data will be processed according to Blumentals Software Privacy Policy (found at https://www.blumentals.net/privacy.php). BY USING THE SOFTWARE, YOU AGREE THAT YOUR DATA WILL BE PROCESSED ACCORDING TO THE PRIVACY POLICY.
+
+11. TERMINATION
+This license terminates if you fail to comply with its terms and conditions. If your license terminates, you must destroy all copies of the Software you have. The termination of this license does not limit other rights that Karlis Blumentals may have by law.
+
+If you have any questions about this license agreement, please contact us via http://www.webuilderapp.com/support-contact.php
+
+WeBuilder © 2004-2025 Karlis Blumentals

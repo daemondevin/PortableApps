@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Payload adobeCode="{FB235376-7904-4164-88F4-13CA3944BBB9}">
+		<!-- defaultAdobeCode for development use. -->
+		<Data key="defaultAdobeCode">CMaps-Installer-AdobeCode</Data>
+		<Data key="AdobeUpdaterCode">Updater-GUID-cmaps-CS3-all</Data>
+	</Payload>
+	<Other adobeCode="Updater-GUID-cmaps-CS3-all">
+		<Data key="UpdateID">cmaps1</Data>
+		<Data key="DisplayName">Updates to all CS3 products</Data>
+		<Data key="ChannelType">Adobe</Data>
+	</Other>
+</Configuration>

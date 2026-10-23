@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Payload adobeCode="{65B2E542-E491-4762-90DB-C18B1200A093}">
+		<!-- defaultAdobeCode for development use. -->
+		<Data key="defaultAdobeCode">AdobeXMPPanels-Installer-AdobeCode</Data>
+		<Data key="AdobeUpdaterCode">Updater-GUID-AdobeXMPPanels-1-all</Data>
+	</Payload>
+	<Other adobeCode="Updater-GUID-AdobeXMPPanels-1-all">
+		<Data key="UpdateID">xmppanels1</Data>
+		<Data key="DisplayName">Updates to all CS3 products</Data>
+		<Data key="ChannelType">Adobe</Data>
+	</Other>
+</Configuration>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!-- (c) 2005 Adobe Systems Incorporated. All rights reserved. -->
+<!DOCTYPE panel SYSTEM "http://ns.adobe.com/custompanels/1.0">
+
+<panel title="$$$/iptc/core/descriptions=IPTC Image" version="1" type="custom_panel">
+
+	group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{		
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/howto=Use this panel for formal descriptive information about the image.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/dateCreated=Date Created', font: font_big_right, vertical: align_top);
+			date_edit_text(xmp_namespace: photoshop, xmp_path: 'DateCreated', horizontal: align_left, width: 180);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'DateCreated', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/intellectualGenre=Intellectual Genre', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'IntellectualGenre', horizontal: align_fill);
+			mru_popup(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'IntellectualGenre', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/scene=IPTC Scene*', font: font_big_right, vertical: align_top);
+			cat_container_edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'Scene', container_type: bag_struct, v_scroller: true, horizontal: align_fill, height:60);
+			mru_popup(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'Scene', container_type: bag_struct, no_check: true, vertical: align_top, mru_append: true);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Image/howto2=Scene values are defined at http://www.newscodes.org', font: font_small, vertical: align_center, horizontal: align_right, label: false);
+			}
+
+		separator(height: 10, width: 485, horizontal: align_fill);
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/location=Location', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'Location', horizontal: align_fill);
+			mru_popup(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'Location', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/city=City', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'City', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'City', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/state=State/Province', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'State', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'State', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/country=Country', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'Country', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'Country', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Image/isoCountryCode=ISO Country Code', font: font_big_right, vertical: align_top);
+			edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CountryCode', width: 100, max_chars: 3);
+			mru_popup(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'CountryCode', no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Image/howto4=Country codes may be either 2- or 3-letter codes as defined by the ISO 3166 standard.', font: font_small, vertical: align_center, horizontal: align_right, label: false);
+			}
+
+		separator(height: 10, width: 485, horizontal: align_fill);
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Image/howto3=* Multiple values may be separated by a comma or semicolon.', font: font_small, vertical: align_center, horizontal: align_right, label: false);
+			}
+
+		}
+</panel>

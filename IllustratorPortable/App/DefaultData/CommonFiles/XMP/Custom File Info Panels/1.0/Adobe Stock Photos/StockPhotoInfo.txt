@@ -1,0 +1,117 @@
+<?xml version="1.0">
+
+<!DOCTYPE panel SYSTEM "http://ns.adobe.com/custompanels/1.0">
+
+<panel title="$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/PanelNameAllLang=Adobe Stock Photos" version="1" type="custom_panel">
+
+group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+{
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Type=Type:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/Type=Type', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'KindOfImage');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/AdobeID=Adobe ID:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/AdobeID=Adobe ID', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'ASPRefID');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/MediaTitle=Media Title:', font: font_small_right, vertical: align_top);
+		edit_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/MediaTitle=Media Title', locked: true, horizontal: align_fill, height: gTextViewHeight, v_scroller: true, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Media/bmsp:MediaTitle');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Distributor=Distributor:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/Distributor=Distributor', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Media/bmsp:Distributer');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Color=Color:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/Color=Color', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:ColorFormat');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/MediaType=Media Type:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/MediaType=Media Type', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:MediaType');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Orientation=Orientation:', font: font_small_right, vertical: align_center);
+		static_text(locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:Orientation');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/PointOfView=Point of View:', font: font_small_right, vertical: align_top);
+		edit_text(locked: true, horizontal: align_fill, height: gTextViewHeight, v_scroller: true, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:PointOfView');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/License=License:', font: font_small_right, vertical: align_center);
+		static_text_enum(locked: true, horizontal: align_fill, items: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/LicenseEnum=Royalty Free{Royalty Free};Rights Managed{Rights Managed};Unknown{}', xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:LicenseType');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/License Agreement=License Agreement:', font: font_small_right, vertical: align_top);
+		edit_text(locked: true, horizontal: align_fill, height: gTextViewHeight, v_scroller: true, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Attribute/bmsp:License');
+	}
+
+	separator(horizontal: align_fill);
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/PurchaseID=Purchase ID:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/PurchaseID=Purchase ID', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'PurchaseID');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/OrderID=Order ID:', font: font_small_right, vertical: align_center);
+		static_text(locked: true, horizontal: align_fill, width: 60, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'TransactionID');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+	{
+		group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{
+			group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+			{
+				static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Price=Price:', font: font_small_right, vertical: align_center);
+				static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/Price=Price', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Price/bmsp:Value');
+			}
+		}
+
+		group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{
+			group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+			{
+				static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Currency=Currency:', font: font_small_right, vertical: align_center);
+				static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/Currency=Currency', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsp', xmp_namespace: 'http://ns.adobe.com/StockPhoto/1.0/', xmp_path: 'Price/bmsp:Currency');
+			}
+		}
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/FileFormat=File Format:', font: font_small_right, vertical: align_center);
+		static_text(fbname: '$$$/BMTN/Bridge/MetadataPane/StockPhotoInfo/FileFormat=File Format', locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsr', xmp_namespace: 'http://ns.adobe.com/StockPhoto/Resolutions/1.0/', xmp_path: 'StockResolution/*[1]/bmsr:FileFormat');
+	}
+
+	group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+	{
+		static_text(name: '$$$/BMTN/FileInfoLib/Panels/StockPhotoInfo/Description=Description:', font: font_small_right, vertical: align_center);
+		static_text(locked: true, horizontal: align_fill, xmp_ns_prefix: 'bmsr', xmp_namespace: 'http://ns.adobe.com/StockPhoto/Resolutions/1.0/', xmp_path: 'StockResolution/*[1]/bmsr:Description');
+	}
+}
+
+</panel>

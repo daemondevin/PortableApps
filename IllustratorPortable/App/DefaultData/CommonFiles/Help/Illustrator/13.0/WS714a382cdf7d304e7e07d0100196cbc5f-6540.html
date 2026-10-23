@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" type="text/css" href="content.css" />
+		<title>
+			Color management and PDF/X options for PDF
+		</title>
+<!-- Changed by: , 21-Mar-2006 -->
+<script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+		
+		
+<script type="text/javascript">
+<!--[CDATA[
+handleContext(1);
+if (use_ie_6_behavior) {
+  document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"content-ie6.css\" />");
+}
+// ]]-->
+</script> 
+		
+<script src="scripts.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+	</head>
+	<body id="content_body">
+<!--googleoff: index-->
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+		<div id="pneumonic">
+			<h1 class="Illustrator">Illustrator</h1>
+		</div>
+		<div id="page_content_wrapper">
+			
+<!-- BEGIN BREADCRUMBS -->
+			<div id="breadcrumb">
+<!-- BEGIN BREADCRUMBS -->
+				
+<div class="nav"><dl class="page"><dd class="prev"><a accesskey="p" class="prev" href="WS714a382cdf7d304e7e07d0100196cbc5f-6541.html" title="Mark and bleed options for PDF"><img src="images/prev.gif" alt="Previous" /></a></dd><dd class="next"><a accesskey="n" class="next" href="WS714a382cdf7d304e7e07d0100196cbc5f-653f.html" title="Font and flattening options for PDF"><img src="images/next.gif" alt="Next" /></a></dd></dl></div><div class="hierarchy"><a href="WS714a382cdf7d304e7e07d0100196cbc5f-657b.html">Importing, exporting, and saving</a> /
+     <a href="WS714a382cdf7d304e7e07d0100196cbc5f-6547.html"><b>Adobe PDF options</b></a> 
+     </div>
+
+<!-- END BREADCRUMBS -->
+			</div>
+<!-- END BREADCRUMBS -->
+<!-- BEGIN PAGE TITLE -->
+<!--googleon: index-->
+			<h1>
+				Color management and PDF/X options for PDF
+			</h1>
+<!--googleoff: index-->
+<!-- END PAGE TITLE -->
+<!-- BEGIN CONTENT WRAPPER -->
+			<div id="content_wrapper">
+<!--googleon: index-->
+				<div><div class="section">
+                        <p>
+                           You
+can set the following options in the Output section of the Save
+Adobe PDF dialog box. Interactions between Output options change
+depending on whether Color Management is on or off and which PDF
+standard is selected. </p>
+
+                        <dl><dt class="dlterm">Color Conversion</dt>
+<dd>
+                                 Specifies how to represent color information in the Adobe PDF
+file. When you convert color objects to RGB or CMYK, also select
+a destination profile from the pop‑up menu. All spot color information
+is preserved during color conversion; only the process color equivalents
+convert to the designated color space. 
+                                 <dl><dt class="dlterm">No Conversion </dt>
+<dd>
+                                          Preserves color data as is. This is the default when PDF/X‑3
+is selected.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Convert To Destination </dt>
+<dd>
+                                          Converts all colors to the profile selected for Destination.
+Whether the profile is included or not is determined by the Profile Inclusion
+Policy.
+                                          <div class="note"><span class="notetitle">Note:  </span>When Convert to Destination is selected, and the
+Destination doesn’t match the document profile, a warning icon appears
+beside the option.</div>
+
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Convert To Destination (Preserve Numbers)</dt>
+<dd>
+                                          Preserves color numbers for untagged content in the same
+color space as the destination profile (by assigning the destination
+profile, not converting to it). All other content is converted to
+the destination space. This option is not available if color management
+is turned off. Whether the profile is included or not is determined
+by the Profile Inclusion Policy. 
+                                       </dd><p class="dlseparator"></p></dl>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Destination </dt>
+<dd>
+                                 Describes the gamut of the final RGB or CMYK output device,
+such as your monitor or a SWOP standard. Using this profile, Illustrator
+converts the document’s color information (defined by the source
+profile in the Working Spaces section of the Color Settings dialog
+box) to the color space of the target output device. 
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Profile Inclusion Policy</dt>
+<dd>
+                                 Determines whether a color profile is included in the file.
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Output Intent Profile Name</dt>
+<dd>
+                                 Specifies the characterized printing condition for the document.
+An output intent profile is required for creating PDF/X‑compliant files.
+This menu is only available if a PDF/X standard (or preset) is selected
+in the Save Adobe PDF dialog box. The available options depend on
+whether color management is on or off. For example, if color management
+is off, the menu lists available printer profiles. If color management
+is on, the menu lists the same profile selected for Destination
+Profile (provided it is a CMYK output device), in addition to other
+predefined printer profiles. 
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Output Condition</dt>
+<dd>
+                                 Describes the intended printing condition. This entry can
+be useful for the intended receiver of the PDF document.
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Output Condition Identifier</dt>
+<dd>
+                                 A pointer to more information on the intended printing condition.
+The identifier is automatically entered for printing conditions that
+are included in the ICC registry.
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Registry Name</dt>
+<dd>
+                                 Indicates the web address for more information on the registry. The
+URL is automatically entered for ICC registry names. 
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Trapped</dt>
+<dd>
+                                 Indicates the state of trapping in the document. PDF/X compliance requires
+a value of True (selected) or False (deselected). Any document that doesn’t
+meet the requirement will fail PDF/X compliance checking.
+                              </dd><p class="dlseparator"></p></dl>
+
+                     </div>
+</div>
+
+<!--googleoff: index-->
+			</div>
+<!-- END CONTENT WRAPPER -->
+		</div>
+<!-- END PAGE CONTENT WRAPPER -->
+		<br clear="both" />
+		<div id="related">
+			<div class="t">
+				<div class="b">
+					<div class="l">
+						<div class="r">
+							<div class="bl">
+								<div class="br">
+									<div class="tl">
+										<div class="tr">
+											<div id="related_in">
+												<h3>
+<script type="text/javascript">document.write(terms_Related_Information);</script> 
+												</h3>
+												<div><ul class="link-list"><li class="icon Illustrator" alt="Illustrator"><a href="WS828E89BE-A298-43ab-A51C-FBCB073E5009.html">About Adobe PDF</a></li><li class="icon Illustrator" alt="Illustrator"><a href="WS4B1DA965-B411-45a0-9D7E-0C6034B9E023.html">Color-managing PDFs for printing</a></li></ul>
+</div>
+												<h4>
+<script type="text/javascript">document.write(terms_AHV_HELP_RESOURCE_CENTER);</script> 
+												</h4>
+												<ul class="link-list"><li class="icon external"><a target="_blank" title="This page on the Web" href="http://help.adobe.com/en_US/Illustrator/13.0/WS714a382cdf7d304e7e07d0100196cbc5f-6540.html">This page on the Web</a></li></ul>
+												
+											</div>
+											<br clear="both" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br clear="both" />
+	</body>
+</html>

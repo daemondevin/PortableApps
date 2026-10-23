@@ -1,0 +1,666 @@
+/collection1 {
+	/attributes {
+		/Pane#0\ PaneMode 0
+		/Pane#0\ Size 27
+		/AdobeActionPalette\ ButtonMode 0
+		/AdobeActionPalette\ Visible 0
+		/AdobeActionPalette\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeActionPalette\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeActionPalette\ Size {
+			/b 321
+			/r 260
+			/t 225
+			/l 50
+		}
+		/AdobeActionPalette\ Location {
+			/v 225
+			/h 50
+		}
+		/AdobeActionPalette\ DockGroup (AdobeActionPalette)
+		/AdobeActionPalette\ DockCode 327936
+		/AdobeBrush\ Name\ View 1
+		/AdobeBrush\ Visible 0
+		/AdobeBrush\ SizeUncnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeBrush\ SizeCnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeBrush\ Size {
+			/b 356
+			/r 1461
+			/t 255
+			/l 1251
+		}
+		/AdobeBrush\ Location {
+			/v 255
+			/h 1251
+		}
+		/AdobeBrush\ DockGroup (AdobeColorEditor)
+		/AdobeBrush\ DockCode 59638274
+		/AdobeStrokeEditor\ ShowOptions 0
+		/AdobeStrokeEditor\ Visible 0
+		/AdobeStrokeEditor\ Location {
+			/v 455
+			/h 1251
+		}
+		/AdobeStrokeEditor\ DockGroup (AdobeColorEditor)
+		/AdobeStrokeEditor\ DockCode 59572483
+		/AdobeGradientEditor\ ShowOptions 0
+		/AdobeGradientEditor\ Visible 0
+		/AdobeGradientEditor\ SizeUncnstr {
+			/v 25
+			/h 210
+		}
+		/AdobeGradientEditor\ SizeCnstr {
+			/v 25
+			/h 210
+		}
+		/AdobeGradientEditor\ Size {
+			/b 497
+			/r 1461
+			/t 455
+			/l 1251
+		}
+		/AdobeGradientEditor\ Location {
+			/v 455
+			/h 1251
+		}
+		/AdobeGradientEditor\ DockGroup (AdobeColorEditor)
+		/AdobeGradientEditor\ DockCode 59507203
+		/AdobeColorEditor\ ShowOptions 1
+		/AdobeColorEditor\ Visible 0
+		/AdobeColorEditor\ Location {
+			/v 121
+			/h 1251
+		}
+		/AdobeColorEditor\ DockGroup (AdobeColorEditor)
+		/AdobeColorEditor\ DockCode 59572481
+		/AdobeStrokeSwatchesPopup\ ShowFindField 0
+		/AdobeStrokeSwatchesPopup\ CurrentListStyle 15
+		/AdobeStrokeSwatchesPopup\ GroupsListStyle 15
+		/AdobeStrokeSwatchesPopup\ PatternListStyle 15
+		/AdobeStrokeSwatchesPopup\ GradientListStyle 15
+		/AdobeStrokeSwatchesPopup\ ColorListStyle 15
+		/AdobeStrokeSwatchesPopup\ ShowAllListStyle 15
+		/AdobeStrokeSwatchesPopup\ VisibleKind 0
+		/AdobeFillSwatchesPopup\ ShowFindField 0
+		/AdobeFillSwatchesPopup\ CurrentListStyle 15
+		/AdobeFillSwatchesPopup\ GroupsListStyle 15
+		/AdobeFillSwatchesPopup\ PatternListStyle 15
+		/AdobeFillSwatchesPopup\ GradientListStyle 15
+		/AdobeFillSwatchesPopup\ ColorListStyle 15
+		/AdobeFillSwatchesPopup\ ShowAllListStyle 15
+		/AdobeFillSwatchesPopup\ VisibleKind 0
+		/AdobeSwatch_\ ShowFindField 0
+		/AdobeSwatch_\ CurrentListStyle 15
+		/AdobeSwatch_\ GroupsListStyle 15
+		/AdobeSwatch_\ PatternListStyle 15
+		/AdobeSwatch_\ GradientListStyle 15
+		/AdobeSwatch_\ ColorListStyle 15
+		/AdobeSwatch_\ ShowAllListStyle 15
+		/AdobeSwatch_\ VisibleKind 0
+		/AdobeSwatch_\ Visible 0
+		/AdobeSwatch_\ SizeUncnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeSwatch_\ SizeCnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeSwatch_\ Size {
+			/b 419
+			/r 1461
+			/t 255
+			/l 1251
+		}
+		/AdobeSwatch_\ Location {
+			/v 255
+			/h 1251
+		}
+		/AdobeSwatch_\ DockGroup (AdobeColorEditor)
+		/AdobeSwatch_\ DockCode 59572482
+		/AdobeLayerPalette\ Visible 0
+		/AdobeLayerPalette\ SizeUncnstr {
+			/v 116
+			/h 210
+		}
+		/AdobeLayerPalette\ SizeCnstr {
+			/v 116
+			/h 210
+		}
+		/AdobeLayerPalette\ Size {
+			/b 764
+			/r 1461
+			/t 648
+			/l 1251
+		}
+		/AdobeLayerPalette\ Location {
+			/v 648
+			/h 1251
+		}
+		/AdobeLayerPalette\ DockGroup (AdobeColorEditor)
+		/AdobeLayerPalette\ DockCode 59572229
+		/AdobeBuiltInToolbox\ toolbarMode 0
+		/AdobeBuiltInToolbox\ NumTearoffs 0
+		/AdobeBuiltInToolbox\ Visible 1
+		/AdobeBuiltInToolbox\ Size {
+			/b 521
+			/r 62
+			/t 126
+			/l 5
+		}
+		/AdobeBuiltInToolbox\ Location {
+			/v 126
+			/h 5
+		}
+		/AdobeBuiltInToolbox\ DockGroup (AdobeBuiltInToolbox)
+		/AdobeBuiltInToolbox\ DockCode 17629183
+		/AdobeMagicWandPalette\ ShowTransparencyOptionsPref 0
+		/AdobeMagicWandPalette\ ShowStrokeOptionsPref 0
+		/AdobeMagicWandPalette\ ShowFillOptionsPref 1
+		/AdobeMagicWandPalette\ Visible 0
+		/AdobeMagicWandPalette\ Location {
+			/v 305
+			/h 657
+		}
+		/AdobeMagicWandPalette\ DockGroup (AdobeMagicWandPalette)
+		/AdobeMagicWandPalette\ DockCode 65536
+		/AdobePathfinderPalette\ Visible 0
+		/AdobePathfinderPalette\ Location {
+			/v 693
+			/h 661
+		}
+		/AdobePathfinderPalette\ DockGroup (AdobeTransformObjects)
+		/AdobePathfinderPalette\ DockCode 262912
+		/AdobeTransparencyEditor\ Size 0
+		/AdobeTransparencyEditor\ Visible 0
+		/AdobeTransparencyEditor\ Location {
+			/v 455
+			/h 1251
+		}
+		/AdobeTransparencyEditor\ DockGroup (AdobeColorEditor)
+		/AdobeTransparencyEditor\ DockCode 59507459
+		/AdobeTransformObjects\ Visible 0
+		/AdobeTransformObjects\ Location {
+			/v 693
+			/h 661
+		}
+		/AdobeTransformObjects\ DockGroup (AdobeTransformObjects)
+		/AdobeTransformObjects\ DockCode 327936
+		/AdobeSymbolsPalette\ SymbolPaletteView 0
+		/AdobeSymbolsPalette\ Visible 0
+		/AdobeSymbolsPalette\ SizeUncnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeSymbolsPalette\ SizeCnstr {
+			/v 86
+			/h 210
+		}
+		/AdobeSymbolsPalette\ Size {
+			/b 375
+			/r 1461
+			/t 255
+			/l 1251
+		}
+		/AdobeSymbolsPalette\ Location {
+			/v 255
+			/h 1251
+		}
+		/AdobeSymbolsPalette\ DockGroup (AdobeColorEditor)
+		/AdobeSymbolsPalette\ DockCode 59507458
+		/svgInteractivityDlg\ Visible 0
+		/svgInteractivityDlg\ SizeUncnstr {
+			/v 141
+			/h 210
+		}
+		/svgInteractivityDlg\ SizeCnstr {
+			/v 141
+			/h 210
+		}
+		/svgInteractivityDlg\ Size {
+			/b 513
+			/r 869
+			/t 372
+			/l 659
+		}
+		/svgInteractivityDlg\ Location {
+			/v 372
+			/h 659
+		}
+		/svgInteractivityDlg\ DockGroup (svgInteractivityDlg)
+		/svgInteractivityDlg\ DockCode 327936
+		/AdobeVariablesPalette\ Button\ Location 105
+		/AdobeVariablesPalette\ Visible 0
+		/AdobeVariablesPalette\ SizeUncnstr {
+			/v 141
+			/h 210
+		}
+		/AdobeVariablesPalette\ SizeCnstr {
+			/v 141
+			/h 210
+		}
+		/AdobeVariablesPalette\ Size {
+			/b 497
+			/r 884
+			/t 372
+			/l 659
+		}
+		/AdobeVariablesPalette\ Location {
+			/v 372
+			/h 659
+		}
+		/AdobeVariablesPalette\ DockGroup (svgInteractivityDlg)
+		/AdobeVariablesPalette\ DockCode 262656
+		/AdobeFlashTextPalette\ Visible 0
+		/AdobeFlashTextPalette\ Location {
+			/v 326
+			/h 429
+		}
+		/AdobeFlashTextPalette\ DockGroup (AdobeFlashTextPalette)
+		/AdobeFlashTextPalette\ DockCode 65536
+		/AdobeLinkPalette\ Show\ Transparency\ Interaction 0
+		/AdobeLinkPalette\ Smart\ Linking\ (boolean) 0
+		/AdobeLinkPalette\ Show\ Icons\ (boolean) 1
+		/AdobeLinkPalette\ List\ Entry\ Height 32
+		/AdobeLinkPalette\ Visible 0
+		/AdobeLinkPalette\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeLinkPalette\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeLinkPalette\ Size {
+			/b 336
+			/r 260
+			/t 225
+			/l 50
+		}
+		/AdobeLinkPalette\ Location {
+			/v 225
+			/h 50
+		}
+		/AdobeLinkPalette\ DockGroup (AdobeActionPalette)
+		/AdobeLinkPalette\ DockCode 262656
+		/AdobeFlatteningPreview\ ShowOptions 0
+		/AdobeFlatteningPreview\ Visible 0
+		/AdobeFlatteningPreview\ SizeUncnstr {
+			/v 200
+			/h 366
+		}
+		/AdobeFlatteningPreview\ SizeCnstr {
+			/v 200
+			/h 366
+		}
+		/AdobeFlatteningPreview\ Size {
+			/b 287
+			/r 641
+			/t 87
+			/l 275
+		}
+		/AdobeFlatteningPreview\ Location {
+			/v 87
+			/h 275
+		}
+		/AdobeFlatteningPreview\ DockGroup (AdobeFlatteningPreview)
+		/AdobeFlatteningPreview\ DockCode 65536
+		/DocInfo\ Visible 0
+		/DocInfo\ SizeUncnstr {
+			/v 94
+			/h 210
+		}
+		/DocInfo\ SizeCnstr {
+			/v 94
+			/h 210
+		}
+		/DocInfo\ Size {
+			/b 260
+			/r 260
+			/t 87
+			/l 50
+		}
+		/DocInfo\ Location {
+			/v 87
+			/h 50
+		}
+		/DocInfo\ DockGroup (DocInfo)
+		/DocInfo\ DockCode 327936
+		/AdobeColorHarmony\ ShowOptions 1
+		/AdobeColorHarmony\ Visible 0
+		/AdobeColorHarmony\ SizeUncnstr {
+			/v 98
+			/h 210
+		}
+		/AdobeColorHarmony\ SizeCnstr {
+			/v 98
+			/h 210
+		}
+		/AdobeColorHarmony\ Size {
+			/b 241
+			/r 1461
+			/t 121
+			/l 1251
+		}
+		/AdobeColorHarmony\ Location {
+			/v 121
+			/h 1251
+		}
+		/AdobeColorHarmony\ DockGroup (AdobeColorEditor)
+		/AdobeColorHarmony\ DockCode 59507201
+		/AdobeParaStyles\ Visible 0
+		/AdobeParaStyles\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeParaStyles\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeParaStyles\ Size {
+			/b 458
+			/r 261
+			/t 362
+			/l 51
+		}
+		/AdobeParaStyles\ Location {
+			/v 362
+			/h 51
+		}
+		/AdobeParaStyles\ DockGroup (AdobeCharStyles)
+		/AdobeParaStyles\ DockCode 262656
+		/AdobeCharStyles\ Visible 0
+		/AdobeCharStyles\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeCharStyles\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeCharStyles\ Size {
+			/b 458
+			/r 261
+			/t 362
+			/l 51
+		}
+		/AdobeCharStyles\ Location {
+			/v 362
+			/h 51
+		}
+		/AdobeCharStyles\ DockGroup (AdobeCharStyles)
+		/AdobeCharStyles\ DockCode 327936
+		/AdobeNavigator\ Visible 0
+		/AdobeNavigator\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeNavigator\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeNavigator\ Size {
+			/b 262
+			/r 865
+			/t 166
+			/l 655
+		}
+		/AdobeNavigator\ Location {
+			/v 166
+			/h 655
+		}
+		/AdobeNavigator\ DockGroup (AdobeNavigator)
+		/AdobeNavigator\ DockCode 327936
+		/AdobeStylesPalette\ StylesView 0
+		/AdobeStylesPalette\ Visible 0
+		/AdobeStylesPalette\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeStylesPalette\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeStylesPalette\ Size {
+			/b 819
+			/r 1461
+			/t 516
+			/l 1251
+		}
+		/AdobeStylesPalette\ Location {
+			/v 516
+			/h 1251
+		}
+		/AdobeStylesPalette\ DockGroup (AdobeColorEditor)
+		/AdobeStylesPalette\ DockCode 59507204
+		/AdobeAppearancePalette\ AppearanceSwatch 1
+		/AdobeAppearancePalette\ Visible 0
+		/AdobeAppearancePalette\ SizeUncnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeAppearancePalette\ SizeCnstr {
+			/v 96
+			/h 210
+		}
+		/AdobeAppearancePalette\ Size {
+			/b 612
+			/r 1461
+			/t 516
+			/l 1251
+		}
+		/AdobeAppearancePalette\ Location {
+			/v 516
+			/h 1251
+		}
+		/AdobeAppearancePalette\ DockGroup (AdobeColorEditor)
+		/AdobeAppearancePalette\ DockCode 59572484
+		/AdobeAlternateGlyph\ Visible 0
+		/AdobeAlternateGlyph\ SizeUncnstr {
+			/v 138
+			/h 398
+		}
+		/AdobeAlternateGlyph\ SizeCnstr {
+			/v 138
+			/h 398
+		}
+		/AdobeAlternateGlyph\ Size {
+			/b 731
+			/r 450
+			/t 593
+			/l 52
+		}
+		/AdobeAlternateGlyph\ Location {
+			/v 593
+			/h 52
+		}
+		/AdobeAlternateGlyph\ DockGroup (AdobeAlternateGlyph)
+		/AdobeAlternateGlyph\ DockCode 65536
+		/AdobeAlignObjects\ ShowOptions 1
+		/AdobeAlignObjects\ Visible 0
+		/AdobeAlignObjects\ Location {
+			/v 693
+			/h 661
+		}
+		/AdobeAlignObjects\ DockGroup (AdobeTransformObjects)
+		/AdobeAlignObjects\ DockCode 262656
+		/AdobeTabPaletteVertical\ Visible 0
+		/AdobeTabPaletteVertical\ SizeUncnstr {
+			/v 406
+			/h 90
+		}
+		/AdobeTabPaletteVertical\ SizeCnstr {
+			/v 406
+			/h 90
+		}
+		/AdobeTabPaletteVertical\ Size {
+			/b 941
+			/r 840
+			/t 535
+			/l 750
+		}
+		/AdobeTabPaletteVertical\ Location {
+			/v 535
+			/h 750
+		}
+		/AdobeTabPaletteVertical\ DockGroup (AdobeTabPaletteVertical)
+		/AdobeTabPaletteVertical\ DockCode 65536
+		/AdobeTabPaletteHorizontal\ Visible 0
+		/AdobeTabPaletteHorizontal\ SizeUncnstr {
+			/v 56
+			/h 299
+		}
+		/AdobeTabPaletteHorizontal\ SizeCnstr {
+			/v 56
+			/h 299
+		}
+		/AdobeTabPaletteHorizontal\ Size {
+			/b 555
+			/r 349
+			/t 499
+			/l 50
+		}
+		/AdobeTabPaletteHorizontal\ Location {
+			/v 499
+			/h 50
+		}
+		/AdobeTabPaletteHorizontal\ DockGroup (AdobeTabPaletteHorizontal)
+		/AdobeTabPaletteHorizontal\ DockCode 65536
+		/AdobeParagraph\ ShowOptions 0
+		/AdobeParagraph\ Visible 0
+		/AdobeParagraph\ Location {
+			/v 552
+			/h 660
+		}
+		/AdobeParagraph\ DockGroup (AdobeCharacter)
+		/AdobeParagraph\ DockCode 262656
+		/AdobeCharacter\ ShowOptions 0
+		/AdobeCharacter\ Visible 0
+		/AdobeCharacter\ Location {
+			/v 552
+			/h 660
+		}
+		/AdobeCharacter\ DockGroup (AdobeCharacter)
+		/AdobeCharacter\ DockCode 327936
+		/AdobeOpenTypeFont\ Visible 0
+		/AdobeOpenTypeFont\ Location {
+			/v 552
+			/h 660
+		}
+		/AdobeOpenTypeFont\ DockGroup (AdobeCharacter)
+		/AdobeOpenTypeFont\ DockCode 262912
+		/AdobeObjectInfo\ showColor 0
+		/AdobeObjectInfo\ Visible 0
+		/AdobeObjectInfo\ Location {
+			/v 166
+			/h 655
+		}
+		/AdobeObjectInfo\ DockGroup (AdobeNavigator)
+		/AdobeObjectInfo\ DockCode 262656
+		/AdobeObjectAttributes\ showOverprintOnly 0
+		/AdobeObjectAttributes\ showNote 0
+		/AdobeObjectAttributes\ Visible 0
+		/AdobeObjectAttributes\ Location {
+			/v 87
+			/h 50
+		}
+		/AdobeObjectAttributes\ DockGroup (DocInfo)
+		/AdobeObjectAttributes\ DockCode 262656
+		/ControlPalette\ PPGraphicStyleW 212
+		/ControlPalette\ PPGraphicStyleH 82
+		/ControlPalette\ PPSymbolW 212
+		/ControlPalette\ PPSymbolH 114
+		/ControlPalette\ PPFillSwatchesW 212
+		/ControlPalette\ PPFillSwatchesH 116
+		/ControlPalette\ PPStrokeSwatchesW 212
+		/ControlPalette\ PPStrokeSwatchesH 116
+		/ControlPalette\ PPBrushesW 212
+		/ControlPalette\ PPBrushesH 114
+		/ControlPalette\ PPLinkW 212
+		/ControlPalette\ PPLinkH 127
+		/ControlPalette\ ODBridgeP 1
+		/ControlPalette\ ODBridgeV 1
+		/ControlPalette\ OIClipping\ MaskP 5
+		/ControlPalette\ OIClipping\ MaskV 1
+		/ControlPalette\ OIAnchor\ PointP 7
+		/ControlPalette\ OIAnchor\ PointV 1
+		/ControlPalette\ OIImageP 6
+		/ControlPalette\ OIImageV 1
+		/ControlPalette\ OIBrushP 11
+		/ControlPalette\ OIBrushV 1
+		/ControlPalette\ OIFocusModeP 19
+		/ControlPalette\ OIFocusModeV 1
+		/ControlPalette\ OIMergeP 17
+		/ControlPalette\ OIMergeV 1
+		/ControlPalette\ OIPlanarObjP 18
+		/ControlPalette\ OIPlanarObjV 1
+		/ControlPalette\ OIFillStrokeP 10
+		/ControlPalette\ OIFillStrokeV 1
+		/ControlPalette\ OIParagraphP 14
+		/ControlPalette\ OIParagraphV 1
+		/ControlPalette\ OICharacterP 13
+		/ControlPalette\ OICharacterV 1
+		/ControlPalette\ OIMake\ EnvelopeP 15
+		/ControlPalette\ OIMake\ EnvelopeV 1
+		/ControlPalette\ OIEnvelope\ OptionsP 12
+		/ControlPalette\ OIEnvelope\ OptionsV 1
+		/ControlPalette\ OIEnvelope\ MeshP 9
+		/ControlPalette\ OIEnvelope\ MeshV 1
+		/ControlPalette\ OIEnvelope\ WarpP 8
+		/ControlPalette\ OIEnvelope\ WarpV 1
+		/ControlPalette\ OIEnvelope\ ToggleP 4
+		/ControlPalette\ OIEnvelope\ ToggleV 1
+		/ControlPalette\ OICrop\ AreaP 3
+		/ControlPalette\ OICrop\ AreaV 1
+		/ControlPalette\ OISelect\ SameP 23
+		/ControlPalette\ OISelect\ SameV 1
+		/ControlPalette\ OITransparencyP 22
+		/ControlPalette\ OITransparencyV 1
+		/ControlPalette\ OITransformP 26
+		/ControlPalette\ OITransformV 1
+		/ControlPalette\ OIFlashTextP 21
+		/ControlPalette\ OIFlashTextV 1
+		/ControlPalette\ OIRecolor\ ArtworkP 24
+		/ControlPalette\ OIRecolor\ ArtworkV 1
+		/ControlPalette\ OISymbolP 2
+		/ControlPalette\ OISymbolV 1
+		/ControlPalette\ OITracingP 16
+		/ControlPalette\ OITracingV 1
+		/ControlPalette\ OIObjectNameP 1
+		/ControlPalette\ OIObjectNameV 1
+		/ControlPalette\ OIGraphicStyleP 20
+		/ControlPalette\ OIGraphicStyleV 1
+		/ControlPalette\ OIAlignP 25
+		/ControlPalette\ OIAlignV 1
+		/AdobeControlPalette\ Visible 1
+		/AdobeControlPalette\ Location {
+			/v 44
+			/h 11
+		}
+		/AdobeControlPalette\ DockGroup (AdobeControlPalette)
+		/AdobeControlPalette\ DockCode 851967
+		/collectionName [ 9
+			414957535072656673
+		]
+	}
+	/canEdit 1
+	/canDelete 1
+}
+/Sketch {
+	/Version 1
+	/Description (Workspace preference for AI13)
+	/Owner (AI13 Workspace Preference Manager)
+}
+/NumberOfCollections 1
+/CatalogName (Workspace Catalog)

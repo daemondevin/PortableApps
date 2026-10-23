@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!-- (c) 2005 Adobe Systems Incorporated. All rights reserved. -->
+<!DOCTYPE panel SYSTEM "http://ns.adobe.com/custompanels/1.0">
+
+<panel title="$$$/iptc/core/generalInfo=IPTC Content" version="1" type="custom_panel">
+
+	group(placement: place_column, spacing: gSpace, horizontal: align_fill, vertical: align_top)
+		{
+		
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/howto=Use this panel to describe the visual content of the image.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/headline=Headline', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'Headline', v_scroller: true, preserve_commas: true, horizontal: align_fill, height:60);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'Headline', no_check: true, vertical: align_top);
+			}
+			
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/captionDescription=Description', font: font_big_right, vertical: align_top);
+			edit_text(xmp_path: 'Description', container_type: alt_struct, v_scroller: true, preserve_commas: true, horizontal: align_fill, height:90);
+			mru_popup(xmp_path: 'Description', container_type: alt_struct, no_check: true, vertical: align_top);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/keywords=Keywords*', font: font_big_right, vertical: align_top);
+			cat_container_edit_text(xmp_namespace: xap_ns_dc, xmp_path: 'subject', container_type: bag_struct, v_scroller: true, horizontal: align_fill, height:90);
+			mru_popup(xmp_namespace: xap_ns_dc, xmp_path: 'subject', container_type: seq_struct, no_check: true, vertical: align_top, mru_append: true);
+			}
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/subjectCode=IPTC Subject Code*', font: font_big_right, vertical: align_top);
+			cat_container_edit_text(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'SubjectCode', container_type: bag_struct, v_scroller: true, horizontal: align_fill, height:60);
+			mru_popup(xmp_ns_prefix: 'Iptc4xmpCore', xmp_namespace: 'http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/', xmp_path: 'SubjectCode', container_type: bag_struct, no_check: true, vertical: align_top, mru_append: true);
+			}
+
+			group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Content/howto2=Subject codes are defined at http://www.newscodes.org', font: font_small, vertical: align_center, horizontal: align_right, label: false);
+			}
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_fill, vertical: align_bottom, reverse: rtl_aware)
+			{
+			static_text(name: '$$$/iptc/core/Content/captionDescriptionWriter=Description Writer', font: font_big_right, vertical: align_top);
+			edit_text(xmp_namespace: photoshop, xmp_path: 'CaptionWriter', horizontal: align_fill);
+			mru_popup(xmp_namespace: photoshop, xmp_path: 'CaptionWriter', no_check: true, vertical: align_top);
+			}
+
+			separator(height: 10, width: 485, horizontal: align_fill);
+
+		group(placement: place_row, spacing: gSpace, horizontal: align_left, vertical: align_top, reverse: rtl_aware)
+			{
+			static_text();
+			static_text(name: '$$$/iptc/core/Content/howto3=* Multiple values may be separated by a comma or semicolon.', font: font_small, vertical: align_center, horizontal: align_left, label: false);
+			}
+		}
+</panel>

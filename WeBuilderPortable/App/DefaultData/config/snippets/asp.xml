@@ -1,0 +1,46 @@
+<?xml version = "1.0"?><Code-list><Code><Code1>If </Code1>
+<Code2> Then&#x0D;&#x0A;&#x0D;&#x0A;End If</Code2>
+<ShCut>0</ShCut>
+<Title>If .. Then</Title>
+</Code>
+<Code><Code1>If </Code1>
+<Code2> Then &#x0D;&#x0A;&#x0D;&#x0A;Else&#x0D;&#x0A;&#x0D;&#x0A;End If </Code2>
+<ShCut>0</ShCut>
+<Title>If .. Then .. Else</Title>
+</Code>
+<Code><Code1>Select Case </Code1>
+<Code2>&#x0D;&#x0A;Case&#x0D;&#x0A;&#x0D;&#x0A;Case&#x0D;&#x0A;&#x0D;&#x0A;Case Else &#x0D;&#x0A;&#x0D;&#x0A;End Select</Code2>
+<ShCut>0</ShCut>
+<Title>Switch</Title>
+</Code>
+<Code><Code1>For counter = start to finish&#x0D;&#x0A;</Code1>
+<Code2>&#x0D;&#x0A;Next</Code2>
+<ShCut>0</ShCut>
+<Title>For</Title>
+</Code>
+<Code><Code1>Do While </Code1>
+<Code2>&#x0D;&#x0A;&#x0D;&#x0A;Loop</Code2>
+<ShCut>49184</ShCut>
+<Title>Do While</Title>
+</Code>
+<Code><Code1>Do&#x0D;&#x0A;</Code1>
+<Code2>&#x0D;&#x0A;Loop Until</Code2>
+<ShCut>0</ShCut>
+<Title>Loop Until</Title>
+</Code>
+<Code><Code1>&#x3C;&#x25; If </Code1>
+<Code2> Then &#x25;&#x3E;</Code2>
+<ShCut>0</ShCut>
+<Title>&#x3C;&#x25; If Then &#x25;&#x3E;</Title>
+</Code>
+<Code><Code1>&#x3C;&#x25; End If &#x25;&#x3E;</Code1>
+<Code2></Code2>
+<ShCut>0</ShCut>
+<Title>&#x3C;&#x25; End If &#x25;&#x3E;</Title>
+</Code>
+<Code><Code1>&#x3C;&#x25; Else &#x25;&#x3E;</Code1>
+<Code2></Code2>
+<ShCut>0</ShCut>
+<Title>&#x3C;&#x25; Else &#x25;&#x3E;</Title>
+</Code>
+</Code-list>

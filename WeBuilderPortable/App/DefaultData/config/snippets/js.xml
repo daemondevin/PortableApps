@@ -1,0 +1,62 @@
+<?xml version = "1.0"?><Code-list><Code><CallWord></CallWord>
+<Code1>if (</Code1>
+<Code2>) {
+
+}</Code2>
+<ShCut>0</ShCut>
+<Title>if</Title>
+</Code>
+<Code><CallWord></CallWord>
+<Code1>if (</Code1>
+<Code2>) {
+
+} else {
+
+}</Code2>
+<ShCut>0</ShCut>
+<Title>if .. else</Title>
+</Code>
+<Code><CallWord></CallWord>
+<Code1>if (</Code1>
+<Code2>) {
+
+} else if() {
+
+} else {
+
+}</Code2>
+<ShCut>0</ShCut>
+<Title>if .. else if .. else</Title>
+</Code>
+<Code><CallWord></CallWord>
+<Code1>switch (</Code1>
+<Code2>) {
+  case :
+  
+  break
+  case :
+  
+  break
+  default:
+
+}</Code2>
+<ShCut>0</ShCut>
+<Title>switch</Title>
+</Code>
+<Code><CallWord></CallWord>
+<Code1>for (var i &#x3D; 0; i &#x3C; length; i&#x2B;&#x2B;) {
+</Code1>
+<Code2>
+}</Code2>
+<ShCut>0</ShCut>
+<Title>for</Title>
+</Code>
+<Code><CallWord></CallWord>
+<Code1>while (</Code1>
+<Code2>} {
+
+}</Code2>
+<ShCut>0</ShCut>
+<Title>while</Title>
+</Code>
+</Code-list>

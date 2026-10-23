@@ -1,0 +1,2607 @@
+/Illustrator\ version 13
+/rastersys {
+	/scratch {
+		/secondary [ 0
+
+		]
+		/primary [ 34
+			433a5c55736572735c446576696e5c417070446174615c4c6f63616c5c54656d
+			705c
+		]
+	}
+}
+/useLowResProxy 1
+/Guide {
+	/Color {
+		/blue 1.0
+		/green 1.0
+		/red 0.2899976969
+	}
+	/Style 0
+}
+/Grid {
+	/Color {
+		/Lite {
+			/b 0.8999999762
+			/g 0.8999999762
+			/r 0.8999999762
+		}
+		/Dark {
+			/b 0.8000000119
+			/g 0.8000000119
+			/r 0.8000000119
+		}
+	}
+	/Style 0
+	/Posn 1
+	/Vertical {
+		/Ticks 8
+		/Spacing 72.0
+	}
+	/Horizontal {
+		/Ticks 8
+		/Spacing 72.0
+	}
+}
+/directionHandleMarkType 4
+/snappingTolerance 2
+/selectionTolerance 3
+/hitShapeOnPreview 1
+/preferencesDialog {
+	/position {
+		/v 219
+		/h 383
+	}
+}
+/doubleClickToIsolate 1
+/fileFormatGetFile {
+	/ConvertedInFilename 1
+}
+/artNamesAreXMLIDs 0
+/antialias {
+	/image 1
+	/text 1
+	/graphic 1
+}
+/constrain {
+	/sin 0.0
+	/cos 1.0
+	/angle 0.0
+}
+/handToolSubsampling 1
+/outlineTol 0.0
+/freehandTol 2.0
+/cursorKeyLength 1.0
+/undoDepth 5
+/selectSameTintPercentage 0
+/pen {
+	/disableAutoAddDelete 0
+}
+/cropMarkStyle 0
+/hitTypeShapeOnPreview 1
+/scaleLineWeight 0
+/transformPatterns 0
+/snapToPoint 1
+/startupFileType [ 0
+
+]
+/blackPreservation {
+	/Export 1
+	/Onscreen 1
+}
+/stickycursor 0
+/usePreciseCursors 0
+/layout {
+	/0 {
+		/FrameWindowMaximized 1
+		/FrameWindow {
+			/r 1282
+			/b 750
+			/t 0
+			/l 12
+		}
+	}
+}
+/FileList {
+	/file9 [ 0
+
+	]
+	/file8 [ 0
+
+	]
+	/file7 [ 0
+
+	]
+	/file6 [ 0
+
+	]
+	/file5 [ 0
+
+	]
+	/file4 [ 0
+
+	]
+	/file3 [ 0
+
+	]
+	/file2 [ 0
+
+	]
+	/file1 [ 0
+
+	]
+	/file0 [ 0
+
+	]
+}
+/maxRecentFiles 10
+/showDirectionHandles 0
+/unloadPlugins 1
+/layers {
+	/pastePreserveBackup 0
+	/pastePreserve 0
+}
+/DefaultPaintStyle {
+	/ActiveGradient {
+		/AIColor {
+			/Gray {
+				/Gray 0.0
+			}
+			/Kind (Gray)
+		}
+	}
+	/ActiveColor {
+		/AIColor {
+			/CMYK {
+				/Black 0.0
+				/Yellow 0.0
+				/Magenta 0.0
+				/Cyan 0.0
+			}
+			/Kind (CMYK)
+		}
+	}
+	/PathStyle {
+		/Stroke {
+			/MiterLimit 4.0
+			/Join (MiterJoin)
+			/Cap (ButtCap)
+			/Dash {
+				/Offset 0.0
+				/Length 0
+			}
+			/Width 1.0
+			/Overprint 0
+			/AIColor {
+				/Kind ()
+			}
+		}
+		/StrokePaint 0
+		/Fill {
+			/Overprint 0
+			/AIColor {
+				/Gray {
+					/Gray 1.0
+				}
+				/Kind (Gray)
+			}
+		}
+		/FillPaint 1
+	}
+	/StrokeActive 0
+}
+/onlyTransformPatterns 0
+/linkTransform 0
+/AI\ Container\ Overrides\ Object 1
+/AI\ New\ Art\ Basic\ Appearance 1
+/doLazyStartupFileLoading 1
+/precision {
+	/percentageNoUnits 2
+	/angleNoUnits 3
+	/fixedNoUnits 3
+	/millimetersWithUnits 3
+	/centimetersWithUnits 4
+	/inchesWithUnits 4
+	/pixelsWithUnits 3
+	/pointsWithUnits 3
+}
+/attributePalette {
+	/URL29 ()
+	/URL28 ()
+	/URL27 ()
+	/URL26 ()
+	/URL25 ()
+	/URL24 ()
+	/URL23 ()
+	/URL22 ()
+	/URL21 ()
+	/URL20 ()
+	/URL19 ()
+	/URL18 ()
+	/URL17 ()
+	/URL16 ()
+	/URL15 ()
+	/URL14 ()
+	/URL13 ()
+	/URL12 ()
+	/URL11 ()
+	/URL10 ()
+	/URL9 ()
+	/URL8 ()
+	/URL7 ()
+	/URL6 ()
+	/URL5 ()
+	/URL4 ()
+	/URL3 ()
+	/URL2 ()
+	/URL1 ()
+	/URL0 ()
+	/currentUrlCount 0
+	/maxUrlCount 30
+}
+/uiBrightness 0
+/uiPersistDrawers 1
+/strokeUnits 2
+/numbersArePoints 0
+/showToolTips 1
+/ColorHarmony {
+	/VariationTypeColorGuide 0
+	/ShowHideColorGuide 1
+	/combineTintsOnExtraction 1
+	/mapMethodApplyToAll 1
+	/mapMethodPreserveSpots 1
+	/SliderColorSpace 3
+	/ShowAdjustSliders 0
+	/ShowStorage 1
+}
+/includeStrokeInBounds 0
+/showBoundingBox 1
+/BucketTool {
+	/text {
+		/characterStyle 1
+	}
+	/paint {
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object 1
+		/object {
+			/knockout 1
+			/isolated 1
+			/blendingMode 1
+			/opacity 1
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/EyedropperTool {
+	/text {
+		/characterStyle 1
+	}
+	/paint {
+		/stroke {
+			/dash 1
+			/miter 1
+			/join 1
+			/cap 1
+			/weight 1
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/stroke 1
+		/fill {
+			/overprint 1
+			/transparency 1
+			/color 1
+		}
+		/fill 1
+		/object 1
+		/object {
+			/knockout 1
+			/isolated 1
+			/blendingMode 1
+			/opacity 1
+			/transparency 1
+		}
+	}
+	/graphicsStyle 0
+	/rasterSampleSize 1
+}
+/ovalRadius 12.0
+/DocumentWindowMode 4
+/checkRequiredPlugins 1
+/unselectedAnchorMarkType 1
+/selectedAnchorMarkType 2
+/highlightAnchorOnMouseOver 1
+/smartGuides {
+	/customAngles3 135.0
+	/customAngles2 90.0
+	/customAngles1 45.0
+	/customAngles0 0.0
+	/angles3 135.0
+	/angles2 90.0
+	/angles1 45.0
+	/angles0 0.0
+	/customAnglesCount 4
+	/isEnabled 0
+	/tolerance 4
+	/anglesCount 4
+	/showObjectHighlighting 1
+	/showToolGuides 1
+	/showConstructionGuides 1
+	/showLabels 1
+}
+/Planar {
+	/FaceSelect {
+		/SelectStrokes 1
+		/SelectFills 1
+		/Highlight {
+			/Stroke 4.0
+			/Color {
+				/blue 0.2899999917
+				/green 0.2899999917
+				/red 1.0
+			}
+		}
+		/Highlight 1
+	}
+	/Paintbucket {
+		/CursorSwatchPrevew 1
+		/PaintStrokes 0
+		/PaintFills 1
+		/Highlight {
+			/Stroke 4.0
+			/Color {
+				/blue 0.2899999917
+				/green 0.2899999917
+				/red 1.0
+			}
+		}
+		/Highlight 1
+	}
+	/Resolution 100
+	/ArtboardGapPreview 0
+	/GapDetection {
+		/PreviewOn 1
+		/GapColor {
+			/blue 0.2899999917
+			/green 0.2899999917
+			/red 1.0
+		}
+		/Custom 0
+		/Size 3.0
+	}
+	/GapDetection 1
+}
+/plugin {
+	/AdobeStrokeSwatchesPopup {
+		/Persistent 0
+	}
+	/AdobeFillSwatchesPopup {
+		/Persistent 0
+	}
+	/AdobeSwatch_ {
+		/Persistent 0
+	}
+	/Illustrator {
+		/WritingStartupFile 0
+	}
+	/FileClipboard {
+		/flatten 1
+		/AICBOption 1
+		/copyAsAICB 1
+		/copyAsPDF 1
+		/linkoptions 2
+	}
+	/AssetManagement {
+		/bridgeTalkPumpCycleInTicks 30
+		/vcReplicaMonitorPumpCycleInTicks 10
+	}
+	/Action {
+		/SavedSets {
+			/set-1 {
+				/version 2
+				/name [ 15
+					44656661756c7420416374696f6e73
+				]
+				/isOpen 1
+				/actionCount 22
+				/action-1 {
+					/name [ 22
+						4f706163697479203630202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 12
+							5472616e73706172656e6379
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 60.0000038147
+							/unit 592474723
+						}
+					}
+				}
+				/action-2 {
+					/name [ 29
+						4f7061636974792034302053637265656e202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 2
+					/event-1 {
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 12
+							5472616e73706172656e6379
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1869635939
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+					}
+					/event-2 {
+						/internalName (ai_plugin_transparency)
+						/localizedName [ 12
+							5472616e73706172656e6379
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1836016741
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								53637265656e
+							]
+							/value 2
+						}
+					}
+				}
+				/action-3 {
+					/name [ 31
+						4170706c792044656661756c74205374796c65202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_styles)
+						/localizedName [ 14
+							47726170686963205374796c6573
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1937013100
+							/showInPalette 1
+							/type (ustring)
+							/value [ 9
+								5b44656661756c745d
+							]
+						}
+					}
+				}
+				/action-4 {
+					/name [ 28
+						5361766520466f722057656220474946203634204469746865726564
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 12
+							5361766520666f7220576562
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 18
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								474946383961
+							]
+							/value 1195984486
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1382376513
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 9
+								53656c656374697665
+							]
+							/value 1399616630
+						}
+						/parameter-4 {
+							/key 1098207844
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-5 {
+							/key 1313042284
+							/showInPalette -1
+							/type (integer)
+							/value 64
+						}
+						/parameter-6 {
+							/key 1148479602
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 9
+								446966667573696f6e
+							]
+							/value 1147564910
+						}
+						/parameter-7 {
+							/key 1148479553
+							/showInPalette -1
+							/type (integer)
+							/value 88
+						}
+						/parameter-8 {
+							/key 1466262099
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-9 {
+							/key 1282372467
+							/showInPalette -1
+							/type (integer)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-11 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-13 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-14 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-15 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-16 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-17 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-18 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-5 {
+					/name [ 23
+						5361766520466f7220576562204a5047204d656469756d
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 12
+							5361766520666f7220576562
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 14
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 4
+								4a504547
+							]
+							/value 1246774599
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1366062201
+							/showInPalette -1
+							/type (integer)
+							/value 30
+						}
+						/parameter-4 {
+							/key 1332769901
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1348563827
+							/showInPalette -1
+							/type (integer)
+							/value 1
+						}
+						/parameter-6 {
+							/key 1651275122
+							/showInPalette -1
+							/type (real)
+							/value 0.0
+						}
+						/parameter-7 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-8 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-9 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-10 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-11 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-12 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-13 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-14 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-6 {
+					/name [ 19
+						5361766520466f722057656220504e47203234
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_SaveForWeb)
+						/localizedName [ 12
+							5361766520666f7220576562
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 11
+						/parameter-1 {
+							/key 1181578272
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 6
+								504e472d3234
+							]
+							/value 1347301940
+						}
+						/parameter-2 {
+							/key 1231975538
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1416785523
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1299477536
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-5 {
+							/key 1299477586
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-6 {
+							/key 1299477575
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-7 {
+							/key 1299477570
+							/showInPalette -1
+							/type (integer)
+							/value 255
+						}
+						/parameter-8 {
+							/key 1097757761
+							/showInPalette -1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-9 {
+							/key 1131180097
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-10 {
+							/key 1397249101
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-11 {
+							/key 1231953952
+							/showInPalette -1
+							/type (ustring)
+							/value [ 13
+								4d6163696e746f73682048443a
+							]
+						}
+					}
+				}
+				/action-7 {
+					/name [ 20
+						53696d706c696679202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 8
+							53696d706c696679
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-8 {
+					/name [ 29
+						53696d706c696679205374726169676874202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_simplify)
+						/localizedName [ 8
+							53696d706c696679
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1919182693
+							/showInPalette 1
+							/type (unit real)
+							/value 40.0
+							/unit 592474723
+						}
+						/parameter-2 {
+							/key 1634561652
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1936553064
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-4 {
+							/key 1936552044
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+					}
+				}
+				/action-9 {
+					/name [ 6
+						526576657274
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_revertDocument)
+						/localizedName [ 6
+							526576657274
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 0
+					}
+				}
+				/action-10 {
+					/name [ 25
+						44656c65746520556e757365642050616e656c204974656d73
+					]
+					/keyIndex 0
+					/colorIndex 0
+					/isOpen 0
+					/eventCount 8
+					/event-1 {
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 7
+							53796d626f6c73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 17
+								53656c65637420416c6c20556e75736564
+							]
+							/value 12
+						}
+					}
+					/event-2 {
+						/internalName (ai_plugin_symbol_palette)
+						/localizedName [ 7
+							53796d626f6c73
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 13
+								44656c6574652053796d626f6c
+							]
+							/value 5
+						}
+					}
+					/event-3 {
+						/internalName (ai_plugin_styles)
+						/localizedName [ 14
+							47726170686963205374796c6573
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 17
+								53656c65637420416c6c20556e75736564
+							]
+							/value 14
+						}
+					}
+					/event-4 {
+						/internalName (ai_plugin_styles)
+						/localizedName [ 14
+							47726170686963205374796c6573
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 12
+								44656c657465205374796c65
+							]
+							/value 3
+						}
+					}
+					/event-5 {
+						/internalName (ai_plugin_brush)
+						/localizedName [ 5
+							4272757368
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 17
+								53656c65637420416c6c20556e75736564
+							]
+							/value 8
+						}
+					}
+					/event-6 {
+						/internalName (ai_plugin_brush)
+						/localizedName [ 5
+							4272757368
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 12
+								44656c657465204272757368
+							]
+							/value 3
+						}
+					}
+					/event-7 {
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 8
+							5377617463686573
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 17
+								53656c65637420416c6c20556e75736564
+							]
+							/value 11
+						}
+					}
+					/event-8 {
+						/internalName (ai_plugin_swatches)
+						/localizedName [ 8
+							5377617463686573
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1835363957
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 13
+								44656c65746520537761746368
+							]
+							/value 3
+						}
+					}
+				}
+				/action-11 {
+					/name [ 23
+						4d6f7665204469616c6f67202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_move)
+						/localizedName [ 4
+							4d6f7665
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1752136302
+							/showInPalette 1
+							/type (unit real)
+							/value 66.0
+							/unit 592476268
+						}
+						/parameter-2 {
+							/key 1987339116
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-12 {
+					/name [ 24
+						5363616c65204469616c6f67202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_scale)
+						/localizedName [ 5
+							5363616c65
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 4
+						/parameter-1 {
+							/key 1970169453
+							/showInPalette 1
+							/type (boolean)
+							/value 1
+						}
+						/parameter-2 {
+							/key 1818848869
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1935895653
+							/showInPalette 1
+							/type (unit real)
+							/value 120.0
+							/unit 592474723
+						}
+						/parameter-4 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-13 {
+					/name [ 25
+						526f74617465204469616c6f67202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_rotate)
+						/localizedName [ 6
+							526f74617465
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 30.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-14 {
+					/name [ 24
+						526f74617465203930204357202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_rotate)
+						/localizedName [ 6
+							526f74617465
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 90.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value 44.8530273438
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value 54.4116210938
+							/unit 592476268
+						}
+					}
+				}
+				/action-15 {
+					/name [ 24
+						5368656172204469616c6f67202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_shear)
+						/localizedName [ 5
+							5368656172
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 3
+						/parameter-1 {
+							/key 1936220519
+							/showInPalette 1
+							/type (unit real)
+							/value 45.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-3 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+					}
+				}
+				/action-16 {
+					/name [ 18
+						5265666c65637420486f72697a6f6e74616c
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (adobe_reflect)
+						/localizedName [ 7
+							5265666c656374
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 4
+						/parameter-1 {
+							/key 1634625388
+							/showInPalette 1
+							/type (unit real)
+							/value 0.0
+							/unit 591490663
+						}
+						/parameter-2 {
+							/key 1668247673
+							/showInPalette 1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-3 {
+							/key 1684370520
+							/showInPalette 1
+							/type (unit real)
+							/value -13.22265625
+							/unit 592476268
+						}
+						/parameter-4 {
+							/key 1684370521
+							/showInPalette 1
+							/type (unit real)
+							/value -2.6201171875
+							/unit 592476268
+						}
+					}
+				}
+				/action-17 {
+					/name [ 17
+						556e697465202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 10
+							5061746866696e646572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 6
+								20556e697465
+							]
+							/value 0
+						}
+					}
+				}
+				/action-18 {
+					/name [ 21
+						496e74657273656374202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 10
+							5061746866696e646572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 9
+								496e74657273656374
+							]
+							/value 1
+						}
+					}
+				}
+				/action-19 {
+					/name [ 19
+						4578636c756465202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 10
+							5061746866696e646572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 7
+								4578636c756465
+							]
+							/value 2
+						}
+					}
+				}
+				/action-20 {
+					/name [ 23
+						4d696e75732046726f6e74202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_pathfinder)
+						/localizedName [ 10
+							5061746866696e646572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 0
+						/parameterCount 1
+						/parameter-1 {
+							/key 1851878757
+							/showInPalette 1
+							/type (enumerated)
+							/name [ 11
+								4d696e75732046726f6e74
+							]
+							/value 3
+						}
+					}
+				}
+				/action-21 {
+					/name [ 21
+						526173746572697a65202873656c656374696f6e29
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (ai_plugin_rasterize)
+						/localizedName [ 9
+							526173746572697a65
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 0
+						/parameterCount 7
+						/parameter-1 {
+							/key 1668246642
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 3
+								524742
+							]
+							/value 0
+						}
+						/parameter-2 {
+							/key 1685088558
+							/showInPalette -1
+							/type (integer)
+							/value 150
+						}
+						/parameter-3 {
+							/key 1651205988
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 5
+								5768697465
+							]
+							/value 0
+						}
+						/parameter-4 {
+							/key 1954115685
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 7
+								4f75746c696e65
+							]
+							/value 1
+						}
+						/parameter-5 {
+							/key 1634494763
+							/showInPalette -1
+							/type (enumerated)
+							/name [ 4
+								4e6f6e65
+							]
+							/value 0
+						}
+						/parameter-6 {
+							/key 1835103083
+							/showInPalette -1
+							/type (boolean)
+							/value 0
+						}
+						/parameter-7 {
+							/key 1885430884
+							/showInPalette -1
+							/type (unit real)
+							/value 0.0
+							/unit 592476268
+						}
+					}
+				}
+				/action-22 {
+					/name [ 20
+						476175737369616e20426c75722046696c746572
+					]
+					/keyIndex 0
+					/colorIndex 7
+					/isOpen 0
+					/eventCount 1
+					/event-1 {
+						/internalName (PSAdapter_plugin_GblR)
+						/localizedName [ 13
+							476175737369616e20426c7572
+						]
+						/isOpen 0
+						/isOn 1
+						/hasDialog 1
+						/showDialog 1
+						/parameterCount 2
+						/parameter-1 {
+							/key 1684108385
+							/showInPalette 0
+							/type (raw)
+							/value < 24
+								000000015264732000000000646f75623ff0000000000000
+							>
+							/size 24
+						}
+						/parameter-2 {
+							/key 1382314784
+							/showInPalette -1
+							/type (real)
+							/value 1.0
+						}
+					}
+				}
+			}
+		}
+		/SavedSetCount 1
+	}
+	/AdobeGradientEditor {
+		/DockCode 25952771
+	}
+	/AdobeStrokeEditor {
+		/DockCode 26018051
+	}
+	/AdobeColorEditor {
+		/DockCode 26018049
+	}
+	/DontShowWarningAgain {
+		/DontShowAIWelcomeScreenAgain 0
+	}
+	/TransparencyPalette {
+		/InvertNewMasks 0
+		/NewMasksClip 1
+	}
+	/AdobeTransformObjects {
+		/AnchorPoint 1050
+	}
+	/AdobeSymbolsPalette {
+		/DockCode 25953026
+	}
+	/KBSCShortcutFile {
+		/IsPreset 1
+		/FileName [ 20
+			496c6c7573747261746f722044656661756c7473
+		]
+	}
+	/DocumentInfo {
+		/DockCode 65793
+	}
+	/Navigator {
+		/Color {
+			/blue 0.2899999917
+			/green 0.2899999917
+			/red 1.0
+		}
+		/Artboard\ Mode 1
+		/DontDrawDash 1
+		/Greeking 72.0
+	}
+	/AdobeAlignObjects {
+		/UseCropAreaForAlignment 0
+		/AlignToPage 0
+	}
+	/ICCColorMgmt3.0 {
+		/settingsFileValid 0
+		/useAdvanced 0
+		/useAI6 0
+	}
+	/PDFImport {
+		/PageNumber 1
+		/CropTo 4
+		/DlgPosY 0
+		/DlgPosX 0
+	}
+	/PDFExport {
+		/AI12PDF_RegistryName [ 0
+
+		]
+		/AI12PDF_OutputConditionIdentifier [ 0
+
+		]
+		/AI12PDF_OutputCondition [ 0
+
+		]
+		/AI12PDF_OutputIntentProfileName [ 0
+
+		]
+		/AI12PDF_DestinationName [ 0
+
+		]
+		/AI12PDF_Description [ 0
+
+		]
+		/AI12PDF_Trapped 0
+		/AI12PDF_ColorConversionPolicy 1
+		/AI12PDF_OutputIntentProfileNamePolicy 1
+		/AI12PDF_DestinationPolicy 1
+		/AI12PDF_ProfileInclusionPolicy 1
+		/AI12PDF_Standard 1
+		/AI12PDF_DontShowSecurityWarning 0
+		/AI11PDF_FlatteningPresetPrinterResolution 800.0
+		/AI11PDF_FlatteningPresetOutlineText 0
+		/AI11PDF_FlatteningPresetOutlineStroke 1
+		/AI11PDF_FlatteningPresetClipComplexRegion 1
+		/AI11PDF_FlatteningPresetVectorBalance 75
+		/AI11PDF_FlatteningPresetMinResolution 150.0
+		/AI11PDF_FlatteningPresetMaxResolution 300.0
+		/AI11PDF_FlatteningPresetName [ 17
+			5b48696768205265736f6c7574696f6e5d
+		]
+		/AI11PDF_FlattenTransparency 0
+		/AI11PDF_PreserveAcrobatLayers 1
+		/AI11PDF_Overprint 0
+		/AI11PDF_SubsetFontRatio 0
+		/AI11PDF_BleedBottom 0.0
+		/AI11PDF_BleedTop 0.0
+		/AI11PDF_BleedRight 0.0
+		/AI11PDF_BleedLeft 0.0
+		/AI11PDF_BleedLink 1
+		/AI11PDF_OffsetFromArtworkBottom 0.0
+		/AI11PDF_OffsetFromArtworkTop 0.0
+		/AI11PDF_OffsetFromArtworkRight 0.0
+		/AI11PDF_OffsetFromArtworkLeft 0.0
+		/AI11PDF_TrimMarkWeight 0.125
+		/AI11PDF_PrinterMarkType 0
+		/AI11PDF_PageInfo 0
+		/AI11PDF_ColorBars 0
+		/AI11PDF_RegMarks 0
+		/AI11PDF_TrimMarks 0
+		/AI11PDF_CompressArt 1
+		/AI11PDF_MonoDownsampleImageAbove 450
+		/AI11PDF_MonochromeDownsampleResolution 300
+		/AI11PDF_MonochromeDownsampleKind 1
+		/AI11PDF_MonochromeCompressionKind 1
+		/AI11PDF_GrayTileSize 256
+		/AI11PDF_GrayDownsampleImageAbove 450
+		/AI11PDF_GrayDownsampleResolution 300
+		/AI11PDF_GrayDownsampleKind 1
+		/AI11PDF_GrayCompressionQuality 3
+		/AI11PDF_GrayCompressionKind 1
+		/AI11PDF_ColorTileSize 256
+		/AI11PDF_ColorDownsampleImageAbove 450
+		/AI11PDF_ColorDownsampleResolution 300
+		/AI11PDF_ColorDownsampleKind 1
+		/AI11PDF_ColorCompressionQuality 3
+		/AI11PDF_ColorCompressionKind 1
+		/AI11PDF_FastWebView 0
+		/AI11PDF_ViewPDFFile 0
+		/AI11PDF_GenerateThumbnails 1
+		/AI11PDF_PreserveIllustratorEditingCapabilities 1
+		/AI12PDF_UsePrintTiling 0
+		/AI11PDF_Compatibility 3
+		/OptionSetName [ 21
+			5b496c6c7573747261746f722044656661756c745d
+		]
+		/OptionSet 2
+		/FlattenerListEntryExpanded 0
+		/MonoImageListEntryExpanded 0
+		/GrayImageListEntryExpanded 0
+		/ColorImageListEntryExpanded 0
+		/SecurityListEntryExpanded 0
+		/AdvancedListEntryExpanded 0
+		/OutputPDFXExpanded 0
+		/OutputColorExpanded 0
+		/OutputListEntryExpanded 0
+		/MarksBleedsListEntryExpanded 0
+		/CompressionListEntryExpanded 0
+		/GeneralListEntryExpanded 0
+		/DescriptionListEntryExpanded 0
+		/DlgPosY 0
+		/DlgPosX 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Web.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Video\ and\ Film.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Print.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Mobile\ and\ Devices.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Basic\ RGB.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Default\ Graphic\ Styles\\Basic\ CMYK.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Type\ Effects.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Textures.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Scribble\ Effects.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Neon\ Effects.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Image\ Effects.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Buttons\ and\ Rollovers.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\Artistic\ Effects.ai {
+		/Persistent 0
+	}
+	/Art\ Style\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Graphic\ Styles\\3D\ Effects.ai {
+		/Persistent 0
+	}
+	/AdobeEurekaPalette {
+		/ShowPalette 0
+	}
+	/AdobeKulerPalette {
+		/ShowPalette 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Web.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Video\ and\ Film.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Print.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Mobile\ and\ Devices.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Basic\ RGB.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Default\ Symbols\\Basic\ CMYK.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Web\ Icons.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Web\ Buttons\ and\ Bars.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Tiki.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Sushi.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Retro.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Primitive.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Networking.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Nature.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Mobile.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Maps.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Mad\ Science.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Logo\ Elements.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Hair\ and\ Fur.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Flowers.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Fashion.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Document\ Icons.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Communication.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Charts.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Celebration.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Artistic\ Textures.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\Arrows.ai {
+		/Persistent 0
+	}
+	/Symbol\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Symbols\\3D\ Symbols.ai {
+		/Persistent 0
+	}
+	/objectExpand {
+		/gradientSteps 255
+	}
+	/EraserTool {
+		/angleVariation 0.0
+		/angle 0.0
+		/roundnessVariation 0.0
+		/roundness 100.0
+		/diameterVariation 0.0
+		/diameter 10.0
+		/angleRelativeTo 0
+		/angleDependsOn 0
+		/roundnessDependsOn 0
+		/diameterDependsOn 0
+		/angleRnd 0.0
+		/roundnessRnd 0.0
+		/diameterRnd 0.0
+	}
+	/CropAreaPrefix {
+		/RealTimeFading 1
+		/ShowFading 1
+	}
+	/Rasterize {
+		/rasterizeMemory 20
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Scientific\\Triad.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Scientific\\Tetrad.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Scientific\\Split\ Complementary.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Scientific\\Complementary.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Scientific\\Analogous.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Nature\\Nature_Foliage.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Nature\\Nature_Animal\ Skins.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Primitive.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Ornament.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Modern.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Geometric\ 2.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Geometric\ 1.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Decorative\\Decorative_Classic.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Basic\ Graphics\\Basic\ Graphics_Textures.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Basic\ Graphics\\Basic\ Graphics_Lines.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Patterns\\Basic\ Graphics\\Basic\ Graphics_Dots.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Stone\ and\ Brick.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Seasons.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Landscape.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Foliage.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Flowers.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Nature\\Beach.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Water.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Tints\ and\ Shades.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Stone\ and\ Brick.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Spectrums.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Sky.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Skintones.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Simple\ Radial.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Seasons.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Pastels.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Neutrals.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Metals.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Gems\ and\ Jewels.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Fruits\ and\ Vegetables.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Foliage.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Earthtones.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Color\ Harmonies.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Color\ Combinations.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Gradients\\Brights.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Foods\\Vegetables.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Foods\\Sweets.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Foods\\Ice\ Cream.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Foods\\Fruit.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Foods\\Beverages.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Web.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Video\ and\ Film.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Print.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Mobile\ and\ Devices.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Basic\ RGB.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Default\ Swatches\\Basic\ CMYK.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Warm.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Soft.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Saturated.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Light.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Desaturated.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Dark.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Cool.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Properties\\Bright.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\TRUMATCH.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\TOYO\ COLOR\ FINDER.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\TOYO\ 94\ COLOR\ FINDER.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ solid\ uncoated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ solid\ to\ process.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ solid\ to\ process\ EURO.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ solid\ matte.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ solid\ coated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ process\ uncoated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ process\ coated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ pastel\ uncoated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ pastel\ coated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ metallic\ coated.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ color\ bridge\ CMYK\ UP.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ color\ bridge\ CMYK\ PC.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\PANTONE\ color\ bridge\ CMYK\ EC.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ Z.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ Z\ Process.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ N.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ N\ Process.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ K.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ K\ Process.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ E.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\HKS\ E\ Process.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\FOCOLTONE.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\DIC\ Color\ Guide.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Color\ Books\\ANPA\ Color.acb {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Russian\ Poster\ Art.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Renaissance.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Prehistoric.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Pop\ Art.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Middle\ Ages.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Impressionism.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Baroque.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Art\ History\\Ancient.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Web.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\VisiBone2.ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Textiles.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\System\ (Windows).ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\System\ (Macintosh).ai {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Skintones.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Neutral.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Metal.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Kids\ Stuff.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Earthtone.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Corporate.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatch\ Library_C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Swatches\\Celebration.ase {
+		/Persistent 0
+		/DockCode 130817
+	}
+	/Swatches {
+		/DockCode 26018050
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Web.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Video\ and\ Film.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Print.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Mobile\ and\ Devices.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Basic\ RGB.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Default\ Brushes\\Basic\ CMYK.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Decorative\\Decorative_Text\ Dividers.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Decorative\\Decorative_Scatter.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Decorative\\Decorative_Banners\ and\ Seals.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Novelty.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Lines.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Geometric.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Frames.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Decorative.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Borders\\Borders_Dashed.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_Watercolor.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_ScrollPen.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_Paintbrush.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_Ink.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_ChalkCharcoalPencil.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Artistic\\Artistic_Calligraphic.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Arrows\\Arrows_Standard.ai {
+		/Persistent 0
+	}
+	/Brush\ Library:\ C:\\Program\ Files\\Adobe\\Adobe\ Illustrator\ CS3\\Presets\\Brushes\\Arrows\\Arrows_Special.ai {
+		/Persistent 0
+	}
+	/AdobeSlicingPlugin {
+		/feedback {
+			/blue 0
+			/green 44001
+			/red 0
+		}
+		/showSliceNumbers 1
+		/lockSlices 0
+		/divideVerticallyPixelCount 0
+		/divideVerticallyCount 1
+		/divideHorizontallyPixelCount 0
+		/divideHorizontallyCount 1
+		/dividePreview 0
+		/divideEvenVertically 1
+		/divideEvenHorizontally 1
+		/divideVertically 1
+		/divideHorizontally 1
+		/addSlicingTools 1
+	}
+	/BRSSmootherTool {
+		/smoothness 25.0
+		/fidelity 2.5
+	}
+	/BRSPencilTool {
+		/filling 0
+		/edit_selection 1
+		/select_results 1
+		/smoothness 0.0
+		/fidelity 2.5
+	}
+	/BRSTool30Mar9816Build {
+		/slow_pointer_speed 0
+		/select_results 1
+		/editing_distance 12.0
+		/corner_angle 120.0
+		/noise_filter_degree 4
+	}
+	/Debug {
+		/timeActions 0
+		/useDebugMenu 0
+	}
+}
+/pluginCacheCheckModDate -636062063
+/pluginCacheCheckCreateDate -636062063
+/loadAdditionalPlugins 0
+/startup {
+	/showSplashScreen 1
+}
+/rulerType 2
+/memory {
+	/memoryPercentage 0
+	/physicalRAMSize 2047
+	/usePhysicalRAMSize 0
+}
+/editableGuides 1
+/useProcessorSpecificCode 1
+/Snapomatic {
+	/Eyebucket {
+		/down (A v o f)
+		/up (A v o f)
+	}
+	/Shear {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Reflect {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Rotate {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Scale {
+		/down (ATFGPB v i o)
+		/up (ATFGP v i o)
+	}
+	/Translate {
+		/down (ATFGPB v i o)
+		/up (ATFGP v i o)
+	}
+	/Pen {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/SquareCircle {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Scissor {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Guide {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Ruler {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Page {
+		/down (ATFGP v i o)
+		/up (ATFGP v i o)
+	}
+	/Zoom {
+		/down ()
+		/up ()
+	}
+	/RangeSelect {
+		/down ()
+		/up ()
+	}
+	/Select {
+		/down (ATFGP v i o f)
+		/up (A v o f)
+	}
+	/Blend {
+		/down (A v)
+		/up (A v)
+	}
+}
+/hyphenation {
+	/language 0
+}
+/showAsianTextOptions 0
+/text {
+	/doNonLatinInlineInput 1
+	/doFontLocking 1
+	/riseIncrement 2.0
+	/sizeIncrement 2.0
+	/kernIncrement 20
+	/asianunits 2
+	/recentFontMenu {
+		/showNEntries 5
+	}
+	/fontMenu {
+		/showSubMenusInFace 0
+		/faceSizeMultiplier 1.0
+		/showInFace 0
+		/menuNameLimit 35
+	}
+	/groupTypeMenuByLanguage 1
+	/units 2
+	/faceSize 12.0
+	/defaultFaceNames {
+		/Baltic {
+			/1 (MyriadPro-Regular)
+		}
+		/Greek {
+			/1 (MyriadPro-Regular)
+		}
+		/Turkish {
+			/1 (MyriadPro-Regular)
+		}
+		/EastEuropean {
+			/1 (MyriadPro-Regular)
+		}
+		/Cyrillic {
+			/1 (MyriadPro-Regular)
+		}
+		/SimplifiedChinese {
+			/1 (AdobeSongStd-Light)
+		}
+		/Korean {
+			/1 (AdobeMyungjoStd-Medium)
+		}
+		/TraditionalChinese {
+			/1 (AdobeMingStd-Light)
+		}
+		/Japanese {
+			/1 (KozGoPro-Regular)
+		}
+		/Roman {
+			/1 (MyriadPro-Regular)
+		}
+	}
+	/useEnglishFontNames 1
+	/debugFontMenu {
+		/writeDebugFile 0
+		/lieAboutNativeScript 0
+	}
+}
+/changed 0

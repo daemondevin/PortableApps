@@ -1,0 +1,8 @@
+AH_WHATSNEW	WSC6DF7D08-29EE-4e4b-BBEF-763F71C54EDF.html	What’s new	ill_intro_in.xml	Home Page > Getting started > What’s new > New featuresADOBE_HELP_PAGE_ID_WHATSNEW
+AH_KEYBOARDSHORTCUTS	WS714a382cdf7d304e7e07d0100196cbc5f-642a.html	Keyboard shortcuts	ill_shortcuts_qrc.xml	
+AH_TUTORIALS	ILLUSTRATOR_13.0_HOMEPAGE.html	Home Page	home.xml	Mapping to Home Page since there doesn’t seem to be a Tutorials chapter.
+AH_COLORMANAGEMENT	WS79B1AB30-AF45-4a89-9F0A-F83B1D991390.html	Color management	/XML/en-us/Products/Shared/Color/2.0/crs_color_cm.xml	
+AH_COPYRIGHT	WS5FCF11C7-3529-4478-A241-55B2BD45851A.html	Copyright	legal.xml	
+AH_GETTINGSTARTED	WS714a382cdf7d304e7e07d0100196cbc5f-6537.html	Getting started	ill_intro_in.xml	Home Page > Getting startedADOBE_HELP_PAGE_ID_GETTINGSTARTED
+AH_RESOURCES	WSCC0CFF78-C038-49f5-92EA-81736A14B8AA.html	Resources	ill_intro_in.xml	Home Page > Getting started > ResourcesADOBE_HELP_PAGE_ID_RESOURCES
+AH_HOME	ILLUSTRATOR_13.0_HOMEPAGE.html	Home Page	home.xml	

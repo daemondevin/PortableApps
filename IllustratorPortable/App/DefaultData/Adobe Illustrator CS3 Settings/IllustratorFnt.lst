@@ -1,0 +1,297 @@
+%!Adobe-FontList 1.11
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMingStd-Light
+FamilyName:Adobe Ming Std
+StyleName:L
+FullName:Adobe Ming Std L
+MenuName:Adobe Ming Std L
+StyleBits:0
+FamilyNameNative:Adobe 明體 Std
+StyleNameNative:L
+FullNameNative:Adobe 明體 Std L
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\AdobeMingStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:10149768
+FileModTime:1174016514
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMyungjoStd-Medium
+FamilyName:Adobe Myungjo Std
+StyleName:M
+FullName:Adobe Myungjo Std M
+MenuName:Adobe Myungjo Std M
+StyleBits:0
+FamilyNameNative:Adobe 명조 Std
+StyleNameNative:M
+FullNameNative:Adobe 명조 Std M
+WritingScript:Korean
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\AdobeMyungjoStd-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:3999324
+FileModTime:1174016516
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeSongStd-Light
+FamilyName:Adobe Song Std
+StyleName:L
+FullName:Adobe Song Std L
+MenuName:Adobe Song Std L
+StyleBits:0
+FamilyNameNative:Adobe 宋体 Std
+StyleNameNative:L
+FullNameNative:Adobe 宋体 Std L
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\AdobeSongStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:15588124
+FileModTime:1174016516
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\ADOIF__.12
+FileModTime:1174018278
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\ADOIF__.24
+FileModTime:1174018278
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeInvisFont
+FamilyName:AdobeInvisFont
+StyleName:Regular
+FullName:AdobeInvisFont
+MenuName:AdobeInvisFont
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\ADOIF__.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:3803
+FileModTime:1174018278
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:AdobeInvisFont
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\ADOIF__.PFM
+FileLength:688
+FileModTime:1174018278
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmbi____.afm
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmbi____.inf
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Myriad-BoldItalic
+FamilyName:Myriad
+StyleName:Bold Italic
+FullName:Myriad Bold Italic
+MenuName:Myriad Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmbi____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:31515
+FileModTime:1174020102
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Myriad-BoldItalic
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmbi____.pfm
+FileLength:4115
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmb_____.afm
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmb_____.inf
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Myriad-Bold
+FamilyName:Myriad
+StyleName:Bold
+FullName:Myriad Bold
+MenuName:Myriad Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmb_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:31784
+FileModTime:1174020102
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Myriad-Bold
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmb_____.pfm
+FileLength:4073
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmi_____.afm
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmi_____.inf
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Myriad-Italic
+FamilyName:Myriad
+StyleName:Italic
+FullName:Myriad Italic
+MenuName:Myriad Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmi_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30232
+FileModTime:1174020102
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Myriad-Italic
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmi_____.pfm
+FileLength:4207
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmr_____.afm
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmr_____.inf
+FileModTime:1174020102
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Myriad-Roman
+FamilyName:Myriad
+StyleName:Roman
+FullName:Myriad Roman
+MenuName:Myriad Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmr_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30303
+FileModTime:1174020102
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Myriad-Roman
+NumMMAxes:0
+OutlineFileName:C:\Program Files\Adobe\Adobe Illustrator CS3\Support Files\Required\Fonts\\wmr_____.pfm
+FileLength:4106
+FileModTime:1174020102
+%EndFont
+

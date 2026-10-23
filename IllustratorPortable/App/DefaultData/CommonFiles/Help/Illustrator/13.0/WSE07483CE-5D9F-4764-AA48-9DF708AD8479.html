@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" type="text/css" href="content.css" />
+		<title>
+			GIF and PNG‑8 optimization options
+		</title>
+<!-- Changed by: , 21-Mar-2006 -->
+<script src="help.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+		
+		
+<script type="text/javascript">
+<!--[CDATA[
+handleContext(1);
+if (use_ie_6_behavior) {
+  document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"content-ie6.css\" />");
+}
+// ]]-->
+</script> 
+		
+<script src="scripts.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> <script src="terms.js" type="text/javascript" language="Javascript" charset="UTF-8">...</script> 
+	</head>
+	<body id="content_body">
+<!--googleoff: index-->
+<!-- BEGIN PAGE CONTENT WRAPPER -->
+		<div id="pneumonic">
+			<h1 class="Illustrator">Illustrator</h1>
+		</div>
+		<div id="page_content_wrapper">
+			<p class="sharedproducts">TOPIC APPEARS IN: </p><p class="sharedproductindicators"><img src="images/photoshopSharedIndicator.png" title="Photoshop" /><img src="images/illustratorSharedIndicator.png" title="Illustrator" /></p>
+<!-- BEGIN BREADCRUMBS -->
+			<div id="breadcrumb">
+<!-- BEGIN BREADCRUMBS -->
+				
+<div class="nav"><dl class="page"><dd class="prev"><a accesskey="p" class="prev" href="WS29D0201B-A3E2-4339-9747-8FB540762EE3.html" title="JPEG optimization options"><img src="images/prev.gif" alt="Previous" /></a></dd><dd class="next"><a accesskey="n" class="next" href="WS68259D63-DF0C-435c-8678-20BFCC231EC8.html" title="Optimize transparency in GIF and PNG images"><img src="images/next.gif" alt="Next" /></a></dd></dl></div><div class="hierarchy"><a href="WS714a382cdf7d304e7e07d0100196cbc5f-6370.html">Web graphics</a> /
+     <a href="WSC7A1F924-DD38-49b4-B84B-EFF50416C860.html"><b>Web graphics optimization options</b></a> 
+     </div>
+
+<!-- END BREADCRUMBS -->
+			</div>
+<!-- END BREADCRUMBS -->
+<!-- BEGIN PAGE TITLE -->
+<!--googleon: index-->
+			<h1>
+				GIF and PNG‑8 optimization options
+			</h1>
+<!--googleoff: index-->
+<!-- END PAGE TITLE -->
+<!-- BEGIN CONTENT WRAPPER -->
+			<div id="content_wrapper">
+<!--googleon: index-->
+				<div><div class="section">
+                        <p>
+                           
+                           
+                           
+                           
+                           GIF is the standard format for compressing
+images with flat color and crisp detail, such as line art, logos,
+or illustrations with type. Like the GIF format, the PNG‑8 format
+efficiently compresses solid areas of color while preserving sharp
+detail.</p>
+
+                        <p>PNG‑8 and GIF files support 8‑bit color, so they can
+display up to 256 colors. The process of determining which colors
+to use is called <dfn class="term">indexing</dfn>, so images in GIF and PNG‑8
+formats are sometimes called <dfn class="term">indexed color</dfn> images.
+To convert an image to indexed color, Photoshop builds a color lookup
+table, which stores and indexes the colors in the image. If a color
+in the original image does not appear in the color lookup table,
+the application either chooses the closest color in the table or
+simulates the color using a combination of available colors. </p>
+
+                        <p>In
+addition to the following options, you can also adjust the number
+of colors in the image’s color table. See <a href="WS37DC6500-0F62-4887-9D33-761AB130FF7D.html">Customize the color table for GIF and PNG‑8 images</a>.</p>
+
+                        <div class="fignone"><img alt="" id="swb_gif_settings" src="images/swb_gif_settings.png" /><div class="figdesc">Optimization settings for GIF</div><br />
+                           
+                           
+                           <dl>
+                              
+                                 <dt class="dlterm">A.</dt>
+
+                                 <dd>File Format menu</dd><p class="dlseparator"></p>
+                              
+                              
+                                 <dt class="dlterm">B.</dt>
+
+                                 <dd>Color
+Reduction Algorithm menu</dd><p class="dlseparator"></p>
+                              
+                              
+                                 <dt class="dlterm">C.</dt>
+
+                                 <dd>Dithering
+Algorithm menu</dd><p class="dlseparator"></p>
+                              
+                              
+                                 <dt class="dlterm">D.</dt>
+
+                                 <dd>Optimize menu</dd><p class="dlseparator"></p>
+                              
+                           </dl>
+
+                        </div>
+                        <dl><dt class="dlterm">Lossy (GIF only)</dt>
+<dd>
+                                 Reduces file size by selectively discarding data. A higher
+Lossy setting results in more data being discarded. You&#160;can
+often apply a Lossy value of 5–10, and sometimes up to 50, without
+degrading the image. The Lossy option can reduce file size by 5%
+to&#160;40%. 
+                                 <div class="note"><span class="notetitle">Note:  </span>You cannot use the Lossy
+option with the Interlaced option or with Noise or Pattern Dither
+algorithms.</div>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Color Reduction Method and Colors</dt>
+<dd>
+                                 Specifies a method for generating the color lookup table
+and the number of colors you want in the color lookup table. You
+can select one of the following color reduction methods:
+                                 <dl><dt class="dlterm">Perceptual</dt>
+<dd>
+                                          Creates a custom color table by giving priority to colors
+for which the human eye has greater sensitivity. 
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Selective</dt>
+<dd>
+                                          Creates a color table similar to the Perceptual color table,
+but favoring broad areas of&#160;color and the preservation
+of web colors. This&#160;color table usually produces images
+with the&#160;greatest color integrity. Selective is the default&#160;option.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Adaptive</dt>
+<dd>
+                                          Creates a custom color table by sampling colors from the
+predominant spectrum in the image. For example, an image with only
+the colors green and blue produces a color table made primarily
+of greens and blues. Most images concentrate colors in particular
+areas of the spectrum. 
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">(Restrictive) Web</dt>
+<dd>
+                                          
+                                             Uses
+the standard 216‑color color table common to the Windows and Mac&#160;OS
+8‑bit (256‑color) palettes. This option ensures that no browser
+dither is applied to colors when the image is displayed using 8‑bit
+color. (This palette is also called the web‑safe palette.) Using
+the web palette can create larger files, and is recommended only
+when avoiding browser dither is a high priority. 
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Custom</dt>
+<dd>
+                                          Uses a color palette that is created or modified by the user.
+If you open an existing GIF or PNG‑8 file, it will have a custom
+color palette.
+                                          <div class="tip">
+                                             <img src="images/tip_help.png" />Use the Color Table palette
+in the Save For Web &amp; Devices dialog box to customize the color
+lookup table.</div>
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Black and White, Grayscale, Mac&#160;OS, Windows</dt>
+<dd>
+                                          Use a set palette of colors.
+                                       </dd><p class="dlseparator"></p></dl>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Dithering Method and Dither</dt>
+<dd>
+                                 
+                                    Determines
+the method and amount of application dithering. Dithering refers
+to the method of simulating colors not available in the color display
+system of your computer. A higher dithering percentage creates the
+appearance of more colors and more detail in an image, but can also
+increase the file size. For optimal compression, use the lowest percentage
+of dither that provides the color detail you require. Images with primarily
+solid colors may work well with no dither. Images with continuous-tone color
+(especially color gradients) may require dithering to prevent color
+banding. 
+                                 <div class="fignone"><img alt="" id="swb_gif_dither" src="images/swb_gif_dither.png" /><div class="figdesc">GIF image with 0% dither (left), and with 100% dither (right)</div><br />
+                                    
+                                    
+                                 </div>
+                                 <p>You
+can select one of the following dithering methods:</p>
+
+                                 <dl><dt class="dlterm">Diffusion</dt>
+<dd>
+                                          Applies a random pattern that is usually less noticeable
+than Pattern dither. The dither effects are diffused across adjacent
+pixels.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Pattern</dt>
+<dd>
+                                          Applies a halftone-like square pattern to simulate any colors
+not in the color table.
+                                       </dd><p class="dlseparator"></p><dt class="dlterm">Noise</dt>
+<dd>
+                                          Applies a random pattern similar to the Diffusion dither
+method, but without diffusing the pattern across adjacent pixels.
+No seams appear with the Noise dither method. 
+                                       </dd><p class="dlseparator"></p></dl>
+
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Transparency and Matte</dt>
+<dd>
+                                 Determines how transparent pixels in the image are optimized. 
+                                 <ul><li>
+                                       <p>To make fully transparent pixels transparent and blend partially
+transparent pixels with a&#160;color, select Transparency and
+select a matte&#160;color. </p>
+
+                                    </li>
+<li>
+                                       <p>To fill fully transparent pixels with a color and blend partially
+transparent pixels with the same&#160;color, select a matte
+color and deselect Transparency.</p>
+
+                                    </li>
+<li>
+                                       <p>To select a matte color, click the Matte color swatch and
+select a color in the color picker. Alternatively, select an option
+from the Matte menu: Eyedropper (to use the color in the eyedropper
+sample box), Foreground Color, Background Color, White, Black, or
+Other (to use the color picker).</p>
+
+                                    </li>
+</ul>
+
+                                 <div class="fignone"><img alt="" id="swb_transparency_matte" src="images/swb_transparency_matte.png" /><div class="figdesc">Examples of transparency and matting</div><br />
+                                    
+                                    
+                                    <dl>
+                                       
+                                          <dt class="dlterm">A.</dt>
+
+                                          <dd>Original image</dd><p class="dlseparator"></p>
+                                       
+                                       
+                                          <dt class="dlterm">B.</dt>
+
+                                          <dd>Transparency
+selected with a matte color</dd><p class="dlseparator"></p>
+                                       
+                                       
+                                          <dt class="dlterm">C.</dt>
+
+                                          <dd>Transparency
+selected with no matting</dd><p class="dlseparator"></p>
+                                       
+                                       
+                                          <dt class="dlterm">D.</dt>
+
+                                          <dd>Transparency
+deselected with a matte color</dd><p class="dlseparator"></p>
+                                       
+                                    </dl>
+
+                                 </div>
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Transparency Dithering</dt>
+<dd>
+                                 
+                                    
+                                    
+                                    When
+the Transparency option is selected, you can choose a method for
+dithering partially transparent pixels:
+                                 <ul><li>
+                                       <p>No Transparency
+Dither applies no dither to partially transparent pixels in the image.</p>
+
+                                    </li>
+<li>
+                                       <p>
+                                          Diffusion
+Transparency Dither applies a random pattern that is usually less noticeable
+than Pattern dither. The dither effects are diffused across adjacent pixels.
+If you select this algorithm, specify a Dither percentage to control
+the amount of dithering that is applied to the image. </p>
+
+                                    </li>
+<li>
+                                       <p>
+                                          Pattern Transparency
+Dither applies a halftone-like square pattern to partially transparent
+pixels.</p>
+
+                                    </li>
+<li>
+                                       <p>
+                                          Noise Transparency
+Dither applies a random pattern similar to the Diffusion algorithm,
+but without diffusing the pattern across adjacent pixels. No seams appear
+with the Noise algorithm.</p>
+
+                                    </li>
+</ul>
+
+                                 <div class="fignone"><img alt="" id="swb_pattern_dither" src="images/swb_pattern_dither.png" /><div class="figdesc">Example of Pattern Transparency dithering (left) and applied
+to a web page background (right)</div><br />
+                                    
+                                    
+                                 </div>
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Interlace</dt>
+<dd>
+                                 Displays a low-resolution version of the image in a browser
+while the full image file is downloading. Interlacing can make downloading
+time seem shorter and can assure viewers that downloading is&#160;in
+progress. However, interlacing also increases file size.
+                              </dd><p class="dlseparator"></p><dt class="dlterm">Web Snap</dt>
+<dd>
+                                 Specifies a tolerance level for shifting colors to the closest
+web palette equivalents (and&#160;prevent the colors from dithering
+in a browser). A higher value shifts more colors. 
+                              </dd><p class="dlseparator"></p></dl>
+
+                     </div>
+</div>
+
+<!--googleoff: index-->
+			</div>
+<!-- END CONTENT WRAPPER -->
+		</div>
+<!-- END PAGE CONTENT WRAPPER -->
+		<br clear="both" />
+		<div id="related">
+			<div class="t">
+				<div class="b">
+					<div class="l">
+						<div class="r">
+							<div class="bl">
+								<div class="br">
+									<div class="tl">
+										<div class="tr">
+											<div id="related_in">
+												<h3>
+<script type="text/javascript">document.write(terms_Related_Information);</script> 
+												</h3>
+												<div><ul class="link-list"><li class="icon Illustrator" alt="Illustrator"><a href="WSB3484C68-ECD2-4fa4-B7CC-447A5FE86680.html">Optimize an image for the web</a></li></ul>
+</div>
+												<h4>
+<script type="text/javascript">document.write(terms_AHV_HELP_RESOURCE_CENTER);</script> 
+												</h4>
+												<ul class="link-list"><li class="icon external"><a target="_blank" title="This page on the Web" href="http://help.adobe.com/en_US/Illustrator/13.0/WSE07483CE-5D9F-4764-AA48-9DF708AD8479.html">This page on the Web</a></li></ul>
+												
+											</div>
+											<br clear="both" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br clear="both" />
+	</body>
+</html>
