@@ -18,24 +18,27 @@ The first time you start one, the launcher tells you which folder to copy from a
 
 ## The packages
 
+What's here so far.
+
 | Package | Kind | Notes |
 | --- | --- | --- |
-| 7-Zip Portable | Complete | |
-| Bearsampp Portable | Complete | Updates itself from Bearsampp's GitHub releases |
-| Discord Portable | Complete | Optional BetterDiscord, Vencord or Equicord support |
-| GitHub Desktop Portable | Complete | |
+| Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
-| Visual Studio Code Portable | Complete | Updates itself |
 | Adobe Illustrator Portable | Launcher only | |
 | Adobe Photoshop Portable | Launcher only | |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
-| FL Studio Portable | Launcher only | |
 | O&O Defrag Portable | Launcher only | |
-| RipX DAW Portable | Launcher only | |
 | WeBuilder Portable | Launcher only | |
 
-Every package has a `README.md` in `Other\Source` that says exactly what it changes on the computer, what's kept in `Data`, and what its settings do.
+Every package has a `README.md` that says exactly what it changes on the computer, what's kept in `Data`, and what its settings do.
+
+There's also some PortableApps that have there own project pages:
+
+- [GitHub Desktop](https://github.com/daemondevin/GitHubDesktopPortable)
+- [7-Zip Portable](https://github.com/daemondevin/7-ZipPortable)
+- [Discord Portable](https://github.com/daemondevin/DiscordPortable)
+- [VS Code Portable](https://github.com/daemondevin/VSCodePortable)
 
 ## Installing
 
