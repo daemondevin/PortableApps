@@ -1,0 +1,99 @@
+End User License Agreement (EULA) of O&O Software GmbH
+
+General Section
+IMPORTANT - PLEASE READ CAREFULLY
+
+This End User License Agreement (EULA) is organized into two sections: a general section, which is valid for all O&O products, and a specialized section, which includes product-specific terms. By accepting these license terms, both sections automatically form part of your contract with O&O Software GmbH, Bülowstraße 66, 10783 Berlin, Germany.
+
+If you have any questions regarding this contract, please contact info@oo-software.com.
+
+The software product is protected by copyright laws and international copyright treaties as well as other laws and agreements concerning intellectual property.
+
+1. Object and Form of Delivery
+
+1. You receive the software in executable form (object code) together with the released documentation.
+2. The range of functions is described in the product description and documentation.
+3. Delivery is made either via physical media or by electronic distribution.
+4. Updates, if agreed upon, will be made available electronically.
+5. Changes to contact information must be communicated in a timely manner.
+6. The documentation is provided in electronic form.
+
+2. Requirements for Application (System Requirements)
+
+1. Installation of the software is not part of this contract.
+2. The applicable system requirements are described in the product description, documentation, or on the O&O website.
+
+3. Rights of Use, Including Test Versions and Prohibitions on Transfer/Use
+
+1. License Types
+O&O grants you – depending on the license type acquired – the following rights of use:
+    1. Perpetual License – Upon payment of the one-time fee, you receive an unlimited right of use with no time restriction.
+    2. Subscription License – The right of use is limited to the agreed term.
+2. The term of the Subscription License is determined by the billing period agreed upon at the time the contract is concluded (e.g., monthly or annually). Upon expiration of the term, the right of use ends automatically unless a renewal is made.
+3. O&O is entitled to technically restrict or disable the use of the software if the Subscription License expires or if payment is in arrears.
+4. Test Versions – If you have installed a test version of one of our products from the O&O website www.oo-software.com, the right of use is limited in time and/or technically restricted as indicated at the time of contract conclusion.
+5. The use of the software is limited to the contractually agreed number of devices or workstations.
+6. If you wish to use the software on more than the contractually agreed number of devices or workstations, the rights of use must be extended accordingly. Information on which O&O programs are also available as volume licenses can be found on the O&O website (www.oo-software.com). The separate O&O Volume License price list applies to extensions of rights of use without redelivery of the software. A subsequent extension of rights of use without redelivery does not trigger a new warranty.
+7. Any use beyond the contractually agreed scope constitutes a breach of contract. In such a case, you are required to notify the supplier of the excessive use without delay. The parties will then attempt to reach an agreement on extending the rights of use. For the duration of the excessive use, i.e., until the conclusion of such an agreement or the cessation of the excessive use, you are required to pay compensation for the excessive use in accordance with our price list. The compensation will be calculated on the basis of a four-year straight-line depreciation. If you fail to report the excessive use, a contractual penalty amounting to three times the price of the usage claimed, in accordance with the O&O price list, shall become due.
+8. You are entitled to create a backup copy of the software and to perform routine data backups. The creation of more copies than required for backing up future use (including backup copies and data backups) is not permitted.
+9. Copyright and other proprietary notices within the software may neither be removed nor altered. They must be included on every copy of the software.
+10. Prohibition on Transfer – Only if you have acquired a Perpetual License and the software was provided on a physical medium are you entitled to transfer it, subject to the following conditions: A resale of the software is only permitted as an entire software copy, i.e., by surrendering your own use of the paid copy, you are entitled to transfer the right of use to a third party by handing over the physical medium, in accordance with the terms agreed between O&O and yourself. Upon such transfer, you are required to hand over to the third party all materials related to the software covered by this contract and to delete the software from any storage media (e.g., hard disks) remaining in your possession.
+11. Prohibition on Reverse Engineering, Decompilation, and Disassembly – You may not reverse engineer, decompile, or disassemble this software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+12. Prohibition on Rental and Service Use – This contract does not entitle you to any public display of the software or to rental of the software. You are also not entitled to use the software to provide services for and in the presence of third parties. You may purchase an appropriate license from O&O for this purpose.
+13. Compliance with Applicable Laws – You must comply with all applicable laws regarding the use of the software.
+14. Updates and New Versions:
+    1. For Subscription Licenses, updates and new versions are included during the term of the license.
+    2. For Perpetual Licenses, updates are only included if expressly agreed (e.g., as part of a maintenance agreement).
+
+4. Payment
+
+1. The prices indicated include the applicable statutory sales tax, unless otherwise stated.
+2. Test Versions – Test versions offered by O&O for download are free of charge, unless otherwise indicated.
+3. If you receive updates of your programs as part of a maintenance agreement, the payment terms set forth in those agreements apply.
+4. O&O is entitled to forward the data it has received to third parties to the extent required for collection purposes.
+5. Until payment is made in full, O&O retains all rights, in particular copyrighted rights of use, to the contractual items. O&O is specifically entitled, if O&O withdraws from the contract, e.g., due to your payment default, to prohibit the further use of the software and to demand the surrender of all copies or, where surrender is not possible, to demand their deletion. Should a third party gain access to the object of purchase before payment for the contractual software is completed, you are required to inform this third party about O&O's retention of title and to immediately notify O&O in writing of the third party's access.
+
+5. Material Defects and Defects of Title
+
+1. You receive the software package or download free of material defects or defects of title.
+2. A material defect exists when the software is not suitable for the use described in the documentation, which is available on the website www.oo-software.com and is included in the delivery or available for download. 
+O&O continuously checks that no promises regarding the functionality and properties of the software are made elsewhere that go beyond the documentation. You can therefore assume that descriptions beyond those in the documentation do not originate from O&O and are not known to O&O. Should you become aware of any descriptions of the software that claim functions and properties not described in the documentation, please inform O&O.
+3. A defect of title exists when the rights required for the contractually intended use have not been effectively granted after delivery of the software.
+4. Claims for material defects and/or defects of title in the software are subject to a limitation period of two years from delivery of the programs or transmission of the serial number required for download. If you are a merchant, the warranty period is reduced to one year. 
+If O&O has fraudulently concealed a material defect, the limitation period for claims related to this defect is three years.
+After expiration of the limitation period, payment of the compensation may be refused to the extent that you would have been entitled to do so on the basis of a withdrawal or a reduction.
+5. You are required to report any defects that arise to O&O without delay upon their discovery, and in writing if possible. In doing so, you should, where possible, describe how the defect manifests itself, what effect it has, and under what circumstances it occurs.
+6. If defects are reported to O&O during the limitation period, O&O will undertake a cure free of charge.
+7. As part of the cure, the corrected software will be redelivered to you in the agreed manner. An on-site error analysis and correction on your system will not take place.
+O&O will bear the expenses arising from the cure, in particular transport, travel, labor, and material costs. You remain personally responsible for installation. O&O does not assume on-site installation of the software as part of its obligations regarding material defects or defects of title.
+To the extent a modification of the program is made as part of the cure, O&O will make the necessary updates to the documentation free of charge. 
+8. After the unsuccessful expiration of a deadline you set for cure, you may withdraw from the contract or reduce the purchase price and demand compensation in lieu of performance or reimbursement of futile expenditures.
+9. A deadline is not required when
+    1. O&O refuses both types of cure, even if it is entitled to do so due to the resulting costs, or
+    2. the cure is impossible, or
+    3. the cure is unacceptable to you, or
+    4. the cure has failed.
+A subsequent improvement is deemed to have failed after the second unsuccessful attempt, unless the nature of the software or the defect or other circumstances indicate otherwise.
+10. You are not entitled to withdraw from the contract if the defect is immaterial. In such a case, you may also not demand compensation in lieu of the entire performance.
+11. In the event of withdrawal, compensation is due for any uses made. The compensation for use will be calculated on the basis of a four-year straight-line depreciation of the purchase price.
+12. As a result of the reduction, the purchase price will be reduced by the amount by which the defect diminishes the value of the software, measured against the purchase price. The relevant standard is the value at the time the contract was concluded. The amount shall, where necessary, be determined by estimation. In the event of a reduction, any amount already paid in excess of the reduced purchase price shall be refunded.
+13. If it turns out that a reported problem was not caused by a defect in the software, O&O is entitled to charge you for the expenses incurred in analyzing and correcting the problem in accordance with the O&O price lists for such services, provided that you can be accused of intent or gross negligence.
+14. The warranty obligation lapses if changes are made to the software without express written consent or if the software is used in a manner or software environment other than intended, unless you can demonstrate that these facts are unrelated to the defect that occurred.
+
+6. Limitation of Liability
+
+1. O&O is liable for damages on any legal grounds to the extent described in the following provisions.
+2. The liability of O&O for damages caused intentionally or through gross negligence by O&O or any of its vicarious agents or legal representatives is unlimited in amount.
+3. For damages arising from injury to life, body, or health, liability is also unlimited in amount in the case of a simple negligent breach of duty by O&O or any of its legal representatives or vicarious agents.
+4. Liability is also unlimited in amount for damages attributable to serious organizational fault on the part of O&O, as well as for damages caused by the absence of a guaranteed characteristic.
+5. In the event of a breach of essential contractual obligations, O&O is liable, where none of the cases described in (2) – (4) applies, limited in amount to the foreseeable damage typical for this type of contract. 
+6. Any further liability for damages is excluded; in particular, liability without fault is excluded.
+7. Liability under the Product Liability Act remains unaffected.
+8. If damage is attributable to fault on the part of both O&O and yourself, you must accept your share of contributory negligence.  
+You are responsible for regularly backing up your data at least once per day. In the event of data loss caused by O&O, O&O is therefore only liable for the cost of duplicating the data from the backup copies you are required to create and for the restoration of data that would have also been lost even if a proper data backup had been performed.
+
+7. Final Provisions
+
+1. You may only set off claims from O&O against undisputed or legally established claims.
+2. Changes and amendments to this contract must be made in writing. This also applies to changes to this provision.
+3. The contract is subject to German law. The United Nations Convention on Contracts for the International Sale of Goods (CISG) and the UNIDROIT 

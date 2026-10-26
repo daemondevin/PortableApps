@@ -22,13 +22,17 @@ What's here so far.
 
 | Package | Kind | Notes |
 | --- | --- | --- |
-| Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
-| Komodo Edit Portable | Complete | |
-| Komodo IDE Portable | Complete | |
+| AIMP Portable | Launcher only | AIMP's license only allows AIMP's original installer to be passed on. |
 | Adobe Illustrator Portable | Launcher only | |
 | Adobe Photoshop Portable | Launcher only | |
+| Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
+| FL Studio Portable | Launcher only | |
+| Komodo Edit Portable | Complete | |
+| Komodo IDE Portable | Complete | |
 | O&O Defrag Portable | Launcher only | |
+| O&O RegEditor Portable | Launcher only | |
+| RipX DAW Portable | Launcher only | |
 | WeBuilder Portable | Launcher only | |
 
 Every package has a `README.md` that says exactly what it changes on the computer, what's kept in `Data`, and what its settings do.
@@ -59,6 +63,40 @@ Many modern programs don't stay inside their own folder. They register services,
 - **Anything that was already there** before the launch, such as an installed copy of the same program, is left alone.
 
 Some programs need administrator rights for this. Each package's README says when, and why.
+
+## My promise: no cracked software
+ 
+Every release I publish is made from software obtained legitimately. That means:
+ 
+- **No cracks, keygens, patched binaries or license bypasses.** Ever.
+- **No repackaged pirated installers.** If an app needs a license, you bring your own, or it ships as the vendor's own free or trial edition.
+- **The app itself is not modified** to remove protections, ads, checks or telemetry unless the vendor allows it, and if I do change something, the release notes say so.
+- **What I add is the launcher.** The PAC-MAN launcher, its settings and its cleanup are my work, and you can read what they do.
+If you ever find a release of mine that breaks this promise, tell me and I will pull it.
+ 
+## Signed releases and the warning you may see
+ 
+I sign my launchers with a code signing certificate, using the signing tools built into PAC-MAN. The signature proves two things: the file came from me, and it has not been changed since I signed it. If someone tampers with a release or passes off their own build as mine, the signature breaks.
+ 
+My certificate is not one that Windows trusts out of the box, so the first time you run one of my launchers, Windows may warn you about an unknown publisher. That warning is Windows saying it does not know me yet. It is not saying the file is bad.
+ 
+## Stop the warnings
+ 
+If you trust my releases and want the warnings to go away, add my certificate to your certificate manager.
+ 
+1. **Download the certificate:** [daemon.devin certificate](https://envs.net/~daemondevin/portableapps/uploads/daemon.devin.p7b)
+2. **Check it is mine** before you trust it. Open the file, go to the **Details** tab and compare the **Thumbprint** with this one: `070f1dc3f30dd5da9beae822cf2de256b8ad434b`. If they differ, do not install it.
+3. Press **Win + R**, type `certmgr.msc` and press Enter. (This installs it for your account only. Use `certlm.msc` to install it for every user on the PC, which needs administrator rights.)
+4. Open **Trusted Root Certification Authorities**, right-click **Certificates**, choose **All Tasks → Import**, and pick the file I gave you.
+5. Repeat the import into **Trusted Publishers**.
+6. Run one of my launchers. The unknown publisher warning should be gone.
+A few honest notes:
+ 
+- **Only do this if you trust me.** A certificate in your trusted store tells Windows to believe whatever is signed with it. That is the whole idea, and it is also why you should check the thumbprint and not take a certificate from anyone else's page.
+- **You can undo it any time.** Open the same store, find my certificate, and delete it.
+- **It will not hide everything.** Windows SmartScreen judges downloads by reputation as well as signature, so a brand new download can still get a prompt even from a trusted publisher. Choose **More info → Run anyway** once for that file.
+- **Your antivirus may still flag a launcher** now and then, because launchers write to the registry and start services, which is also what malware does. If you want to be sure, check the signature before you run anything: right-click the file, choose **Properties → Digital Signatures**, and check the signer is me.
+Thanks for using my releases.
 
 ## Reporting a problem
 
