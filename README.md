@@ -30,6 +30,7 @@ What's here so far.
 | FL Studio Portable | Launcher only | |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
+| Mozilla Firefox Portable | Launcher only | |
 | O&O Defrag Portable | Launcher only | |
 | O&O RegEditor Portable | Launcher only | |
 | RipX DAW Portable | Launcher only | |
