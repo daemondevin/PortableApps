@@ -28,9 +28,11 @@ What's here so far.
 | Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |
+| Google Chrome Portable | Launcher only | |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
 | Mozilla Firefox Portable | Launcher only | |
+| Opera Portable | Launcher only | |
 | O&O Defrag Portable | Launcher only | |
 | O&O RegEditor Portable | Launcher only | |
 | RipX DAW Portable | Launcher only | |
