@@ -30,6 +30,7 @@ What's here so far.
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |
 | Google Chrome Portable | Launcher only | |
+| Inkscape Portable | Launcher only | |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
 | Mozilla Firefox Portable | Launcher only | |
