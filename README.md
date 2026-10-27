@@ -50,8 +50,8 @@ There's also some PortableApps that have there own project pages:
 
 ## Installing
 
-1. Download the package from [Releases](../../releases).
-2. Extract it to a folder of your choice. To use the PortableApps.com Platform, put it in the Platform's `PortableApps` folder.
+1. Download the PortableApp installer from [Releases](../../releases).
+2. Double click on the downloaded installer or install through the PortableApps.com Platform via `Apps &rarr; Install a New App [paf.exe]`
 3. **Launcher only:** start it once, and copy the program folder where it tells you to.
 4. Start `<AppName>Portable.exe`.
 
