@@ -25,6 +25,7 @@ What's here so far.
 | AIMP Portable | Launcher only | AIMP's license only allows AIMP's original installer to be passed on. |
 | Adobe Illustrator Portable | Launcher only | |
 | Adobe Photoshop Portable | Launcher only | |
+| AUMBI Portable | Complete | |
 | Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |
