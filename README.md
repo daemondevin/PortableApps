@@ -27,6 +27,7 @@ What's here so far.
 | Adobe Photoshop Portable | Launcher only | |
 | AUMBI Portable | Complete | |
 | Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
+| Blender Portable | Launcher only | |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |
 | Google Chrome Portable | Launcher only | |
