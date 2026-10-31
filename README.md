@@ -35,10 +35,13 @@ What's here so far.
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
 | Mozilla Firefox Portable | Launcher only | |
-| Opera Portable | Launcher only | |
+| Notepad++ Portable | Launcher only | |
 | O&O Defrag Portable | Launcher only | |
 | O&O RegEditor Portable | Launcher only | |
+| Opera Portable | Launcher only | |
 | RipX DAW Portable | Launcher only | |
+| Tabby Portable | Launcher only | |
+| VLC Portable | Launcher only | |
 | WeBuilder Portable | Launcher only | |
 
 Every package has a `README.md` that says exactly what it changes on the computer, what's kept in `Data`, and what its settings do.
