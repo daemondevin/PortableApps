@@ -75,6 +75,8 @@ A portable Tabby can't stay in Explorer's menus or start with Windows from a dri
 
 If you unpacked Tabby's portable zip straight into this package's folder, Tabby's `data` folder is this package's `Data` folder: Windows doesn't tell `data` from `Data`. The first launch moves Tabby's files from there into `Data\Tabby`, and updates the paths in `config.yaml` that pointed into the old `data` folder. Then it downloads the current Tabby into `App\Tabby`.
 
+The old program files in the package folder aren't used any more and can be deleted: `Tabby.exe`, `locales`, `resources`, the `*.pak`, `*.dll`, `*.bin` and `*.dat` files, `vk_swiftshader_icd.json`, `LICENSE.electron.txt` and `LICENSES.chromium.html`. Leave `App`, `Data`, `Other`, `TabbyPortable.exe` and `TabbyPortable.ini`.
+
 ## If something goes wrong
 
 If Tabby Portable didn't close properly (a crash, a power cut, a USB drive pulled out), the next launch tells you and undoes what the last session changed. Start it again afterward.

@@ -674,6 +674,12 @@ FunctionEnd
 ; Asks GitHub for Tabby's latest release. Sets $TBVersion and, when GitHub
 ; records it, $TBDigest for the portable zip of build $R0 (x64 or arm64).
 ; $R2 = ok, or why not.
+;
+; GitHub's answer may come as one long line, so it's read in pieces, with
+; the end of each piece kept for the next, and white space taken out:
+; "tag_name": "v1.0.230" reads "tag_name":"v1.0.230" either way. Each asset
+; gives its "digest" a little before its "browser_download_url"; a digest
+; only counts when no other asset's download URL comes between them.
 Function TB_LatestRelease
 	Push $R0
 	Push $R1
@@ -682,6 +688,7 @@ Function TB_LatestRelease
 	Push $2
 	Push $3
 	Push $4
+	Push $5
 	StrCpy $4 $R0
 	ClearErrors
 	${ReadUserConfig} $0 ReleaseURL
@@ -693,44 +700,59 @@ Function TB_LatestRelease
 	StrCpy $TBVersion ""
 	StrCpy $TBDigest ""
 	${If} $R2 == ok
-		; tag_name gives the version. Each asset lists its digest before its
-		; download URL; a digest only counts for the asset it's in, so it's
-		; forgotten at the start of every asset ("url" of an asset).
 		StrCpy $2 ""
+		StrCpy $5 ""
 		FileOpen $0 $R1 r
 		${Do}
 			ClearErrors
-			FileRead $0 $1
+			FileRead $0 $1 650
 			${IfThen} ${Errors} ${|} ${Break} ${|}
+			${WordReplace} $1 " " "" "+" $1
+			${WordReplace} $1 "$\t" "" "+" $1
+			${WordReplace} $1 "$\r" "" "+" $1
+			${WordReplace} $1 "$\n" "" "+" $1
+			StrCpy $2 `$2$1`
 			${If} $TBVersion == ""
-				${WordFind} $1 `"tag_name"` "E+1}" $3
+				ClearErrors
+				${WordFind} `x$2` `"tag_name":"` "E+1}" $3
 				${IfNot} ${Errors}
-					${WordFind} $3 `"` "E+2" $3
+					${WordFind} `x$3` `"` "E+1{" $3
 					${IfNot} ${Errors}
-						StrCpy $TBVersion $3
+						StrCpy $TBVersion $3 "" 1
 						StrCpy $3 $TBVersion 1
 						${IfThen} $3 == v ${|} StrCpy $TBVersion $TBVersion "" 1 ${|}
 					${EndIf}
 				${EndIf}
 			${EndIf}
-			ClearErrors
-			${WordFind} $1 `/releases/assets/` "E+1" $3
-			${IfNot} ${Errors}
-				StrCpy $2 ""
-			${EndIf}
-			ClearErrors
-			${WordFind} $1 `"sha256:` "E+1}" $3
-			${IfNot} ${Errors}
-				${WordFind} $3 `"` "+1" $2
-			${EndIf}
-			ClearErrors
-			${WordFind} $1 `"browser_download_url"` "E+1}" $3
-			${IfNot} ${Errors}
-				${WordFind} $3 `/tabby-$TBVersion-portable-$4.zip"` "E+1" $3
+			${If} $TBVersion != ""
+			${AndIf} $5 == ""
+				; What comes before the zip's download URL, back to that URL's
+				; start, then the last digest in it, unless another asset's
+				; URL follows that digest.
+				ClearErrors
+				${WordFind} `x$2` `/tabby-$TBVersion-portable-$4.zip"` "E+1{" $3
 				${IfNot} ${Errors}
-					StrCpy $TBDigest $2
+					StrCpy $5 found
+					${WordFind} `x$3` `"browser_download_url":"` "E-1{" $3
+					${IfNot} ${Errors}
+						${WordFind} `x$3` `"digest":"sha256:` "E-1}" $1
+						${IfNot} ${Errors}
+							ClearErrors
+							${WordFind} `x$1` `"browser_download_url"` "E+1" $R1
+							${If} ${Errors}
+								StrCpy $1 $1 64
+								${StrFilter} $1 "1" "abcdefABCDEF" "" $R1
+								StrLen $R0 $1
+								${If} $R1 S== $1
+								${AndIf} $R0 = 64
+									${StrFilter} $1 "-" "" "" $TBDigest
+								${EndIf}
+							${EndIf}
+						${EndIf}
+					${EndIf}
 				${EndIf}
 			${EndIf}
+			StrCpy $2 $2 "" -350
 		${Loop}
 		FileClose $0
 		${If} $TBVersion == ""
@@ -743,6 +765,7 @@ Function TB_LatestRelease
 	${EndIf}
 	Delete `${TB_STAGE}\release.json`
 	ClearErrors
+	Pop $5
 	Pop $4
 	Pop $3
 	Pop $2
@@ -900,7 +923,7 @@ FunctionEnd
 ; downloaded or updated.
 Function TB_Failed
 	${If} $R4 == updated
-		MessageBox MB_OK|MB_ICONEXCLAMATION `Tabby couldn't be updated: $R2.$\r$\n$\r$\nThe Tabby you have starts as it is. The update is offered again next time.`
+		MessageBox MB_OK|MB_ICONEXCLAMATION `Tabby couldn't be updated: $R2.$\r$\n$\r$\nThe Tabby you have starts as it is. The update is offered again at the next check.`
 	${Else}
 		MessageBox MB_OK|MB_ICONEXCLAMATION `Tabby couldn't be $R4: $R2.`
 	${EndIf}
