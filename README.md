@@ -22,15 +22,19 @@ What's here so far.
 
 | Package | Kind | Notes |
 | --- | --- | --- |
+| Abyssal Drift Portable | Complete | |
 | AIMP Portable | Launcher only | AIMP's license only allows AIMP's original installer to be passed on. |
 | Adobe Illustrator Portable | Launcher only | |
 | Adobe Photoshop Portable | Launcher only | |
+| Android Studio Portable | Launcher only | |
 | AUMBI Portable | Complete | |
 | Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
 | Blender Portable | Launcher only | |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |
 | Google Chrome Portable | Launcher only | |
+| IconVectors Portable | Launcher only | |
+| IconWorkshop Portable | Launcher only | |
 | Inkscape Portable | Launcher only | |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
@@ -39,10 +43,12 @@ What's here so far.
 | O&O Defrag Portable | Launcher only | |
 | O&O RegEditor Portable | Launcher only | |
 | Opera Portable | Launcher only | |
+| Ore Portable | Complete | |
 | RipX DAW Portable | Launcher only | |
 | Tabby Portable | Launcher only | |
 | VLC Portable | Launcher only | |
 | WeBuilder Portable | Launcher only | |
+| WinRAR Portable | Launcher only | |
 
 Every package has a `README.md` that says exactly what it changes on the computer, what's kept in `Data`, and what its settings do.
 
