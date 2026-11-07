@@ -1,4 +1,6 @@
-# Axialis IconVectors Portable
+IconVectors Portable v1.10 Released
+
+<!--more-->
 
 A portable launcher for [Axialis IconVectors](https://www.axialis.com/iconvectors/), the SVG icon editor, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps IconVectors' settings, your registration, palettes, icon packs and autosaved drawings in the package. Every change it makes to Windows is recorded first and undone when IconVectors closes, or on the next launch if something went wrong.
 
@@ -6,7 +8,7 @@ A portable launcher for [Axialis IconVectors](https://www.axialis.com/iconvector
 
 ## License
 
-IconVectors is commercial software by Axialis Software. This package doesn't include it, and doesn't register it: you add your own copy and register it with your own product key. Axialis' license is per user and doesn't allow passing the software on, so the package isn't marked as shareable. Don't share a copy that has `App\IconVectors` or your `Data\settings` in it.
+IconVectors is commercial software by Axialis Software. This package doesn't include it, and doesn't register it: you add your own copy and register it with your own product key. Axialis' license is per user and doesn't allow passing the software on, so the package isn't marked as shareable.
 
 ## System Requirements
 
@@ -53,11 +55,6 @@ When the package is started from another folder or drive letter, the paths in th
 | `HKCU\Software\Axialis`, `%APPDATA%\Axialis` | Removed when left empty |
 | `%LOCALAPPDATA%\Axialis\IconVectors` | Removed, if it wasn't there before |
 
-## Coming from an earlier IconVectors package
-
-Earlier packages kept the settings as `Data\settings\HKCU.reg`. The first launch takes them over as `Data\settings\IconVectors.reg`, without their registration section, and removes the old file: register again with your own product key. `Data\IconVectors` stays where it is.
-
-Replace your old `App\IconVectors` with your own copy from Axialis' installer as above. `App\DefaultData` from the older package isn't used and should be deleted: its default settings came with a registration already filled in.
 
 ## If something goes wrong
 

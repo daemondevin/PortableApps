@@ -6,7 +6,7 @@ A portable launcher for [Axialis IconWorkshop](https://www.axialis.com/iconworks
 
 ## License
 
-IconWorkshop is commercial software by Axialis Software. This package doesn't include it, and doesn't register it: you add your own copy and register it with your own product key. Axialis' license is per user and doesn't allow passing the software on, so the package isn't marked as shareable. Don't share a copy that has `App\IconWorkshop` or your `Data\settings` in it.
+IconWorkshop is commercial software by Axialis Software. This package doesn't include it, and doesn't register it: you add your own copy and register it with your own product key. Axialis' license is per user and doesn't allow passing the software on, so the package isn't marked as shareable.
 
 ## System Requirements
 
@@ -60,12 +60,6 @@ When the package is started from another folder or drive letter, the paths in th
 | --- | --- |
 | `HKCU\Software\Axialis\IconWorkshop`, `Customer Info`, `folders`, `Internet Access` | Saved to `Data\settings`, then put back as they were: an installed IconWorkshop's settings and registration come back |
 | `HKCU\Software\Axialis`, `%APPDATA%\Axialis` | Removed when left empty |
-
-## Coming from an earlier IconWorkshop package
-
-Earlier packages used the same folders and the same `Data\settings\IconWorkshop.reg`, but wrote a registration into the registry on every start without a product key. The first launch takes the settings over without their registration section: register again with your own product key. Everything else (templates, swatches, the Librarian) stays where it is.
-
-Replace your old `App\IconWorkshop` with your own copy from Axialis' installer as above; the older package's program file had been modified. `App\DefaultData` and `App\AppInfo\splash.svg` from the older package aren't used and can be deleted.
 
 ## If something goes wrong
 
