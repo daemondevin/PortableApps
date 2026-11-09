@@ -1,6 +1,6 @@
 # Emsisoft Emergency Kit Portable
 
-A portable launcher for [Emsisoft Emergency Kit](https://www.emsisoft.com/en/emergency-kit/), Emsisoft's second-opinion malware scanner and cleaner, built with the [PortableApps Compiler][PACMAN] (pac-man). Every change it makes to Windows is recorded first and undone when Emergency Kit closes, or on the next launch if something went wrong.
+A portable launcher for [Emsisoft Emergency Kit](https://www.emsisoft.com/en/emergency-kit/), Emsisoft's second-opinion malware scanner and cleaner, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Every change it makes to Windows is recorded first and undone when Emergency Kit closes, or on the next launch if something went wrong.
 
 The package contains only the launcher. Emergency Kit itself comes from Emsisoft, and its license applies: it's free for private, non-commercial use, and businesses need Emsisoft's commercial license.
 

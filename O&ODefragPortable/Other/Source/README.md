@@ -1,6 +1,6 @@
 # O&O Defrag Portable
 
-A portable launcher for [O&O Defrag Professional](https://www.oo-software.com/en/oodefrag), built with the [PortableApps Compiler][PACMAN] (pac-man). Every change it makes to Windows is recorded first and undone when O&O Defrag closes, or on the next launch if something went wrong.
+A portable launcher for [O&O Defrag Professional](https://www.oo-software.com/en/oodefrag), built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Every change it makes to Windows is recorded first and undone when O&O Defrag closes, or on the next launch if something went wrong.
 
 O&O Defrag is commercial software. The package doesn't include or handle a licence: enter your own licence in O&O Defrag.
 

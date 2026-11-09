@@ -1,6 +1,6 @@
 # Google Chrome Portable
 
-A portable launcher for [Google Chrome](https://www.google.com/chrome/), built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps your Chrome user data in the package, installs Chrome from Google on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Chrome closes, or on the next launch if something went wrong.
+A portable launcher for [Google Chrome](https://www.google.com/chrome/), built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps your Chrome user data in the package, installs Chrome from Google on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Chrome closes, or on the next launch if something went wrong.
 
 Google and Chrome are trademarks of Google LLC. This package isn't made or endorsed by Google; it runs Google's own, unmodified Chrome builds, and using Chrome means agreeing to the [Google Terms of Service](https://policies.google.com/terms) and the [Chrome Additional Terms](https://www.google.com/chrome/terms/).
 

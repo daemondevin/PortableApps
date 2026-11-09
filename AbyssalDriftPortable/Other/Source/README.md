@@ -1,6 +1,6 @@
 # Abyssal Drift Portable
 
-A portable launcher for Abyssal Drift, a deep sea pinball table, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps your high scores and the game's settings in the package, and leaves nothing behind on the computer.
+A portable launcher for Abyssal Drift, a deep sea pinball table, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps your high scores and the game's settings in the package, and leaves nothing behind on the computer.
 
  [PACMAN]: https://github.com/daemondevin/pac-man
 

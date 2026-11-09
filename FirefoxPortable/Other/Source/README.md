@@ -1,6 +1,6 @@
 # Firefox Portable
 
-A portable launcher for [Firefox](https://www.mozilla.org/firefox/), built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps your profile in the package, installs Firefox from Mozilla on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Firefox closes, or on the next launch if something went wrong.
+A portable launcher for [Firefox](https://www.mozilla.org/firefox/), built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps your profile in the package, installs Firefox from Mozilla on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Firefox closes, or on the next launch if something went wrong.
 
 Firefox and the Firefox logos are trademarks of the Mozilla Foundation. This package isn't made or endorsed by Mozilla; it runs Mozilla's own, unmodified Firefox builds.
 

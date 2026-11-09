@@ -1,6 +1,6 @@
 # AIMP Portable
 
-A portable launcher for [AIMP](https://www.aimp.ru/), the music player with its own audio library, audio converter and tag editor, built with the [PortableApps Compiler][PACMAN] (pac-man). Every change it makes to Windows is recorded first and undone when AIMP closes, or on the next launch if something went wrong.
+A portable launcher for [AIMP](https://www.aimp.ru/), the music player with its own audio library, audio converter and tag editor, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Every change it makes to Windows is recorded first and undone when AIMP closes, or on the next launch if something went wrong.
 
 AIMP isn't included: its license only allows AIMP's original installer to be passed on. You add AIMP yourself, once (see [Adding AIMP](#adding-aimp)).
 

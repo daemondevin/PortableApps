@@ -1,6 +1,6 @@
 # WeBuilder Portable
 
-A portable launcher for [WeBuilder](https://www.webuilderapp.com/), the all-in-one code editor by Karlis Blumentals, built with the [PortableApps Compiler][PACMAN] (pac-man).
+A portable launcher for [WeBuilder](https://www.webuilderapp.com/), the all-in-one code editor by Karlis Blumentals, built with the [PortableApps Compiler][PACMAN] (PAC-MAN).
 
 WeBuilder is commercial software. The package doesn't include or handle a licence: register WeBuilder with your own licence from inside WeBuilder.
 

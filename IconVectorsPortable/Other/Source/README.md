@@ -2,7 +2,7 @@ IconVectors Portable v1.10 Released
 
 <!--more-->
 
-A portable launcher for [Axialis IconVectors](https://www.axialis.com/iconvectors/), the SVG icon editor, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps IconVectors' settings, your registration, palettes, icon packs and autosaved drawings in the package. Every change it makes to Windows is recorded first and undone when IconVectors closes, or on the next launch if something went wrong.
+A portable launcher for [Axialis IconVectors](https://www.axialis.com/iconvectors/), the SVG icon editor, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps IconVectors' settings, your registration, palettes, icon packs and autosaved drawings in the package. Every change it makes to Windows is recorded first and undone when IconVectors closes, or on the next launch if something went wrong.
 
  [PACMAN]: https://github.com/daemondevin/pac-man
 

@@ -1,6 +1,6 @@
 # Komodo Edit Portable
 
-A portable launcher for [Komodo Edit][KO], ActiveState's free multi-language code editor, built with the [PortableApps Compiler][PACMAN] (pac-man). Everything Komodo changes on the PC is recorded first and undone when Komodo closes, or on the next launch if something went wrong.
+A portable launcher for [Komodo Edit][KO], ActiveState's free multi-language code editor, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Everything Komodo changes on the PC is recorded first and undone when Komodo closes, or on the next launch if something went wrong.
 
 ActiveState has stopped developing Komodo; version 12 is the last release, and its source is on [GitHub](https://github.com/Komodo/KomodoEdit).
 

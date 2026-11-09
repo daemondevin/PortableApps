@@ -1,6 +1,6 @@
 # FL Studio Portable
 
-A portable launcher for [FL Studio](https://www.image-line.com/fl-studio/), the digital audio workstation by Image-Line, built with the [PortableApps Compiler][PACMAN] (pac-man). Every change it makes to Windows is recorded first and undone when FL Studio closes, or on the next launch if something went wrong.
+A portable launcher for [FL Studio](https://www.image-line.com/fl-studio/), the digital audio workstation by Image-Line, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Every change it makes to Windows is recorded first and undone when FL Studio closes, or on the next launch if something went wrong.
 
 The package doesn't include or handle FL Studio's licensing: use it with a copy of FL Studio you're licensed to run.
 

@@ -1,6 +1,6 @@
 # Inkscape Portable
 
-A portable launcher for [Inkscape](https://inkscape.org/), the vector graphics editor, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps Inkscape's profile, GTK's user files and font cache in the package, adds portable fonts and Ghostscript, and follows the PortableApps.com Platform's language. Every change it makes to Windows is recorded first and undone when Inkscape closes, or on the next launch if something went wrong.
+A portable launcher for [Inkscape](https://inkscape.org/), the vector graphics editor, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps Inkscape's profile, GTK's user files and font cache in the package, adds portable fonts and Ghostscript, and follows the PortableApps.com Platform's language. Every change it makes to Windows is recorded first and undone when Inkscape closes, or on the next launch if something went wrong.
 
 Inkscape is free software under the GNU GPL, by the Inkscape Project.
 

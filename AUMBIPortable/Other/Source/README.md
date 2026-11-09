@@ -1,6 +1,6 @@
 # AUMBI Portable
 
-A portable launcher for AUMBI (Absolute USB MultiBoot Installer) by Darwin Toledo, built with the [PortableApps Compiler][PACMAN] (pac-man). AUMBI makes USB drives that boot many Linux, Windows and rescue ISO files from one menu. It's based on YUMI and released under the GNU GPL version 2.
+A portable launcher for AUMBI (Absolute USB MultiBoot Installer) by Darwin Toledo, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). AUMBI makes USB drives that boot many Linux, Windows and rescue ISO files from one menu. It's based on YUMI and released under the GNU GPL version 2.
 
  [PACMAN]: https://github.com/daemondevin/pac-man
 

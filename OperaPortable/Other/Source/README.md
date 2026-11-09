@@ -1,6 +1,6 @@
 # Opera Portable
 
-A portable launcher for [Opera](https://www.opera.com/), built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps your Opera user data in the package, installs Opera from Opera's server on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Opera closes, or on the next launch if something went wrong.
+A portable launcher for [Opera](https://www.opera.com/), built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps your Opera user data in the package, installs Opera from Opera's server on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Opera closes, or on the next launch if something went wrong.
 
 Opera is a trademark of Opera Norway AS. This package isn't made or endorsed by Opera; it runs Opera's own, unmodified builds. Opera's license doesn't allow passing Opera on, which is why the package downloads it from Opera instead of including it, and using Opera means agreeing to [Opera's terms](https://legal.opera.com/terms).
 

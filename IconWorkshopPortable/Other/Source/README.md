@@ -1,6 +1,6 @@
 # Axialis IconWorkshop Portable
 
-A portable launcher for [Axialis IconWorkshop](https://www.axialis.com/iconworkshop/), the icon editor for Windows, macOS, web and mobile icons, cursors and toolbars, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps IconWorkshop's settings, your registration, templates, color swatches and the Librarian in the package, and follows the PortableApps.com Platform's language. Every change it makes to Windows is recorded first and undone when IconWorkshop closes, or on the next launch if something went wrong.
+A portable launcher for [Axialis IconWorkshop](https://www.axialis.com/iconworkshop/), the icon editor for Windows, macOS, web and mobile icons, cursors and toolbars, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps IconWorkshop's settings, your registration, templates, color swatches and the Librarian in the package, and follows the PortableApps.com Platform's language. Every change it makes to Windows is recorded first and undone when IconWorkshop closes, or on the next launch if something went wrong.
 
  [PACMAN]: https://github.com/daemondevin/pac-man
 

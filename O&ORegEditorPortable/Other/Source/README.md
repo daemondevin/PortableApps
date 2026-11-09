@@ -1,6 +1,6 @@
 # O&O RegEditor Portable
 
-A portable launcher for [O&O RegEditor](https://www.oo-software.com/en/ooregeditor), O&O Software's free registry editor: full-text search with a results list, favorites, an address bar that takes pasted key paths, and copying and moving of whole keys. It's built with the [PortableApps Compiler][PACMAN] (pac-man). Every change it makes to Windows is recorded first and undone when O&O RegEditor closes, or on the next launch if something went wrong.
+A portable launcher for [O&O RegEditor](https://www.oo-software.com/en/ooregeditor), O&O Software's free registry editor: full-text search with a results list, favorites, an address bar that takes pasted key paths, and copying and moving of whole keys. It's built with the [PortableApps Compiler][PACMAN] (PAC-MAN). Every change it makes to Windows is recorded first and undone when O&O RegEditor closes, or on the next launch if something went wrong.
 
 O&O RegEditor isn't included: O&O's license only allows it to be passed on unmodified and on its own, and counts packaging it in an installer or wrapper as a modification. You add it yourself, once (see [Adding O&O RegEditor](#adding-oo-regeditor)).
 

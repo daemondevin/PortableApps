@@ -1,6 +1,6 @@
 # Tabby Portable
 
-A portable launcher for [Tabby](https://tabby.sh/), the terminal, SSH, serial and Telnet client, built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps Tabby's settings, profiles and plugins in the package, installs Tabby from its GitHub releases on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Tabby closes, or on the next launch if something went wrong.
+A portable launcher for [Tabby](https://tabby.sh/), the terminal, SSH, serial and Telnet client, built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps Tabby's settings, profiles and plugins in the package, installs Tabby from its GitHub releases on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when Tabby closes, or on the next launch if something went wrong.
 
 Tabby is open source ([MIT license](https://github.com/Eugeny/tabby/blob/master/LICENSE)) by Eugene Pankov and contributors. The package downloads Tabby's own, unmodified portable builds.
 

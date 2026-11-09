@@ -1,6 +1,6 @@
 # VLC Media Player Portable
 
-A portable launcher for [VLC media player](https://www.videolan.org/vlc/), built with the [PortableApps Compiler][PACMAN] (pac-man). It keeps VLC's preferences, interface layout, recent media, media library, album art, extensions and skins in the package, keeps the language you pick there too, installs VLC from VideoLAN on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when VLC closes, or on the next launch if something went wrong.
+A portable launcher for [VLC media player](https://www.videolan.org/vlc/), built with the [PortableApps Compiler][PACMAN] (PAC-MAN). It keeps VLC's preferences, interface layout, recent media, media library, album art, extensions and skins in the package, keeps the language you pick there too, installs VLC from VideoLAN on the first launch and keeps it up to date itself. Every change it makes to Windows is recorded first and undone when VLC closes, or on the next launch if something went wrong.
 
 VLC is free software under the GNU GPL (version 2 or later), by VideoLAN. The package downloads VideoLAN's own, unmodified zips.
 
