@@ -40,6 +40,7 @@ What's here so far.
 | ISOrack Portable | Complete | |
 | Komodo Edit Portable | Complete | |
 | Komodo IDE Portable | Complete | |
+| LYNX SHARE Portable | Complete | |
 | Mozilla Firefox Portable | Launcher only | |
 | Notepad++ Portable | Launcher only | |
 | O&O Defrag Portable | Launcher only | |
