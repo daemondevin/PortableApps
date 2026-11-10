@@ -29,6 +29,7 @@ What's here so far.
 | Android Studio Portable | Launcher only | |
 | AUMBI Portable | Complete | |
 | Bearsampp Portable | Launcher only | Download Bearsampp from Bearsampp's GitHub releases |
+| BitLord Portable | Launcher only | |
 | Blender Portable | Launcher only | |
 | Emsisoft Emergency Kit Portable | Launcher only | Free for private use; get it from Emsisoft. It updates itself. |
 | FL Studio Portable | Launcher only | |

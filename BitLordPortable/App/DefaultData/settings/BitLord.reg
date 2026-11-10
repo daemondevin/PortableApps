@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\bitlord.com\BitLord]
+
+
+[HKEY_CURRENT_USER\Software\bitlord.com\BitLord\AdBlock]
+
+
+[HKEY_CURRENT_USER\Software\bitlord.com\BitLord\coreconfig]
+
+
+[HKEY_CURRENT_USER\Software\bitlord.com\BitLord\uiconfig]
+"close_to_tray"="false"
+"check_new_releases"="false"
+"associate_torrents"="false"
+"associate_magnets"="false"
+"check_associations"="false"
+"run_at_startup"="false"
+"ui_language"="en"
