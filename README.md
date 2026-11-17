@@ -103,13 +103,10 @@ My certificate is not one that Windows trusts out of the box, so the first time 
  
 If you trust my releases and want the warnings to go away, add my certificate to your certificate manager.
  
-1. **Download the certificate:** [daemon.devin certificate](https://envs.net/~daemondevin/portableapps/uploads/daemon.devin.p7b)
-2. **Check it is mine** before you trust it. Open the file, go to the **Details** tab and compare the **Thumbprint** with this one: `070f1dc3f30dd5da9beae822cf2de256b8ad434b`. If they differ, do not install it.
-3. Press **Win + R**, type `certmgr.msc` and press Enter. (This installs it for your account only. Use `certlm.msc` to install it for every user on the PC, which needs administrator rights.)
-4. Open **Trusted Root Certification Authorities**, right-click **Certificates**, choose **All Tasks → Import**, and pick the file I gave you.
-5. Repeat the import into **Trusted Publishers**.
-6. Run one of my launchers. The unknown publisher warning should be gone.
-A few honest notes:
+1. **Download the certificate:** [daemon.devin's certificate](https://devin.lovestoblog.com//portableapps/uploads/daemon.devin.crt)
+2. **Check it is mine** before you trust it. Open the file, go to the **Details** tab and compare the **Thumbprint** with this one: `fe7c453fe795dc856dab43b53f6cef741da9cb92`. If they differ, do not install it.
+3. In **Command Prompt**, enter `certutil -addstore -f Root path\to\daemon.devin.crt`
+4. Run one of my launchers. The unknown publisher warning should be gone.
  
 - **Only do this if you trust me.** A certificate in your trusted store tells Windows to believe whatever is signed with it. That is the whole idea, and it is also why you should check the thumbprint and not take a certificate from anyone else's page.
 - **You can undo it any time.** Open the same store, find my certificate, and delete it.
